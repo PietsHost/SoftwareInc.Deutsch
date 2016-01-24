@@ -7,3 +7,6 @@ Installation:
 Das Verzeichnis "Deutsch" in das Spielverzeichnis "Software Inc\Localization" verschieben
 
 Im Spiel kann dann Deutsch oben links ausgewählt werden.
+
+
+Forum: http://softwareinc.coredumping.com/forum/index.php?topic=499.0
