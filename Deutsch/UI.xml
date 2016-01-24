@@ -143,10 +143,10 @@
 		<Item Name="Reputation">Ansehen / Ruf</Item>
 		<Item Name="Bankrupt">bankrott</Item>
 		<Item Name="Founded">gegründet</Item>
-		<Item Name="ProDucts">Produkte</Item>
+		<Item Name="Products">Produkte</Item>
 		<Item Name="Chart">Grafik</Item>
 		<Item Name="Stock">Aktien</Item>
-		<Item Name="ProDucts">Produkte</Item>
+		<Item Name="Products">Produkte</Item>
 		<Item Name="Owner">Eigentümer</Item>
 		<Item Name="Share">Anteile</Item>
 		<Item Name="Change">Veränderung</Item>
@@ -182,7 +182,7 @@
 		<Item Name="Game date">Spieltermin</Item>
 		<Item Name="Date">Datum</Item>
 		<Item Name="Money">Geld</Item>
-		<Item Name="ProDucts">Produkte</Item>
+		<Item Name="Products">Produkte</Item>
 		<Item Name="Employees">Mitarbeiter</Item>
 		<Item Name="Enabled">aktivieren</Item>
 		<Item Name="Toggle">klick</Item>
@@ -200,7 +200,7 @@
 	</Columns>
 	<WindowTitles>
 		<Item Name="Design document">Design-Dokument</Item>
-		<Item Name="ProDucts">Produkte</Item>
+		<Item Name="Products">Produkte</Item>
 		<Item Name="Finances">Finanzen</Item>
 		<Item Name="Companies">Unternehmen</Item>
 		<Item Name="Contract work">Aufträge</Item>
@@ -969,7 +969,7 @@ Rechtsklick um abzubrechen.</Item>
 		<Item Name="MissingToiletWarning">Ein Mitarbeiter hat Probleme die Toilette zu finden.</Item>
 		<Item Name="ServerLoadWarning">Der Server ist überlastet. Wir benötigen mehr Leistung.</Item>
 		<Item Name="ServerItemLoadWarning">Der Server ist mit {0} überfordert. Wir benötigen mehr Leistung.</Item>
-		<Item Name="BoughtOutProDucts">Du erhälst die Rechte an {0} Produkten</Item>
+		<Item Name="BoughtOutProducts">Du erhälst die Rechte an {0} Produkten</Item>
 		<Item Name="LowCompatWarning">Team {0} hat eine niedrige Kompatibilität</Item>
 		<Item Name="ContractIncomeMsg">{0} fürs annehmen des Auftrages.</Item>
 		<Item Name="VSyncWarning">Längeres Spielen ohne VSync kann deine Grafikkarte beschädigen und zu überhitzung führen.
