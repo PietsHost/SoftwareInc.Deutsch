@@ -96,16 +96,16 @@
 		<Item Name="WireMode">Server Verbindungen aus/einblenden</Item>
 		<Item Name="WireModeDesc">Hiermit kannst Du deine Server miteinander verbinden, sowie die Verbindungen ein und ausblenden.</Item>
 		<Item Name="Dataoverlay">Data overlay</Item>
-		<Item Name="DataoverlayDesc">Click here to make room color reflect the current status of the room</Item>
+		<Item Name="DataoverlayDesc">Hier klicken um den aktuellen Status des Zimmers in Farbe zu reflektieren</Item>
 		<Item Name="BuildMode">Bau Modus</Item>
-		<Item Name="BuildModeDesc">Hier kannst Du denn Bau Modus ein und aus schalten, um deine Büroräume zu erstellen.</Item>
+		<Item Name="BuildModeDesc">Hier kannst Du den Bau Modus ein- und ausschalten, um deine Büroräume zu erstellen.</Item>
 		<Item Name="Monthly profits">Monatliche Gewinne</Item>
 		<Item Name="SkipTime">Zeit überspringen</Item>
 		<Item Name="SkipTimeDesc">Wenn niemand da ist kannst Du die Zeit überspringen, bis jemand kommt.</Item>
 		<Item Name="Contruct">Bauen</Item>
 		<Item Name="ContructHint">Baue Räume, Türen, Aufzüge und Fenster</Item>
 		<Item Name="Furnish">Möbel</Item>
-		<Item Name="FurnishHint">Dekoriere deine Räume mit Möbel damit deine Mitarbeiter sich wohl fühlen.</Item>
+		<Item Name="FurnishHint">Dekoriere deine Räume mit Möbel damit Deine Mitarbeiter sich wohl fühlen.</Item>
 		<Item Name="Roads">Straßen</Item>
 		<Item Name="RoadsHint">Baue Straßen und Parkplätze damit deine Mitarbeiter schneller zum Arbeitsplatz kommen.</Item>
 	</MainPanel>
@@ -135,7 +135,7 @@
 		<Item Name="Popularity">Beliebtheit</Item>
 		<Item Name="License">Lizenz</Item>
 		<Item Name="Profit">Profit</Item>
-		<Item Name="Open source">Open source</Item>
+		<Item Name="Open source">Open Source</Item>
 		<Item Name="Loss">Verlust</Item>
 		<Item Name="Market">Marketing</Item>
 		<Item Name="Details">Details</Item>
@@ -275,9 +275,9 @@
 	</DesignWindow>
 	<AutoWindow>
 		<Item Name="Project management">Projektmanagement</Item>
-		<Item Name="ProjectManagementHint">Der Teamleiter muss einen Kurs in Projektmanagement absolvieren um diese Funktion zu aktivieren.</Item>
+		<Item Name="ProjectManagementHint">Der Teamleiter muss einen Kurs in Projektmanagement absolvieren um diese Funktion aktivieren zu können.</Item>
 		<Item Name="HR management">HR-Management</Item>
-		<Item Name="HRManagementHint">Der Teamleiter muss einen Kurs in Personalmanagement absolvieren um diese Funktion zu aktivieren.</Item>
+		<Item Name="HRManagementHint">Der Teamleiter muss einen Kurs in Personalmanagement absolvieren um diese Funktion aktivieren zu können.</Item>
 		<Item Name="HR management">HR-Management</Item>
 		<Item Name="Dev budget">Dev-Budget</Item>
 		<Item Name="Marketing budget">Marketing-Budget</Item>
@@ -511,7 +511,7 @@
 		<Item Name="HasToPeeWarning">Ein Mitarbeiter muss auf die Toilette und kann sich deswegen nicht auf seine Arbeit konzentrieren.</Item>
 		<Item Name="WornOutWarning">Ein Mitarbeiter ist müde und möchte nicht mehr arbeiten.</Item>
 		<Item Name="FreezingWarning">Ein Mitarbeiter friert. Baue mehr Heizungen, damit die Räume wärmer sind.</Item>
-		<Item Name="BurningWarning">Einem Mitarbeiter ist es hier zu Warm.</Item>
+		<Item Name="BurningWarning">Einem Mitarbeiter ist es hier zu warm.</Item>
 		<Item Name="NoSeeWarning">Ein Mitarbeiter ist im Dunkeln gestolpert. Du benötigst mehr Licht.</Item>
 		<Item Name="RoomDirtyWarning">Ein Mitarbeiter ist angewidert von seinem Büro.</Item>
 		<Item Name="RoomDirtyWarning2">Ein Raum ist schmutzig und benötigt eine Reinigungskraft.</Item>
@@ -587,7 +587,7 @@ Entschuldige die Unannehmlichkeiten.</Item>
 		<Item Name="NoStockInterest">Niemand interessiert sich für diese Menge an Aktien.</Item>
 		<Item Name="NoStockInterestTitle">Entschuldige</Item>
 		<Item Name="StockWatError">Du kannst dein ganzes Unternehmen nicht verkaufen.</Item>
-		<Item Name="StockRepLow">Dein Ruf ist zu gering, um mit Aktien Handeln zu können.</Item>
+		<Item Name="StockRepLow">Dein Ruf ist zu gering, um mit Aktien handeln zu können.</Item>
 		<Item Name="HRNoRooms">Du hast HR-Management aktiviert, für ein Team, dass kein Büro zur Verfügung hat.
 Erstelle für dein Team ein eigenes Büro damit sie ihre Arbeit machen können.</Item>
 		<Item Name="DesignProductNameError">Ein Produkt mit diesem Namen existiert bereits.</Item>
@@ -620,7 +620,7 @@ Möchtest Du {1} von deinem Versicherungskonto abheben, um zu vermeiden bankrott
 Möchtest Du deine Aktien im Wert von {1} verkaufen, um zu vermeiden bankrott zu gehen?</Item>
 		<Item Name="BankruptLoan">Du hast {0} auf deinem Konto.
 Möchtest Du ein Darlehn bei der Bank in Höhe von {1} beantragen, um zu vermeiden bankrott zu gehen?</Item>
-		<Item Name="BankruptLoseMsg">Du bist bankrott mit {0} auf deinem Konto.</Item>
+		<Item Name="BankruptLoseMsg">Du bist mit {0} auf deinem Konto bankrott gegangen.</Item>
 	</Dialogs>
 	<FurnitureInfo>
 		<Item Name="Currently used by">Aktuell benutzt von</Item>
@@ -724,7 +724,7 @@ Möchtest Du ein Darlehn bei der Bank in Höhe von {1} beantragen, um zu vermeid
 		<Item Name="NoBugs">Keine Fehler zum Beheben.</Item>
 		<Item Name="StillBugs">{0} Fehler behoben</Item>
 		<Item Name="ContractState">{0} Monat(e) - Ziel: {1}%</Item>
-		<Item Name="ReleaseMarketingHint">Möchtest Du  die Werbung für {0} starten?
+		<Item Name="ReleaseMarketingHint">Möchtest Du die Werbung für {0} starten?
 Werbung ist entscheidend für den Erfolg deiner Produkte
 Du kannst nach der Veröffentlichung eines Produkts jederzeit eine Marketingkampagne starten, durch Anklicken des Buttons "Meine Veröffentlichungen"</Item>
 	</WorkItems>
@@ -756,7 +756,7 @@ Du kannst nach der Veröffentlichung eines Produkts jederzeit eine Marketingkamp
 		<Item Name="ProductDetailLeftText">Name: {0}
 Firma: {1}({2})
 Typ: {4} {3}
-Open-Source: {5}
+Open Source: {5}
 Im Haus: {6}
 Release Datum: {7}</Item>
 		<Item Name="ProductDetailRightText">Qualität: {0}
@@ -861,13 +861,13 @@ Rechtsklick um abzubrechen.</Item>
 	<Item Name="Color">Farbe</Item>
 	<Item Name="NetProfit">Reingewinn</Item>
 	<Alpha4.1>
-		<Item Name="AreYouSure">Bist Du sicher, dass Du das möchtest</Item>
+		<Item Name="AreYouSure">Bist Du sicher, dass Du das möchtest?</Item>
 		<Item Name="MarketingWindowTitle">Marketing für {0}</Item>
 		<Item Name="PreMarketingWindowTitle">Pre-Marketing für {0}</Item>
 		<Item Name="MarketingStop">Ende</Item>
 		<Item Name="On market">am Markt</Item>
 		<Item Name="Inventor">Erfinder</Item>
-		<Item Name="CustomLeaderHint">Erhöht die Fähigkeit, ein Team zusammen zu bringen, steigert deine Statistiken und Management Aufgaben.</Item>
+		<Item Name="CustomLeaderHint">Erhöht die Fähigkeit, ein Team zusammen zu bringen. Steigert deine Statistiken und Management Aufgaben.</Item>
 		<Item Name="CustomProgrammerHint">Erhöht die Schnelligkeit und Qualität deiner Programmierer und verbessert das beheben von Fehlern.</Item>
 		<Item Name="CustomDesignerHint">Erhöht die Schnelligkeit in fertigstellen von Projektarbeiten der Mitarbeiter und verhindert das die Arbeit gestoppt wird wenn sie zu komplex wird. </Item>
 		<Item Name="CustomArtistHint">Erhöht die Schnelligkeit und Qualität deines Künstlers und verbessert das beheben von Schwachstellen.</Item>
@@ -1024,10 +1024,10 @@ Jahre in der Firma: {4}</Item>
 		<Item Name="Accept demand">akzeptiere Forderung</Item>
 		<Item Name="Fire employee">Mitarbeiter entlassen</Item>
 		<Item Name="PrematureDelayWarning">Bist Du dir sicher, dass Du die Alpha-Phase beenden möchtest?
-Das vorzeigte Beenden der Alpha-Phase kann während der Beta-Phase zu zusätzlichen Fehler führen.</Item>
+Das vorzeigte Beenden der Alpha-Phase kann während der Beta-Phase zu zusätzlichen Fehlern führen.</Item>
 	</Alpha4.6>
 	<Alpha4.7>
-			<Item Name="DesignProductTeamSizeHintLarge">Dein gewähltes Team ist ziemlich groß für dieses Projekt.
+			<Item Name="DesignProductTeamSizeHintLarge">Dein gewähltes Team ist für dieses Projekt ziemlich groß.
 Bist Du sicher das Du fortfahren möchtest?</Item>
 			<Item Name="CloneComplexityWarning">Das Kopieren von zu vielen Gegenständen kann dein Computer stark belasten.
 Bist Du sicher das Du fortfahren möchtest?</Item>
@@ -1076,7 +1076,7 @@ Du benötigst eine Empfangsdame um Angebote zu erhalten.</Item>
 		<Item Name="Guest">Gast</Item>
 		<Item Name="Hire Receptionist">Rezeptionist einstellen</Item>
 		<Item Name="CompanyNameWarning">Du hast keinen Firmennamen angegeben.
-Bist Du sicher das Du fortfahren möchtest?</Item>
+Bist Du sicher, dass Du fortfahren möchtest?</Item>
 		<Item Name="ActionConnectServers">Verbundene Server</Item>
 		<Item Name="WireMode">Kabelmodus</Item>
 		<Item Name="GuestCompany">{0} im Auftrag von {1}</Item>
@@ -1108,7 +1108,7 @@ Tut mir sehr Leid für die Unannehmlichkeiten.</Item>
 		<Item Name="Save picture">Bild speichern</Item>
 		<Item Name="Tweet picture">Bild twittern</Item>
 		<Item Name="TwitterDesc">Was willst Du der Welt erzählen?</Item>
-		<Item Name="DefaultTweet">Look at my software empire! #SoftwareInc</Item>
+		<Item Name="DefaultTweet">Schau dir mein Software-Imperium an! #SoftwareInc</Item>
 		<Item Name="Enter pin">Pin eingeben</Item>
 		<Item Name="TweetError">Bei dem Versucht dein Bild bei Twitter zu posten, ist ein Fehler aufgetreten.</Item>
 		<Item Name="SteamImgQ">Möchtest Du diesen Screenshot in deinem Steam Account speichern?</Item>
@@ -1147,7 +1147,7 @@ Gültig bis: {3}</Item>
 		<Item Name="HalveGridSize">Rastergröße -</Item>
 		<Item Name="ChangeGridAnchor">Raster um ein Objekt</Item>
 		<Item Name="ResetGrid">Raster zurücksetzen</Item>
-		<Item Name="ActionMergeRooms">Zusammenführen von Zimmern</Item>
+		<Item Name="ActionMergeRooms">Räume verbinden</Item>
 		<Item Name="Turn furniture clockwise">Möbel im Uhrzeigersinn drehen</Item>
 		<Item Name="Turn furniture counter clockwise">Möbel gegen den Uhrzeigersinn drehen</Item>
 		<Item Name="Grid">Raster</Item>
@@ -1215,9 +1215,9 @@ Rente pro Mitarbeiter: {2}</Item>
 	</Alpha6.21>
 	<Alpha6.22>
 		<Item Name="FurnitureInLimitRoomWarning">Ein Mitarbeiter wurde (n) {0} zu einem Raum zugewiesen, den der Mitarbeiter nicht betreten darf</Item>
-		<Item Name="EmployeeArtWorkWarning">{0} arbeitet an der Gestaltung für {1}, jedoch nicht dafür ausgebildet. Dies könnte die Abgabe verzögern oder die Gestaltung ruinieren.</Item>
-		<Item Name="EmployeeProgrammingWorkWarning">{0} ist Programmierer für {1}, jedoch nicht dafür ausgebildet. Dies könnte die Abgabe verzögern und Fehler hinzufügen.</Item>
-		<Item Name="EmployeeDesignWorkWarning">{0} ist Designer für {1}, jedoch nicht dafür ausgebildet. Dies könnte die Abgabe verzögern oder Fehler hinzufügen.</Item>
+		<Item Name="EmployeeArtWorkWarning">{0} arbeitet an der Gestaltung für {1}, ist jedoch nicht dafür ausgebildet. Dies könnte die Abgabe verzögern oder die Gestaltung ruinieren.</Item>
+		<Item Name="EmployeeProgrammingWorkWarning">{0} ist Programmierer für {1}, ist jedoch nicht dafür ausgebildet. Dies könnte die Abgabe verzögern und Fehler hinzufügen.</Item>
+		<Item Name="EmployeeDesignWorkWarning">{0} ist Designer für {1}, ist jedoch nicht dafür ausgebildet. Dies könnte die Abgabe verzögern oder Fehler hinzufügen.</Item>
 		<Item Name="RoadBusSignError">Du kannst keine Straße vor der Bushaltestelle bauen.</Item>
 	</Alpha6.22>
 	<Alpha7.1>
@@ -1246,9 +1246,9 @@ Rente pro Mitarbeiter: {2}</Item>
 		<Item Name="Reflections">Reflektionen</Item>
 		<Item Name="ActionChange Room Team">Team wechseln</Item>
 		<Item Name="Screen Space Reflections">Spiegelnde Oberflächen reflektieren</Item>
-		<Item Name="SSRHint">Makes most shiny surfaces reflect their surroundings (Requires a high-end graphics card)</Item>
+		<Item Name="SSRHint">Reflektiert die meisten glänzenden Oberflächen auf die Umgebung (Benötigt eine High-End Grafikkarte)</Item>
 		<Item Name="Please wait">Bitte warten</Item>
-		<Item Name="PicTakingError">Error taking picture. Please pick a smaller resolution.</Item>
+		<Item Name="PicTakingError">Fehler. Bite wähle eine niedrigere Auflösung.</Item>
 		<Item Name="Performance tip">Performance Tipp</Item>
 		<Item Name="Hover for details">Hover für Details</Item>
 		<Item Name="PerformanceTipDetail">The performance of most of the effects depend on your screen resolution and not the complexity of the objects on the screen. SSAA will double the performance impact of most of the effects.</Item>
@@ -1257,7 +1257,7 @@ Rente pro Mitarbeiter: {2}</Item>
 		<Item Name="High">Hoch</Item>
 		<Item Name="Low">Niedrig</Item>
 		<Item Name="DevMarketingHint">Möchtest Du jetzt eine Kampagne für {0} starten?
-Marketing your product while it is under development will generate hype, which affects your launch sales and your competitors</Item>
+Marketing während dein Produkt in der Entwicklung ist, generiert einen Hype, der die Verkäufe und Mitbewerber beeinflusst</Item>
 		<Item Name="MarketingError">Es gibt bereits Marketingkampagnen für dieses Produkt</Item>
 		<Item Name="KeyBindingWarning">"{0}" ist bereits an "{1}" gebunden, möchtest Du es wirklich neu binden?</Item>
 		<Item Name="Request">Antrag</Item>
@@ -1272,15 +1272,15 @@ Marketing your product while it is under development will generate hype, which a
 Name: {0}
 Typ: {1}
 Kategorie: {2}</Item>
-		<Item Name="OldSaveGameError">The game you tried to load was from an older version of Software Inc. ({0}), which is no longer compatible with the version you are using ({1})</Item>
+		<Item Name="OldSaveGameError">Das Spiel, dass Du versucht hast zu laden stammt aus einer älteren Version von Software Inc. ({0}), die nicht mehr Unterstützt wird. Du nutzt ({1})</Item>
 	</Alpha7.1>
 	<Alpha7.2>
 		<Item Name="FXAA">FXAA</Item>
 		<Item Name="FXAADetails">Schnelles Anti-Aliasing, Basis Anti-Aliasing. Reduziert pixelige Kanten</Item>
 		<Item Name="SMAA">SMAA</Item>
-		<Item Name="SMAADetails">Subpixel Morphological Anti-Aliasing, more advanced anti-aliasing. Keeps edges from looking pixelated</Item>
-		<Item Name="SMAADetailsError">Subpixel Morphological Anti-Aliasing, not supported on DirectX9</Item>
-		<Item Name="SSAADetails">Super-Sampling Anti-Aliasing. Renders the game in higher resolution to smooth out edges as much as possible (Requires a high-end graphics card)</Item>
+		<Item Name="SMAADetails">Subpixel Morphological Anti-Aliasing, erweitertes Anti-Aliasing. Verhindert verpixelte Kanten</Item>
+		<Item Name="SMAADetailsError">Subpixel Morphological Anti-Aliasing, nicht unterstützt unter DirectX 9</Item>
+		<Item Name="SSAADetails">Super-Sampling Anti-Aliasing. Rendert das Spiel in höherer Azflösung um die Kanten noch feiner darzustellen (Benötigt High-End Grafikkarte)</Item>
 		<Item Name="WorkItemCancelConf">Möchtest Du {0} wirklich abbrechen?</Item>
 		<Item Name="Shadow quality">Schattenqualität</Item>
 		<Item Name="Units sold">Verkaufte Einheiten</Item>
