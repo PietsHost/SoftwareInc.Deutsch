@@ -1,7 +1,7 @@
 <Furniture>
 	<Furniture Name="Elevator">
 		<Name>Aufzug</Name>
-		<Description>Setze Azfzüge in verschiedenen Etage übereinander um diese zu Verbinden</Description>
+		<Description>Setze Aufzüge in verschiedenen Etage übereinander um diese zu Verbinden</Description>
 	</Furniture>
 	<Furniture Name="Table">
 		<Name>Tisch</Name>
