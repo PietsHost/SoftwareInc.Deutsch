@@ -17,7 +17,7 @@
 	</Furniture>
 	<Furniture Name="3m End Table">
 		<Name>3m Beistelltisch</Name>
-		<Description>Noch ein bisschen Runder</Description>
+		<Description>Noch ein bisschen runder</Description>
 	</Furniture>
 	<Furniture Name="Cheap Chair">
 		<Name>Günstiger Stuhl</Name>
@@ -81,7 +81,7 @@
 	</Furniture>
 	<Furniture Name="Lamp">
 		<Name>Lampe</Name>
-		<Description>Stelle sicher, dass Deiner Mitarbeiter etwas sehen, wenn sie zu später Stunde arbeiten oder wenn Sie nicht durch Fenster gestört werden sollen</Description>
+		<Description>Stelle sicher, dass deine Mitarbeiter etwas sehen, wenn sie zu später Stunde arbeiten oder wenn Sie nicht durch Fenster gestört werden sollen</Description>
 	</Furniture>
 	<Furniture Name="Wall Lamp">
 		<Name>Wandleuchte</Name>
@@ -93,7 +93,7 @@
 	</Furniture>
 	<Furniture Name="Floor Lamp">
 		<Name>Stehlampe</Name>
-		<Description>Erzeugt Licht, verbraucht jedoch Platz</Description>
+		<Description>Erzeugt Licht, steht jedoch im Weg</Description>
 	</Furniture>
 	<Furniture Name="Fridge">
 		<Name>Kühlschrank</Name>
@@ -169,7 +169,7 @@
 	</Furniture>
 	<Furniture Name="Calculator">
 		<Name>Taschenrechner</Name>
-		<Description>Taschenrechner sind die besten Freunde für Programmierer</Description>
+		<Description>Der beste Freund des Programmierers</Description>
 	</Furniture>
 	<Furniture Name="Inbox">
 		<Name>Posteingang</Name>
