@@ -204,18 +204,18 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 	</Software>
 	<Software Name="Webbased Game">
 		<Name>Browsergame</Name>
-		<Description>Webbased games are not bound to any operating system, but suffer the conequences of not being able to fully utilize the underlying system.</Description>
+		<Description>Browsergames sind an kein Betriebssystem gebunden, wodurch Du nicht in der Lage bist, das zugrunde liegende System in vollem Umfang zu nutzen.</Description>
 		<Features>
 			<Feature Name="HTML based">
-				<Name>HTML based</Name>
-				<Description>Spreadsheet games! Yaaay!</Description>
+				<Name>HTML basiert</Name>
+				<Description>Spreadsheet-Spiele! Yaaay!</Description>
 			</Feature>
 			<Feature Name="2D graphics">
 				<Name>2D Grafik</Name>
 			</Feature>
 			<Feature Name="3D graphics">
 				<Name>3D Grafik</Name>
-				<Description>Add that third dimension to your webgame.</Description>
+				<Description>Fügt eine dritte Dimension zu deinem Browsergame hinzu.</Description>
 			</Feature>
 			<Feature Name="Music">
 				<Name>Musik</Name>
@@ -227,55 +227,55 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 		<Categories>
 			<Category Name="RPG">
 				<Name>RPG</Name>
-				<Description>Role Playing Game</Description>
+				<Description>Rollenspiel</Description>
 			</Category>
 			<Category Name="Adventure">
 				<Name>Adventure</Name>
 			</Category>
 			<Category Name="Simulation">
 				<Name>Simulation</Name>
-				<Description>You're playing one!</Description>
+				<Description>Du spielst gerade eine!</Description>
 			</Category>
 			<Category Name="Sports">
 				<Name>Sport</Name>
 			</Category>
 			<Category Name="RTS">
 				<Name>RTS</Name>
-				<Description>Real Time Strategy</Description>
+				<Description>Echtzeitstrategie</Description>
 			</Category>
 		</Categories>
 	</Software>
 	<Software Name="Antivirus">
 		<Name>Antivirus</Name>
-		<Description>Protecting computers from digital troublemakers since it became profitable to do so.</Description>
+		<Description>Schützt Computer vor digitalen Störenfrieden, da es profitabel erscheint dies zu tun.</Description>
 		<Features>
 			<Feature Name="File scan">
 				<Name>Dateiscan</Name>
 			</Feature>
 			<Feature Name="User interface">
 				<Name>Benutzeroberfläche</Name>
-				<Description>Make it easy for the user to manage their virus handling</Description>
+				<Description>Machen es für den Benutzer einfacher, die Viren zu verwalten</Description>
 			</Feature>
 			<Feature Name="Firewall">
 				<Name>Firewall</Name>
 			</Feature>
 			<Feature Name="Background scan">
 				<Name>Hintergrundscan</Name>
-				<Description>Scan for viruses in the background causing hilarious file locks randomly</Description>
+				<Description>Der Hintergrundscan auf Viren verursacht Dateisperren nach dem Zufallsprinzip</Description>
 			</Feature>
 			<Feature Name="Mail scan">
 				<Name>E-Mail Scan</Name>
-				<Description>There's always room for enlargement</Description>
+				<Description>Es gibt immer Raum für Erweiterungen</Description>
 			</Feature>
 			<Feature Name="Virus database">
 				<Name>Virus Datenbank</Name>
-				<Description>Automagically keep your user's virus definitions up to date</Description>
+				<Description>Virusdefinitionen des Benutzers automatisch auf dem neuesten Stand halten</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="Logistics Application">
-		<Name>Logistics Application</Name>
+		<Name>Logistik Anwendung</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Commandline">
@@ -320,10 +320,10 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 		<Description></Description>
 		<Features>
 			<Feature Name="2D art">
-				<Name>2D art</Name>
+				<Name>2D Kunst</Name>
 			</Feature>
 			<Feature Name="User interface graphics">
-				<Name>User interface graphics</Name>
+				<Name>Benutzeroberflächen-Grafiken</Name>
 			</Feature>
 			<Feature Name="Sound effects">
 				<Name>Sound Effekte</Name>
