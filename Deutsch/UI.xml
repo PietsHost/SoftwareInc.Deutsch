@@ -813,7 +813,7 @@ Rechtsklick um abzubrechen.</Item>
 	<Item Name="Load">Last</Item>
 	<Item Name="Apply">anwenden</Item>
 	<Item Name="New team">neues Team</Item>
-	<Item Name="Team name">Team Name</Item>
+	<Item Name="Team name">Teamname</Item>
 	<Item Name="Enable">aktivieren</Item>
 	<Item Name="Accept work">Auftrag annehmen</Item>
 	<Item Name="Specialization">Spezialisierung</Item>
@@ -1093,7 +1093,7 @@ Der Durchschnittswert {0}, erhöht sich auf {1} pro Monat</Item>
 		<Item Name="FurnitureQueue">{0} Mitarbeiter/in warten</Item>
 		<Item Name="Upcoming events">kommende Veranstaltungen</Item>
 		<Item Name="UpcomingEvDesc">Übersicht der Veranstaltungen im nächsten Monat. Das Symbol leuchtet Rot bei wichtigen Veranstaltungen.</Item>
-		<Item Name="RetireEventMsg">{0} aus der Gruppe {1} geht nächsten Monat in Rente, nach {2} für {3} Jahre.</Item>
+		<Item Name="RetireEventMsg">{0} aus der Gruppe {1} geht nächsten Monat in Rente. Bei {2} hat er/sie {3} Jahre gearbeitet.</Item>
 		<Item Name="VacationEventMsg1">{0} haben nächsten Monat Urlaub geplant. {1} Mitarbeiter haben noch Urlaub.</Item>
 		<Item Name="VacationEventMsg2">Keine Gruppe hat nächsten Monat Urlaub geplant. {0} Mitarbeiter haben noch Urlaub.</Item>
 		<Item Name="ReleaseEventMsg">{0} plant ein Produkt vom Typ {1} Namens "{2}" nächsten Monat zu veröffentlichen.</Item>
@@ -1245,7 +1245,7 @@ Rente pro Mitarbeiter: {2}</Item>
 		<Item Name="Bandwidth">Bandbreite</Item>
 		<Item Name="Reflections">Reflektionen</Item>
 		<Item Name="ActionChange Room Team">Team wechseln</Item>
-		<Item Name="Screen Space Reflections">Spiegelnden Oberflächen reflektieren</Item>
+		<Item Name="Screen Space Reflections">Spiegelnde Oberflächen reflektieren</Item>
 		<Item Name="SSRHint">Makes most shiny surfaces reflect their surroundings (Requires a high-end graphics card)</Item>
 		<Item Name="Please wait">Bitte warten</Item>
 		<Item Name="PicTakingError">Error taking picture. Please pick a smaller resolution.</Item>
