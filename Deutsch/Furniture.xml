@@ -85,7 +85,7 @@
 	</Furniture>
 	<Furniture Name="Wall Lamp">
 		<Name>Wandleuchte</Name>
-		<Description>Wie eine Stehleuchte, nur dass Sie keinen Platz weg nimmt und an der Wand hängt</Description>
+		<Description>Wie eine Stehleuchte, nur dass sie keinen Platz wegnimmt und an der Wand hängt</Description>
 	</Furniture>
 	<Furniture Name="Desk Lamp">
 		<Name>Schreibtischlampe</Name>
