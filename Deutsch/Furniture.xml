@@ -8,7 +8,7 @@
 		<Description>Stelle Dinge drauf und Stühle drum herum</Description>
 	</Furniture>
 	<Furniture Name="Glass Table">
-		<Name>Glas Tisch</Name>
+		<Name>Glastisch</Name>
 		<Description>Genieß die Ansicht deiner Füße während der Arbeit</Description>
 	</Furniture>
 	<Furniture Name="2m End Table">
@@ -25,7 +25,7 @@
 	</Furniture>
 	<Furniture Name="Office Chair">
 		<Name>Bürostuhl</Name>
-		<Description>Guter, gepolstet Stuhl, jedoch ohne Rollen</Description>
+		<Description>Guter, gepolsteter Stuhl, jedoch ohne Rollen</Description>
 	</Furniture>
 	<Furniture Name="Waiting Chairs">
 		<Name>Wartestühle</Name>
@@ -65,11 +65,11 @@
 	</Furniture>
 	<Furniture Name="90s Computer">
 		<Name>90er Computer</Name>
-		<Description></Description>
+		<Description>Die Rechenleistung eines Taschenrechners verteilt auf das Volumen von 2 Bierkästen</Description>
 	</Furniture>
 	<Furniture Name="Laptop">
 		<Name>Laptop</Name>
-		<Description></Description>
+		<Description>Es rechnet, es ist mobil, es hat eine Anzeige, quasi der Tschenrechner für Große</Description>
 	</Furniture>
 	<Furniture Name="Modern Computer">
 		<Name>Moderner Computer</Name>
@@ -85,7 +85,7 @@
 	</Furniture>
 	<Furniture Name="Wall Lamp">
 		<Name>Wandleuchte</Name>
-		<Description></Description>
+		<Description>Wie eine Stehleuchte, nur dass Sie keinen Platz weg nimmt und an der Wand hängt</Description>
 	</Furniture>
 	<Furniture Name="Desk Lamp">
 		<Name>Schreibtischlampe</Name>
@@ -100,7 +100,7 @@
 		<Description>Kühlschrank</Description>
 	</Furniture>
 	<Furniture Name="Instant Coffee">
-		<Name>Pulverkaffeee</Name>
+		<Name>Pulverkaffee</Name>
 		<Description>Du gießt etwas braunes Pulver in heißes Wasser und das bewirkt, dass du wacher wirst</Description>
 	</Furniture>
 	<Furniture Name="Coffee">
@@ -121,7 +121,7 @@
 	</Furniture>
 	<Furniture Name="TV">
 		<Name>TV</Name>
-		<Description></Description>
+		<Description>Zeigt dir was in der Welt so passiert, sehr hilfreich um nicht mit anderen reden zu müssen</Description>
 	</Furniture>
 	<Furniture Name="Bookshelf">
 		<Name>Bücherregal</Name>
@@ -129,7 +129,7 @@
 	</Furniture>
 	<Furniture Name="Reception desk">
 		<Name>Rezeption</Name>
-		<Description></Description>
+		<Description>Nötig um Auftrage entgegen zu nehmen.</Description>
 	</Furniture>
 	<Furniture Name="Floor Plant">
 		<Name>Bodenpflanze</Name>
