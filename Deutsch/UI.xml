@@ -93,8 +93,8 @@
 		<Item Name="HideLampsDesc">Blendet Lampen ein/aus für eine bessere Übersicht.</Item>
 		<Item Name="RoomLabels">Raumbeschreibung aus/ein blenden</Item>
 		<Item Name="RoomLabelsDesc">Blendet die Raumbeschreibungen für eine besser Übersicht ein/aus.</Item>
-		<Item Name="WireMode">Server verbinDungen aus/ein blenden</Item>
-		<Item Name="WireModeDesc">Hiermit kannst Du deine Server miteinander verbinden, sowie die VerbinDungen ein und ausblenden.</Item>
+		<Item Name="WireMode">Server Verbindungen aus/ein blenden</Item>
+		<Item Name="WireModeDesc">Hiermit kannst Du deine Server miteinander verbinden, sowie die Verbindungen ein und ausblenden.</Item>
 		<Item Name="Dataoverlay">Data overlay</Item>
 		<Item Name="DataoverlayDesc">Click here to make room color reflect the current status of the room</Item>
 		<Item Name="BuildMode">Baumodus</Item>
@@ -112,7 +112,7 @@
 	<Columns>
 		<Item Name="Name">Name</Item>
 		<Item Name="Role">Funktion</Item>
-		<Item Name="Status">Stellung</Item>
+		<Item Name="Status">Status</Item>
 		<Item Name="Team">Team</Item>
 		<Item Name="Salary">Gehalt</Item>
 		<Item Name="Effectiveness">Effektivität</Item>
@@ -128,7 +128,7 @@
 		<Item Name="Art skill">Kunst skill</Item>
 		<Item Name="Marketing skill">Marketing skill</Item>
 		<Item Name="Tier">Rang</Item>
-		<Item Name="Scope">AnwenDungsbereich</Item>
+		<Item Name="Scope">Anwendungsbereich</Item>
 		<Item Name="Company">Unternehmen</Item>
 		<Item Name="Release">Veröffentlichen</Item>
 		<Item Name="Quality">Qualität</Item>
@@ -216,7 +216,7 @@
 		<Item Name="Staff">Personal</Item>
 		<Item Name="Marketing">Marketing</Item>
 		<Item Name="Servers">Server</Item>
-		<Item Name="EDucation">BilDung</Item>
+		<Item Name="Education">Bildung</Item>
 		<Item Name="Materials">Materialien</Item>
 		<Item Name="Marketing">Marketing</Item>
 		<Item Name="Save games">Spiel speichern</Item>
@@ -231,7 +231,7 @@
 		<Item Name="Server">Server</Item>
 		<Item Name="SCM">QCV</Item>
 		<Item Name="SCMLong">Quellcodeverwaltung</Item>
-		<Item Name="SCMDesc">Behalte den gesamten Code synchronisiert an einem Ort, woDurch Bugs reDuziert werden und die Programmierung in der Alpha-Phase effektiver verläuft. Benötigt einen Server.</Item>
+		<Item Name="SCMDesc">Behalte den gesamten Code synchronisiert an einem Ort, wodurch Bugs reduziert werden und die Programmierung in der Alpha-Phase effektiver verläuft. Benötigt einen Server.</Item>
 		<Item Name="Information">Information</Item>
 		<Item Name="Dependencies">Abhängigkeiten</Item>
 		<Item Name="Operating system">Betriebssystem</Item>
@@ -243,7 +243,7 @@
 		<Item Name="NameGenTip">Klicke hier, um einen zufälligen Namen zu generieren.</Item>
 		<Item Name="OpenSourceTip">Veröffentliche deine Software kostenlos, um an Popularität zu gewinnen.</Item>
 		<Item Name="InHouseTip">Diese Software wird nicht veröffentlicht und kann nur Intern angewendet werden.</Item>
-		<Item Name="StandardProDuctName">Produktname</Item>
+		<Item Name="StandardProductName">Produktname</Item>
 		<Item Name="DevTime1">Weniger als ein Jahr</Item>
 		<Item Name="DevTime2">Mehr als ein Jahr</Item>
 		<Item Name="DevTime3">ca. {0} Jahre</Item>
@@ -304,11 +304,11 @@
 		<Item Name="Remove 10">entferne 10</Item>
 		<Item Name="Interview">Gespräch</Item>
 	</HireWindows>
-	<EDucationWindow>
-		<Item Name="Start eDucation">Kurs starten</Item>
+	<EducationWindow>
+		<Item Name="Start education">Kurs starten</Item>
 		<Item Name="ProjectCourseDesc">Projektmanagement ermöglicht einem Leitenden Angestellen, einfluss auf den Entwicklungszyklus zu nehmen, indem er automatisch die Entwicklung neuer Produkte in Auftrag gibt und Arbeit an entsprechende Teams delegiert.</Item>
-		<Item Name="HRCourseDesc">HR Management erlaubt es einem Leitenden Angestellen HR Verantwortung zu übernehmen, wie einstellen, entlassen, beilegung von Streitigkeiten, Gehaltserhöhungen und BilDung.</Item>
-	</EDucationWindow>
+		<Item Name="HRCourseDesc">HR Management erlaubt es einem Leitenden Angestellen HR Verantwortung zu übernehmen, wie einstellen, entlassen, beilegung von Streitigkeiten, Gehaltserhöhungen und Bildung.</Item>
+	</EducationWindow>
 	<DistributionWindow>
 		<Item Name="Make Deal">Angebot machen</Item>
 		<Item Name="Take offline">raus nehmen</Item>
@@ -360,7 +360,7 @@
 	<Newspaper>
 		<Item Name="Review section">Bewertungen</Item>
 		<Item Name="Business section">Business-Bereich</Item>
-		<Item Name="InDustry section">Industrie-News</Item>
+		<Item Name="Industry section">Industrie-News</Item>
 		<Item Name="Player section">Du</Item>
 	</Newspaper>
 	<Pause>
@@ -590,20 +590,20 @@ Entschuldige die Unannehmlichkeiten.</Item>
 		<Item Name="StockRepLow">Dein Ruf ist zu gering, um mit Aktien Handeln zu können.</Item>
 		<Item Name="HRNoRooms">Du hast HR-Management aktiviert, für ein Team, dass kein Büro zur verfügung hat.
 Erstelle für dein Team ein eigenes Büro damit sie ihre Arbeit machen können.</Item>
-		<Item Name="DesignProDuctNameError">Ein Produkt mit diesem Namen existiert bereits.</Item>
-		<Item Name="ProDuctOSError">Wähle ein oder mehrere Betriebssysteme aus.</Item>
-		<Item Name="ProDuctNeedError">Wähle ein Produkt aus, dass benötigt wird.</Item>
-		<Item Name="DesignProDuctNameHint">Du hast keinen Namen für deine Software gewählt. Bist Du sicher, dass Du fortfahren möchtest?</Item>
-		<Item Name="DesignProDuctTeamSizeHint">Die größe deines Teams ist recht klein, für ein Projekt dieser Größe.
+		<Item Name="DesignProductNameError">Ein Produkt mit diesem Namen existiert bereits.</Item>
+		<Item Name="ProductOSError">Wähle ein oder mehrere Betriebssysteme aus.</Item>
+		<Item Name="ProductNeedError">Wähle ein Produkt aus, dass benötigt wird.</Item>
+		<Item Name="DesignProductNameHint">Du hast keinen Namen für deine Software gewählt. Bist Du sicher, dass Du fortfahren möchtest?</Item>
+		<Item Name="DesignProductTeamSizeHint">Die größe deines Teams ist recht klein, für ein Projekt dieser Größe.
 Bist Du sicher das Du fortfahren möchtest?</Item>
-		<Item Name="DesignProDuctFeatureHint">Du hast Funktion ausgewählt, die niemand in deinem Team umsetzten kann.
+		<Item Name="DesignProductFeatureHint">Du hast Funktion ausgewählt, die niemand in deinem Team umsetzten kann.
 Bist Du sicher das Du fortfahren möchtest?</Item>
-		<Item Name="ProDuctLicenseError">Du kannst Dir diese Lizenzkosten nicht leisten.</Item>
+		<Item Name="ProductLicenseError">Du kannst Dir diese Lizenzkosten nicht leisten.</Item>
 		<Item Name="DistributionNameError">Dieser Name ist bereits vergeben.</Item>
 		<Item Name="DistributionServerError">Wähle einen Server.</Item>
 		<Item Name="DistributionNameWarning">Bist Du sicher das Du denn Vertriebskanal mit dem Namen {0} öffnen möchtest? Du kannst diesen Namen nicht ändern.</Item>
 		<Item Name="DistributionOfflineWarning">Bist Du sicher, dass Du deinen Vertriebskanal einstellen möchtest? Dies wird Deine Kunden verärgern.</Item>
-		<Item Name="EmployeeCourseBookError">Der ausgewählte Mitarbeiter ist bereits in einer Weiterbildung.</Item>
+		<Item Name="EmployeeCourseBookError">Der ausgewählte Mitarbeiter ist bereits in einer WeiterBildung.</Item>
 		<Item Name="TeamNameError">Ein Team mit diesen Namen existiert bereits.</Item>
 		<Item Name="TeamEmptyNameError">Bitte gebe einen Teamnamen ein.</Item>
 		<Item Name="LowMoneyHireWarning">Du hast nur begrenzte Mittel, um dein Unternehmen zu erhalten wenn Du {0} einstellst. Bist Du sicher, dass Du nicht lieber warten möchtest?</Item>
@@ -670,7 +670,7 @@ Möchtest Du ein Darlehn bei der Bank in höhe von {1} beantragen, um zu vermeid
 		<Item Name="ActionUnify Style">Stil der ausgewählten Elemente vereinheitlichen</Item>
 		<Item Name="ActionRoom Color">Raumfarbe</Item>
 		<Item Name="ActionMaterial">Raummuster</Item>
-		<Item Name="ActionEDucate">Mitarbeiter ausbilden</Item>
+		<Item Name="ActionEducate">Mitarbeiter ausbilden</Item>
 		<Item Name="ActionDismiss">Mitarbeiter entlassen</Item>
 		<Item Name="ActionSell">Möbel verkaufen</Item>
 		<Item Name="ActionDestroy">Raum zerstören</Item>
@@ -691,14 +691,14 @@ Möchtest Du ein Darlehn bei der Bank in höhe von {1} beantragen, um zu vermeid
 		<Item Name="ActionUpgrade">auf die nächste Stufe verbessern</Item>
 		<Item Name="ActionMove">Möbel verschieben</Item>
 	</RightClick>
-	<ProDuctWindow>
-		<Item Name="ProDuctChooseGeneric">Wähle {0}</Item>
-		<Item Name="ProDuctChooseOS">Betriebssystem auswählen</Item>
-		<Item Name="ProDuctChooseSequel">Folge auswählen</Item>
+	<ProductWindow>
+		<Item Name="ProductChooseGeneric">Wähle {0}</Item>
+		<Item Name="ProductChooseOS">Betriebssystem auswählen</Item>
+		<Item Name="ProductChooseSequel">Folge auswählen</Item>
 		<Item Name="PlayerReleases">Meine Veröffentlichungen</Item>
 		<Item Name="AllReleaes">Alle Veröffentlichungen</Item>
 		<Item Name="CompanyReleases">Produkte für {0}</Item>
-	</ProDuctWindow>
+	</ProductWindow>
 	<WorkItems>
 		<Item Name="SupportTickets">{0} Tickets in Warteschlange</Item>
 		<Item Name="CancelSupport">Support abbrechen</Item>
@@ -741,31 +741,31 @@ Du kannst nach der Veröffentlichung eines Produkts jederzeit eine Marketingkamp
 		<Item Name="DateGoal">gewinne, bevor {0}</Item>
 		<Item Name="NothingGoal">nichts</Item>
 	</Goal>
-	<ProDuctDetails>
+	<ProductDetails>
 		<Item Name="Innovation">Innovation</Item>
 		<Item Name="Stability">Stabilität</Item>
 		<Item Name="Usability">Benutzerfreundlichkeit</Item>
 		<Item Name="Operating systems">Betriebssystem</Item>
-		<Item Name="ProDuctNeeds">Benötigt</Item>
+		<Item Name="ProductNeeds">Benötigt</Item>
 		<Item Name="Franchise">Franchise</Item>
 		<Item Name="Used in">benutzt in</Item>
 		<Item Name="Features">Funktionen</Item>
 		<Item Name="Take off market">Vom Markt nehmen</Item>
 		<Item Name="Put on market">In Verkehr gebracht</Item>
-		<Item Name="ProDuctDetailTitle">Details zum {0}</Item>
-		<Item Name="ProDuctDetailLeftText">Name: {0}
+		<Item Name="ProductDetailTitle">Details zum {0}</Item>
+		<Item Name="ProductDetailLeftText">Name: {0}
 Firma: {1}({2})
 Typ: {4} {3}
 Open-Source: {5}
 Im Haus: {6}
 Release Datum: {7}</Item>
-		<Item Name="ProDuctDetailRightText">Qualität: {0}
+		<Item Name="ProductDetailRightText">Qualität: {0}
 Wahrnehmung: {1}
 Popularität: {2}
 Lizenzkosten: {3}
 Brutto: {4}
 Verlust: {5}</Item>
-	</ProDuctDetails>
+	</ProductDetails>
 	<FurnitureQuality>
 		<Item Name="Broken">defekt</Item>
 		<Item Name="Calcified">verkalkt</Item>
@@ -841,7 +841,7 @@ Rechtsklick um abzubrechen.</Item>
 	<Item Name="Change roles">Rolle ändern</Item>
 	<Item Name="Fire">Entlassen</Item>
 	<Item Name="Select all">alle wählen</Item>
-	<Item Name="EDucate">Ausbilden</Item>
+	<Item Name="Educate">Ausbilden</Item>
 	<Item Name="Interior">Innenraum</Item>
 	<Item Name="Exterior">Aussenansicht</Item>
 	<Item Name="Floor">Fußboden</Item>
@@ -907,7 +907,7 @@ Rechtsklick um abzubrechen.</Item>
 		<Item Name="SheetSalaries">Gehälter</Item>
 		<Item Name="SheetStaff">Personal</Item>
 		<Item Name="SheetHire">einstellen</Item>
-		<Item Name="SheetEDucation">Bildung</Item>
+		<Item Name="SheetEducation">Bildung</Item>
 		<Item Name="SheetMaintenance">Wartung</Item>
 		<Item Name="SheetConstruction">Bau</Item>
 		<Item Name="SheetRepairs">Reparaturen</Item>
@@ -1027,7 +1027,7 @@ Jahre in der Firma: {4}</Item>
 Das vorzeigte Beenden der Alpha-Phase kann wärend der Beta-Phase zu zusätzlichen Fehler führen.</Item>
 	</Alpha4.6>
 	<Alpha4.7>
-			<Item Name="DesignProDuctTeamSizeHintLarge">Dein gewähltes Team ist ziemlich groß für dieses Projekt.
+			<Item Name="DesignProductTeamSizeHintLarge">Dein gewähltes Team ist ziemlich groß für dieses Projekt.
 Bist Du sicher das Du fortfahren möchtest?</Item>
 			<Item Name="CloneComplexityWarning">Das kopieren von zu vielen Gegenständen kann dein Computer stark belasten.
 Bist Du sicher das Du fortfahren möchtest?</Item>
@@ -1048,7 +1048,7 @@ Stelle sicher, dass es einen Weg aus dem Gebäude gibt und dieser nicht versperr
 		<Item Name="StockBuyOutError">Du musst alle Aktien des Unternehmens besitzen, um es aufkaufen zu können.</Item>
 		<Item Name="CompanyDetailInfo">Wert: {0}
 Anteile: {1}
-Gegründe t: {2}
+Gegründet: {2}
 Produkte: {3}
 Original IPs: {4}
 Unternehmen gekauft: {5}</Item>
@@ -1101,7 +1101,7 @@ Der Durchschnittswert {0}, erhöht sich auf {1} pro Monat</Item>
 		<Item Name="ExceptionNotificationTip2">Klicke hier für Details</Item>
 		<Item Name="ExceptionNotificationMsg">Es tut mir leid Ihnen mitzuteilen das ein Fehler aufgetreten ist, was dazu führen könnte das, dass Spiel unterbrochen oder instabil läuft (Early access).
 Zur Sicherheit speicher dein aktuellen Spielstand und starte das Spiel neu, um Datenverlust zu vermeiden.
-Hast Du eine Idee was passiert sein könnte basierend auf der FehlermelDung (Klicke auf "Fehler anzeigen" zur Überprüfung) ich wäre dir sehr dankbar wenn Du mir eine Beschreibung des Fehlers per Email an SoftwareInc@CoreDumping.com senden könntest, damit ich diesen beheben kann.
+Hast Du eine Idee was passiert sein könnte basierend auf der Fehlermeldung (Klicke auf "Fehler anzeigen" zur Überprüfung) ich wäre dir sehr dankbar wenn Du mir eine Beschreibung des Fehlers per Email an SoftwareInc@CoreDumping.com senden könntest, damit ich diesen beheben kann.
 Tut mir sehr leid für die Unannehmlichkeiten.</Item>
 		<Item Name="UI size">UI Größe</Item>
 		<Item Name="NoCompanyName">Du must einen Firmennamen eingeben</Item>
@@ -1152,7 +1152,7 @@ Gültig bis: {3}</Item>
 		<Item Name="Turn furniture counter clockwise">Möbel gegen den Uhrzeigersinn drehen</Item>
 		<Item Name="Grid">Raster</Item>
 		<Item Name="ActionSelectWall">Wähle alle Segmente an dieser Wand</Item>
-		<Item Name="ActionDuplicate">Duplikat</Item>
+		<Item Name="Actionduplicate">Duplikat</Item>
 		<Item Name="RoomAngleError">Wandwinkel muss größer als 30° sein</Item>
 		<Item Name="RoomNarrowError">Wände müssen 1,0 Einheit auseinander sein</Item>
 		<Item Name="RoomIntersectError">Wände können sich nicht überschneiden</Item>
@@ -1257,14 +1257,14 @@ Rente pro Mitarbeiter: {2}</Item>
 		<Item Name="High">Hoch</Item>
 		<Item Name="Low">Niedrig</Item>
 		<Item Name="DevMarketingHint">Möchtest Du jetzt eine Kampagne für {0} starten?
-Marketing your proDuct while it is under development will generate hype, which affects your launch sales and your competitors</Item>
+Marketing your product while it is under development will generate hype, which affects your launch sales and your competitors</Item>
 		<Item Name="MarketingError">Es gibt bereits Marketingkampagnen für dieses Produkt</Item>
 		<Item Name="KeyBindingWarning">"{0}" ist bereits an "{1}" gebunden, möchtest Du es wirklich neu binden?</Item>
 		<Item Name="Request">Antrag</Item>
 		<Item Name="Retail price">Verkaufspreis</Item>
 		<Item Name="Priority">Priorität</Item>
 		<Item Name="Change software name">Softwarenamen ändern</Item>
-		<Item Name="MarketingProDuct">Marketing {0}</Item>
+		<Item Name="MarketingProduct">Marketing {0}</Item>
 		<Item Name="Time v Innovation">Zeit v Innovation</Item>
 		<Item Name="Time v quality">Zeit v Qualität</Item>
 		<Item Name="Budget v quality">Budget v Qualität</Item>
@@ -1276,7 +1276,7 @@ Kategorie: {2}</Item>
 	</Alpha7.1>
 	<Alpha7.2>
 		<Item Name="FXAA">FXAA</Item>
-		<Item Name="FXAADetails">Schnelles Anti-Aliasing, Basis Anti-Aliasing. ReDuziert pixelige Kanten</Item>
+		<Item Name="FXAADetails">Schnelles Anti-Aliasing, Basis Anti-Aliasing. Reduziert pixelige Kanten</Item>
 		<Item Name="SMAA">SMAA</Item>
 		<Item Name="SMAADetails">Subpixel Morphological Anti-Aliasing, more advanced anti-aliasing. Keeps edges from looking pixelated</Item>
 		<Item Name="SMAADetailsError">Subpixel Morphological Anti-Aliasing, not supported on DirectX9</Item>
@@ -1307,8 +1307,8 @@ Maximale Bandbreitennutzung: {3}</Item>
 		<Item Name="MarketingAmount2">Spärlich</Item>
 		<Item Name="MarketingAmount3">Prominent</Item>
 		<Item Name="MarketingAmount4">Weit verbreitet</Item>
-		<Item Name="MarketingAmount5">Unvermeidlich</Item>
-		<Item Name="ActionSelectBuildingFloor">Gebäude-Boden wählen</Item>
+		<Item Name="MarketingAmount5">Allgegenwärtig</Item>
+		<Item Name="ActionSelectBuildingFloor">Gesamte Etage wählen</Item>
 		<Item Name="PathwayBlocked">Etwas blockiert diesen Pfad</Item>
 		<Item Name="Sweep selection">Auswahl aufheben</Item>
 	</Alpha7.5>
@@ -1330,7 +1330,7 @@ Maximale Bandbreitennutzung: {3}</Item>
 		<Item Name="FCShelf">Regal</Item>
 		<Item Name="FCSeat">Sitz</Item>
 		<Item Name="FCSupport">Support</Item>
-		<Item Name="FCHologram">Hologram</Item>
+		<Item Name="FCHologram">Hologramm</Item>
 		<Item Name="FCBack">Zurück</Item>
 	</FurnitureColorNames>
 	<Alpha7.6>
