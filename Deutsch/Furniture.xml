@@ -129,7 +129,7 @@
 	</Furniture>
 	<Furniture Name="Reception desk">
 		<Name>Rezeption</Name>
-		<Description>Nötig um Auftrage entgegen zu nehmen.</Description>
+		<Description>Nötig um Aufträge entgegen zu nehmen.</Description>
 	</Furniture>
 	<Furniture Name="Floor Plant">
 		<Name>Bodenpflanze</Name>
