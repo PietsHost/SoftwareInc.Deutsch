@@ -1,0 +1,203 @@
+<Furniture>
+	<Furniture Name="Elevator">
+		<Name>Aufzug</Name>
+		<Description>Setze Azfzüge in verschiedenen Etage übereinander um diese zu Verbinden</Description>
+	</Furniture>
+	<Furniture Name="Table">
+		<Name>Tisch</Name>
+		<Description>Stelle Dinge drauf und Stühle drum herum</Description>
+	</Furniture>
+	<Furniture Name="Glass Table">
+		<Name>Glas Tisch</Name>
+		<Description>Genieß die Ansicht deiner Füße während der Arbeit</Description>
+	</Furniture>
+	<Furniture Name="2m End Table">
+		<Name>2m Beistelltisch</Name>
+		<Description>Etwas rund</Description>
+	</Furniture>
+	<Furniture Name="3m End Table">
+		<Name>3m Beistelltisch</Name>
+		<Description>Noch ein bisschen Runder</Description>
+	</Furniture>
+	<Furniture Name="Cheap Chair">
+		<Name>Günstiger Stuhl</Name>
+		<Description>Unkomfortabler Plastikstuhl</Description>
+	</Furniture>
+	<Furniture Name="Office Chair">
+		<Name>Bürostuhl</Name>
+		<Description>Guter, gepolstet Stuhl, jedoch ohne Rollen</Description>
+	</Furniture>
+	<Furniture Name="Waiting Chairs">
+		<Name>Wartestühle</Name>
+		<Description>Einfache Stühle für den Wartebereich</Description>
+	</Furniture>
+	<Furniture Name="Couch">
+		<Name>Sofa</Name>
+		<Description>Bequemes Sofa</Description>
+	</Furniture>
+	<Furniture Name="Small Heater">
+		<Name>kleine Heizung</Name>
+		<Description>Einfaches Heizgerät für deine Bedürfnisse</Description>
+	</Furniture>
+	<Furniture Name="Ceiling Fan">
+		<Name>Deckenventilator</Name>
+		<Description>Flotter Ventilator, der nicht nur cool aussieht sondern auch den Raum kühlt! Verursacht eventuell etwas Lärm.</Description>
+	</Furniture>
+	<Furniture Name="Radiator">
+		<Name>Heizung</Name>
+		<Description>Läuft mit teurer Fernwärme, ist jedoch deutlich Effektiver als die kleine Heizung.</Description>
+	</Furniture>
+	<Furniture Name="Ventilation">
+		<Name>Lüftungsanlage</Name>
+		<Description>Kleinlüftereinheit, die Luft direkt von der anderen Seite der Wand saugt. Kann genutzt werden um Serverräume zu kühlen.</Description>
+	</Furniture>
+	<Furniture Name="Central Heating">
+		<Name>Zentralheizung</Name>
+		<Description>Industrielle Zentralheizung um das ganze Gebäude zu heizen. Sehr laut und sehr hässlich.</Description>
+	</Furniture>
+	<Furniture Name="AC Unit">
+		<Name>Klimaanlage</Name>
+		<Description>Industrielle Klimaanlage, die ganze Gebäudekomplexe abkühlen kann. Sehr laut und sehr hässlich. Muss Oberirdisch installiert werden</Description>
+	</Furniture>
+	<Furniture Name="Old Computer">
+		<Name>Alter Computer</Name>
+		<Description>Mehr Pixel als man an einer Hand abzählen kann!</Description>
+	</Furniture>
+	<Furniture Name="90s Computer">
+		<Name>90er Computer</Name>
+		<Description></Description>
+	</Furniture>
+	<Furniture Name="Laptop">
+		<Name>Laptop</Name>
+		<Description></Description>
+	</Furniture>
+	<Furniture Name="Modern Computer">
+		<Name>Moderner Computer</Name>
+		<Description>Moderner Computer für alle modernen Computer-Anforderungen</Description>
+	</Furniture>
+	<Furniture Name="HoloComputer">
+		<Name>HoloComputer</Name>
+		<Description>Willkommen in der Zukunft! Wo jeder etwas bequemer ist</Description>
+	</Furniture>
+	<Furniture Name="Lamp">
+		<Name>Lampe</Name>
+		<Description>Stelle sicher, dass Deiner Mitarbeiter etwas sehen, wenn sie zu später Stunde arbeiten oder wenn Sie nicht durch Fenster gestört werden sollen</Description>
+	</Furniture>
+	<Furniture Name="Wall Lamp">
+		<Name>Wandleuchte</Name>
+		<Description></Description>
+	</Furniture>
+	<Furniture Name="Desk Lamp">
+		<Name>Schreibtischlampe</Name>
+		<Description>Für lokale Beleuchtungsverbesserungen</Description>
+	</Furniture>
+	<Furniture Name="Floor Lamp">
+		<Name>Stehlampe</Name>
+		<Description>Erzeugt Licht, verbraucht jedoch Platz</Description>
+	</Furniture>
+	<Furniture Name="Fridge">
+		<Name>Kühlschrank</Name>
+		<Description>Kühlschrank</Description>
+	</Furniture>
+	<Furniture Name="Instant Coffee">
+		<Name>Pulverkaffeee</Name>
+		<Description>Du gießt etwas braunes Pulver in heißes Wasser und das bewirkt, dass du wacher wirst</Description>
+	</Furniture>
+	<Furniture Name="Coffee">
+		<Name>Kaffee</Name>
+		<Description>Deine Standard Kaffeemaschine</Description>
+	</Furniture>
+	<Furniture Name="Espresso Machine">
+		<Name>Espresso Maschine</Name>
+		<Description>Liefert qualitativ hochwertigen Kaffee, indem sie große Mengen an Wasser, Strom und Wartung benötigt und dabei sehr laut ist</Description>
+	</Furniture>
+	<Furniture Name="Toilet">
+		<Name>Toilette</Name>
+		<Description>Scheißhaus</Description>
+	</Furniture>
+	<Furniture Name="Painting">
+		<Name>Bild</Name>
+		<Description>Eine kitschige Malerei um das Büro zu beleben</Description>
+	</Furniture>
+	<Furniture Name="TV">
+		<Name>TV</Name>
+		<Description></Description>
+	</Furniture>
+	<Furniture Name="Bookshelf">
+		<Name>Bücherregal</Name>
+		<Description>Komplett mit Büchern!</Description>
+	</Furniture>
+	<Furniture Name="Reception desk">
+		<Name>Rezeption</Name>
+		<Description></Description>
+	</Furniture>
+	<Furniture Name="Floor Plant">
+		<Name>Bodenpflanze</Name>
+		<Description>Eine charmante Bodenpflanze</Description>
+	</Furniture>
+	<Furniture Name="Table Plant">
+		<Name>Tischpflanze</Name>
+		<Description>Bonsai-Baum</Description>
+	</Furniture>
+	<Furniture Name="Big Plant">
+		<Name>Große Pflanze</Name>
+		<Description>Nimmt viel Platz ein, jedoch sind sich die Mitarbeiter einig, dass sie schön aussieht</Description>
+	</Furniture>
+	<Furniture Name="Clock">
+		<Name>Uhr</Name>
+		<Description>Zeitmaschine!(Nicht wirklich eine Zeitmaschine)</Description>
+	</Furniture>
+	<Furniture Name="Small Server">
+		<Name>Kleiner Server</Name>
+		<Description>Ein normaler Computer, aber mit mehr Internet</Description>
+	</Furniture>
+	<Furniture Name="Tower Server">
+		<Name>Tower Server</Name>
+		<Description>Ein High-Performance Server Tower (Nicht wirklich ein Tower)</Description>
+	</Furniture>
+	<Furniture Name="Server Rack">
+		<Name>Server Rack</Name>
+		<Description>Wenn ein Computer nicht genug ist</Description>
+	</Furniture>
+	<Furniture Name="Phone">
+		<Name>Telefon</Name>
+		<Description>Wen rufst du an? Den Support!</Description>
+	</Furniture>
+	<Furniture Name="Drawing Tablet">
+		<Name>Grafiktablet</Name>
+		<Description>So viel einfacher als manuelles Eingeben von Pixelkoordinaten</Description>
+	</Furniture>
+	<Furniture Name="Calculator">
+		<Name>Taschenrechner</Name>
+		<Description>Taschenrechner sind die besten Freunde für Programmierer</Description>
+	</Furniture>
+	<Furniture Name="Inbox">
+		<Name>Posteingang</Name>
+		<Description>Hilf deinen Mitarbeitern organisiert zu bleiben. Besonders hilfreich für Menschen, die noch nichts von E-Mails gehört haben</Description>
+	</Furniture>
+	<Segment Name="Standard door">
+		<Name>Einfache Tür</Name>
+		<Description>Es ist eine Tür...</Description>
+	</Segment>
+	<Segment Name="Sliding glass door">
+		<Name>Glas-Schiebetür</Name>
+		<Description>Tür, die das Fenster verdoppelt</Description>
+	</Segment>
+	<Segment Name="Double doors">
+		<Name>Doppeltüren</Name>
+		<Description>Mehr Türen beim Türenkauf</Description>
+	</Segment>
+	<Segment Name="Small window">
+		<Name>kleines Fenster</Name>
+		<Description>Völlig nutzlos, wenn zwischen den Räumen platziert</Description>
+	</Segment>
+	<Segment Name="Large window">
+		<Name>großes Fenster</Name>
+		<Description>Wenn Du noch mehr Fenster möchtest</Description>
+	</Segment>
+	<Segment Name="Wide window">
+		<Name>breites Fenster</Name>
+		<Description>Für das Breitbild-Erlebnis</Description>
+	</Segment>
+</Furniture>
+

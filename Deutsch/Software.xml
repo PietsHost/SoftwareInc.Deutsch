@@ -1,0 +1,372 @@
+<Software>
+	<CategoryDefault>Standard</CategoryDefault>
+	<Software Name="Operating System">
+		<Name>Betriebssystem</Name>
+		<Description>Das Betriebssystem ist das größte Stück Software in Software Inc.
+Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die Menschen mehr Betriebssysteme einer Linie kaufen, werden sie auch mehr Software kaufen.</Description>
+		<Features>
+			<Feature Name="Terminal">
+				<Name>Terminal</Name>
+				<Description>Das Terminal ist die klassische textbasierte Schnittstelle zwischen dem Betriebssystem und den Benutzer.</Description>
+			</Feature>
+			<Feature Name="GUI">
+				<Name>GUI</Name>
+				<Description>Durch das Graphical User Interface können Benutzer das visualisieren, was sie gerade tun. Dadurch sind sie nicht mehr an nur eine Zeile bei der Eingabe gebunden.</Description>
+			</Feature>
+			<Feature Name="3D rendering">
+				<Name>3D rendering</Name>
+			</Feature>
+			<Feature Name="Keyboard input">
+				<Name>Tastatureingabe</Name>
+				<Description>Es hat Buchstaben, Zahlen und andere wichtige Dinge.</Description>
+			</Feature>
+			<Feature Name="Plug'n'Play">
+				<Name>Plug'n'Play</Name>
+				<Description>Stecken Sie etwas in den Computer, und lassen Sie das Betriebssystem den Rest erledigen.</Description>
+			</Feature>
+			<Feature Name="Multitasking">
+				<Name>Multitasking</Name>
+				<Description>Let your users pretend they can multitask by having several applications open at any one time.</Description>
+			</Feature>
+			<Feature Name="Multithreading">
+				<Name>Multithreading</Name>
+				<Description>Multithreading allows the Operating System to run mulitple threads at the same time by continually switching between them intelligently, speeding up applications and confusing developers to no end.</Description>
+			</Feature>
+			<Feature Name="Networking">
+				<Name>Networking</Name>
+				<Description>How will anonymous people troll each other all over the world without this handy feature?</Description>
+			</Feature>
+			<Feature Name="Auto-update">
+				<Name>Auto-update</Name>
+				<Description>Keep bugs and malware out, while annoying users with broken drivers and sudden restarts.</Description>
+			</Feature>
+			<Feature Name="64-bit">
+				<Name>64-bit</Name>
+				<Description>Doubles the size of bits per register, allowing for bigger numbers, more memory, larger files, the answer to life, etc.</Description>
+			</Feature>
+			<Feature Name="PC speaker">
+				<Name>PC Lautsprecher</Name>
+				<Description>Für alle Ihre Piep-Bedürfnisse</Description>
+			</Feature>
+			<Feature Name="8-bit audio">
+				<Name>8-bit Audio</Name>
+			</Feature>
+			<Feature Name="HD audio">
+				<Name>HD Audio</Name>
+				<Description>Wie 8-bit Audio, nur mit mehr bits</Description>
+			</Feature>
+		</Features>
+		<Categories>
+			<Category Name="Computer">
+				<Name>Computer</Name>
+				<Description>Für den Tisch</Description>
+			</Category>
+			<Category Name="Console">
+				<Name>Konsole</Name>
+				<Description>Für den TV</Description>
+			</Category>
+			<Category Name="Phone">
+				<Name>Telefon</Name>
+				<Description>Für die Tasche</Description>
+			</Category>
+		</Categories>
+	</Software>
+	<Software Name="Visual Tool">
+		<Name>Visuelles Tool</Name>
+		<Description>The visual tool is for creating visual art, whether it be 3D animations or pixelart.</Description>
+		<Features>
+			<Feature Name="Image viewing">
+				<Name>Bildbetrachtung</Name>
+				<Description>You have to at least be able to actually see images</Description>
+			</Feature>
+			<Feature Name="Image editing">
+				<Name>Bildbearbeitung</Name>
+				<Description>Allow the user to alter pixels so they can improve all their cat pictures</Description>
+			</Feature>
+			<Feature Name="3D editor">
+				<Name>3D Editor</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Audio Tool">
+		<Name>Audio Tool</Name>
+		<Description>Das Audio-Tool ist für die Aufnahme von Musik und das Mischen der Musik mit Soundeffekten zuständig.</Description>
+		<Features>
+			<Feature Name="Audio playback">
+				<Name>Audiowiedergabe</Name>
+			</Feature>
+			<Feature Name="Recording">
+				<Name>Recording</Name>
+			</Feature>
+			<Feature Name="Music editor">
+				<Name>Musik Editor</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Game Engine">
+		<Name>Game Engine</Name>
+		<Description>The game engine is what powers a game. It contains everything needed for a game, except for the creativity.</Description>
+		<Features>
+			<Feature Name="Text-based">
+				<Name>Text-basiert</Name>
+			</Feature>
+			<Feature Name="2D rendering">
+				<Name>2D rendering</Name>
+			</Feature>
+			<Feature Name="3D rendering">
+				<Name>3D rendering</Name>
+			</Feature>
+			<Feature Name="PC speaker">
+				<Name>PC Lautsprecher</Name>
+			</Feature>
+			<Feature Name="8-bit audio">
+				<Name>8-bit Audio</Name>
+			</Feature>
+			<Feature Name="HD audio">
+				<Name>HD Audio</Name>
+			</Feature>
+			<Feature Name="Networking">
+				<Name>Networking</Name>
+			</Feature>
+			<Feature Name="Scripting">
+				<Name>Scripting</Name>
+			</Feature>
+			<Feature Name="Joystick support">
+				<Name>Joystick support</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Game">
+		<Name>Spiel</Name>
+		<Description>Interactive art.</Description>
+		<Features>
+			<Feature Name="Text-based">
+				<Name>Text-basiert</Name>
+				<Description>Make the player type a novel to complete the game</Description>
+			</Feature>
+			<Feature Name="2D graphics">
+				<Name>2D Grafik</Name>
+			</Feature>
+			<Feature Name="3D graphics">
+				<Name>3D Grafik</Name>
+			</Feature>
+			<Feature Name="Music">
+				<Name>Musik</Name>
+			</Feature>
+			<Feature Name="Dialog">
+				<Name>Dialog</Name>
+			</Feature>
+			<Feature Name="Open world">
+				<Name>Open world</Name>
+			</Feature>
+			<Feature Name="AI">
+				<Name>AI</Name>
+			</Feature>
+			<Feature Name="Multiplayer">
+				<Name>Multiplayer</Name>
+				<Description>Facilitate the screaming of obscenities by teenagers from all over the world</Description>
+			</Feature>
+			<Feature Name="MMO">
+				<Name>MMO</Name>
+			</Feature>
+			<Feature Name="Joystick support">
+				<Name>Joystick support</Name>
+			</Feature>
+		</Features>
+		<Categories>
+			<Category Name="RPG">
+				<Name>RPG</Name>
+				<Description>Role Playing Game</Description>
+			</Category>
+			<Category Name="Adventure">
+				<Name>Adventure</Name>
+			</Category>
+			<Category Name="Simulation">
+				<Name>Simulation</Name>
+				<Description>You're playing one!</Description>
+			</Category>
+			<Category Name="Sports">
+				<Name>Sport</Name>
+			</Category>
+			<Category Name="RTS">
+				<Name>RTS</Name>
+				<Description>Real Time Strategy</Description>
+			</Category>
+			<Category Name="FPS">
+				<Name>FPS</Name>
+				<Description>First Person Shooter</Description>
+			</Category>
+		</Categories>
+	</Software>
+	<Software Name="Webbased Game">
+		<Name>Browsergame</Name>
+		<Description>Webbased games are not bound to any operating system, but suffer the conequences of not being able to fully utilize the underlying system.</Description>
+		<Features>
+			<Feature Name="HTML based">
+				<Name>HTML based</Name>
+				<Description>Spreadsheet games! Yaaay!</Description>
+			</Feature>
+			<Feature Name="2D graphics">
+				<Name>2D Grafik</Name>
+			</Feature>
+			<Feature Name="3D graphics">
+				<Name>3D Grafik</Name>
+				<Description>Add that third dimension to your webgame.</Description>
+			</Feature>
+			<Feature Name="Music">
+				<Name>Musik</Name>
+			</Feature>
+			<Feature Name="MMO">
+				<Name>MMO</Name>
+			</Feature>
+		</Features>
+		<Categories>
+			<Category Name="RPG">
+				<Name>RPG</Name>
+				<Description>Role Playing Game</Description>
+			</Category>
+			<Category Name="Adventure">
+				<Name>Adventure</Name>
+			</Category>
+			<Category Name="Simulation">
+				<Name>Simulation</Name>
+				<Description>You're playing one!</Description>
+			</Category>
+			<Category Name="Sports">
+				<Name>Sport</Name>
+			</Category>
+			<Category Name="RTS">
+				<Name>RTS</Name>
+				<Description>Real Time Strategy</Description>
+			</Category>
+		</Categories>
+	</Software>
+	<Software Name="Antivirus">
+		<Name>Antivirus</Name>
+		<Description>Protecting computers from digital troublemakers since it became profitable to do so.</Description>
+		<Features>
+			<Feature Name="File scan">
+				<Name>Dateiscan</Name>
+			</Feature>
+			<Feature Name="User interface">
+				<Name>Benutzeroberfläche</Name>
+				<Description>Make it easy for the user to manage their virus handling</Description>
+			</Feature>
+			<Feature Name="Firewall">
+				<Name>Firewall</Name>
+			</Feature>
+			<Feature Name="Background scan">
+				<Name>Hintergrundscan</Name>
+				<Description>Scan for viruses in the background causing hilarious file locks randomly</Description>
+			</Feature>
+			<Feature Name="Mail scan">
+				<Name>E-Mail Scan</Name>
+				<Description>There's always room for enlargement</Description>
+			</Feature>
+			<Feature Name="Virus database">
+				<Name>Virus Datenbank</Name>
+				<Description>Automagically keep your user's virus definitions up to date</Description>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Logistics Application">
+		<Name>Logistics Application</Name>
+		<Description></Description>
+		<Features>
+			<Feature Name="Commandline">
+				<Name>Kommandozeile</Name>
+			</Feature>
+			<Feature Name="GUI">
+				<Name>GUI</Name>
+			</Feature>
+			<Feature Name="Database">
+				<Name>Datenbank</Name>
+			</Feature>
+			<Feature Name="Third-party integration">
+				<Name>Third-party integrierung</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Website">
+		<Name>Webseite</Name>
+		<Description></Description>
+		<Features>
+			<Feature Name="Static pages">
+				<Name>Statische Seiten</Name>
+			</Feature>
+			<Feature Name="Image gallery">
+				<Name>Bildergallerie</Name>
+			</Feature>
+			<Feature Name="Dynamic pages">
+				<Name>Dynamische Seiten</Name>
+			</Feature>
+			<Feature Name="Store">
+				<Name>Shop</Name>
+			</Feature>
+			<Feature Name="Database">
+				<Name>Datenbank</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Game Assets">
+		<Name>Game Assets</Name>
+		<Description></Description>
+		<Features>
+			<Feature Name="2D art">
+				<Name>2D art</Name>
+			</Feature>
+			<Feature Name="User interface graphics">
+				<Name>User interface graphics</Name>
+			</Feature>
+			<Feature Name="Sound effects">
+				<Name>Sound Effekte</Name>
+			</Feature>
+			<Feature Name="Music">
+				<Name>Musik</Name>
+			</Feature>
+			<Feature Name="Written Dialogue">
+				<Name>Geschriebener Dialog</Name>
+			</Feature>
+			<Feature Name="3D models">
+				<Name>3D Modelle</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Embedded System">
+		<Name>Eingebettetes System</Name>
+		<Description></Description>
+		<Features>
+			<Feature Name="Clock">
+				<Name>Uhr</Name>
+			</Feature>
+			<Feature Name="Thermostat">
+				<Name>Thermostat</Name>
+			</Feature>
+			<Feature Name="Motor">
+				<Name>Motor</Name>
+			</Feature>
+			<Feature Name="User interface">
+				<Name>Benutzeroberfläche</Name>
+			</Feature>
+			<Feature Name="GPS">
+				<Name>GPS</Name>
+			</Feature>
+			<Feature Name="Networking">
+				<Name>Networking</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Feature Name="QA">
+		<Name>QS</Name>
+		<Description>Verwenden Sie die Qualitätssicherung, um ein stabileres Produkt zu erhalten oder auftretende Fehler zu beheben</Description>
+	</Feature>
+</Software>
+
