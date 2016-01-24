@@ -49,11 +49,11 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 				<Description>Für alle Ihre Piep-Bedürfnisse</Description>
 			</Feature>
 			<Feature Name="8-bit audio">
-				<Name>8-bit Audio</Name>
+				<Name>8-Bit Audio</Name>
 			</Feature>
 			<Feature Name="HD audio">
 				<Name>HD Audio</Name>
-				<Description>Wie 8-bit Audio, nur mit mehr Bits</Description>
+				<Description>Wie 8-Bit Audio, nur mit mehr Bits</Description>
 			</Feature>
 		</Features>
 		<Categories>
@@ -123,7 +123,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 				<Name>PC Lautsprecher</Name>
 			</Feature>
 			<Feature Name="8-bit audio">
-				<Name>8-bit Audio</Name>
+				<Name>8-Bit Audio</Name>
 			</Feature>
 			<Feature Name="HD audio">
 				<Name>HD Audio</Name>
@@ -135,7 +135,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 				<Name>Scripting</Name>
 			</Feature>
 			<Feature Name="Joystick support">
-				<Name>Joystick support</Name>
+				<Name>Joystick Unterstützung</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
