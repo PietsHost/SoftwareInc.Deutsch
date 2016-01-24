@@ -81,24 +81,24 @@
 		<Item Name="MainRelease">Software Übersicht</Item>
 		<Item Name="MainReleaseDesc">Übersicht jeder Software die je veröffentlicht wurde.</Item>
 		<Item Name="MainCompany">Firmen Übersicht</Item>
-		<Item Name="MainCompanyDesc">Halte die Konkurenz im Auge.</Item>
+		<Item Name="MainCompanyDesc">Halte die Konkurrenz im Auge.</Item>
 		<Item Name="MainNews">Die Software Times</Item>
 		<Item Name="MainNewsDesc">Halte dich über aktuelle Ereignisse immer auf dem Laufenden.</Item>
 		<Item Name="MainDistribution">Vertriebskanäle</Item>
 		<Item Name="MainDistributionDesc">Verwalte wie Du deine Software verteilen möchtest.</Item>
 		<Item Name="Settings">Einstellungen</Item>
-		<Item Name="LowerWalls">Wände aus/ein blenden</Item>
+		<Item Name="LowerWalls">Wände aus/einblenden</Item>
 		<Item Name="LowerWallsDesc">Blendet Wände ein/aus für eine bessere Übersicht.</Item>
-		<Item Name="HideLamps">Lampen aus/ein blenden</Item>
+		<Item Name="HideLamps">Lampen aus/einblenden</Item>
 		<Item Name="HideLampsDesc">Blendet Lampen ein/aus für eine bessere Übersicht.</Item>
-		<Item Name="RoomLabels">Raumbeschreibung aus/ein blenden</Item>
+		<Item Name="RoomLabels">Raumbeschreibung aus/einblenden</Item>
 		<Item Name="RoomLabelsDesc">Blendet die Raumbeschreibungen für eine besser Übersicht ein/aus.</Item>
-		<Item Name="WireMode">Server Verbindungen aus/ein blenden</Item>
+		<Item Name="WireMode">Server Verbindungen aus/einblenden</Item>
 		<Item Name="WireModeDesc">Hiermit kannst Du deine Server miteinander verbinden, sowie die Verbindungen ein und ausblenden.</Item>
 		<Item Name="Dataoverlay">Data overlay</Item>
 		<Item Name="DataoverlayDesc">Click here to make room color reflect the current status of the room</Item>
-		<Item Name="BuildMode">Baumodus</Item>
-		<Item Name="BuildModeDesc">Hier kannst Du denn Baumodus ein und aus schalten, um deine Büroräume zu erstellen.</Item>
+		<Item Name="BuildMode">Bau Modus</Item>
+		<Item Name="BuildModeDesc">Hier kannst Du denn Bau Modus ein und aus schalten, um deine Büroräume zu erstellen.</Item>
 		<Item Name="Monthly profits">Monatliche Gewinne</Item>
 		<Item Name="SkipTime">Zeit überspringen</Item>
 		<Item Name="SkipTimeDesc">Wenn niemand da ist kannst Du die Zeit überspringen, bis jemand kommt.</Item>
@@ -306,13 +306,13 @@
 	</HireWindows>
 	<EducationWindow>
 		<Item Name="Start education">Kurs starten</Item>
-		<Item Name="ProjectCourseDesc">Projektmanagement ermöglicht einem Leitenden Angestellen, einfluss auf den Entwicklungszyklus zu nehmen, indem er automatisch die Entwicklung neuer Produkte in Auftrag gibt und Arbeit an entsprechende Teams delegiert.</Item>
-		<Item Name="HRCourseDesc">HR Management erlaubt es einem Leitenden Angestellen HR Verantwortung zu übernehmen, wie einstellen, entlassen, beilegung von Streitigkeiten, Gehaltserhöhungen und Bildung.</Item>
+		<Item Name="ProjectCourseDesc">Projektmanagement ermöglicht einem Leitenden Angestellten, Einfluss auf den Entwicklungszyklus zu nehmen, indem er automatisch die Entwicklung neuer Produkte in Auftrag gibt und Arbeit an entsprechende Teams delegiert.</Item>
+		<Item Name="HRCourseDesc">HR Management erlaubt es einem Leitenden Angestellten HR Verantwortung zu übernehmen, wie einstellen, entlassen, Beilegung von Streitigkeiten, Gehaltserhöhungen und Bildung.</Item>
 	</EducationWindow>
 	<DistributionWindow>
 		<Item Name="Make Deal">Angebot machen</Item>
 		<Item Name="Take offline">Vertriebskanal schließen</Item>
-		<Item Name="Re-opn">wieder eröffnen</Item>
+		<Item Name="Re-open">wieder eröffnen</Item>
 		<Item Name="Popularity history">Beliebtheitshistorie</Item>
 		<Item Name="Your distribution channel">Dein Vertriebskanal</Item>
 		<Item Name="Cut">schnitt</Item>
@@ -354,7 +354,7 @@
 		<Item Name="Hire cleaning">Reinigungskraft einstellen</Item>
 		<Item Name="PerHour"> pro Stunde</Item>
 		<Item Name="PerMonth"> pro Monat</Item>
-		<Item Name="ITPayment">{0} bis zu {0} pro Reperatur</Item>
+		<Item Name="ITPayment">{0} bis zu {0} pro Reparatur</Item>
 		<Item Name="SharesIn">Anteile am Unternehmen:</Item>
 	</StaffWindow>
 	<Newspaper>
@@ -385,7 +385,7 @@
 		<Item Name="Difficulty">Schwierigkeit</Item>
 		<Item Name="Run in background">Im Hintergrund laufen</Item>
 		<Item Name="Auto-save">Automatisch abspeichern</Item>
-		<Item Name="AutoSaveHint">Speichert automatisch denn Spielstand, sobald ein Monat im Spiel zu ende geht.</Item>
+		<Item Name="AutoSaveHint">Speichert automatisch denn Spielstand, sobald ein Monat im Spiel zu Ende geht.</Item>
 		<Item Name="Tutorials">Tutorials</Item>
 		<Item Name="AM/PM">AM/PM</Item>
 		<Item Name="Celsius">Celsius</Item>
@@ -412,7 +412,7 @@
 		<Item Name="Shadows">Schatten</Item>
 		<Item Name="ShadowsHint">Die äußere Umgebung wirft Schatten auf der Grundlage der Position der Sonne.</Item>
 		<Item Name="More shadows">mehr Schatten</Item>
-		<Item Name="MoreShadowsHint">Jedes Licht im Spiel wift Schatten (Erfordert eine High-End Grafikkarte)</Item>
+		<Item Name="MoreShadowsHint">Jedes Licht im Spiel wirft Schatten (Erfordert eine High-End Grafikkarte)</Item>
 		<Item Name="Texture quality">Texturqualität</Item>
 		<Item Name="Ambient occlusion">Umgebungsverdeckung</Item>
 		<Item Name="AmbientOcclusionHint">Ecken und Spalten werden Schatten hinzugefügt.</Item>
@@ -446,7 +446,7 @@
 		<Item Name="Hide HUD">HUD ausblenden</Item>
 		<Item Name="Go to employee">Zum Mitarbeiter gehen</Item>
 		<Item Name="Destroy selected">verkaufen/entlassen/planieren auswählen</Item>
-		<Item Name="Toggle Build Mode">Baumodus umschalten</Item>
+		<Item Name="Toggle Build Mode">Bau Modus umschalten</Item>
 	</OptionsWindow>
 	<AI>
 		<Item Name="Idle">untätig</Item>
@@ -522,7 +522,7 @@
 		<Item Name="BusFullWarning">Die Busse füllen sich, baue ein Paar Parkplätze für deine Mitarbeiter.</Item>
 		<Item Name="Click and drag">Klicken und ziehen</Item>
 		<Item Name="RoomClosedOff">Es gibt keine Möglichkeit diesen Raum zu betreten. Baue Türen oder Aufzüge.</Item>
-		<Item Name="PublicToiletWarning">Deine Mitarbeiter werden keine öffentlichen Toiletten benutzen. Baue Toiletten in speraten Räumen.</Item>
+		<Item Name="PublicToiletWarning">Deine Mitarbeiter werden keine öffentlichen Toiletten benutzen. Baue Toiletten in separaten Räumen.</Item>
 		<Item Name="RoomOvercrowdWarning">Es gibt zu viele Computer in diesen Raum. überfüllte Räume lenken deine Mitarbeiter ab.</Item>
 		<Item Name="RoomLighingWaning">Es ist nicht genug Licht hier. Baue mehr Fenster oder Lampen.</Item>
 		<Item Name="ComputerBrokeWarning">Ein Computer ist kaputt und benötigt den IT-Support.</Item>
@@ -574,11 +574,11 @@
 		<Item Name="BulldozeTitle">Entfernen</Item>
 		<Item Name="BulldozeMsg">Bist Du sicher das Du {0} entfernen möchtest?</Item>
 		<Item Name="BulldozeMsg2">{0} wurde entfernt.</Item>
-		<Item Name="CannotBulldozeSupport">Ein oder mehrere Zimmer sind noch in benutzung und können nicht zerstört werden.</Item>
+		<Item Name="CannotBulldozeSupport">Ein oder mehrere Zimmer sind noch in Benutzung und können nicht zerstört werden.</Item>
 		<Item Name="SaveGameFail">Fehler beim speichern des Spielstandes. Das Spiel wird fortgesetzt, es könnte zu Fehler oder Datenverlust führen.
 Der Fehler wurde protokolliert. Wenn Du möchtest, kannst Du das Protokoll an Swinc.net oder per Email an SoftwareInc@CoreDumping.com senden.
 Entschuldige die Unannehmlichkeiten.</Item>
-		<Item Name="LoadGameFail">Fehler beim Laden des spieles. Das Spiel wird fortgesetzt, es könnte zu Fehler oder Datenverlust führen.
+		<Item Name="LoadGameFail">Fehler beim Laden des Spiels. Das Spiel wird fortgesetzt, es könnte zu Fehler oder Datenverlust führen.
 Der Fehler wurde protokolliert. Wenn Du möchtest, kannst Du das Protokoll an Swinc.net oder per Email an SoftwareInc@CoreDumping.com senden.
 Entschuldige die Unannehmlichkeiten.</Item>
 		<Item Name="MissingSaveContinue">Du musst das Spiel speichern bevor Du fortfahren kannst.</Item>
@@ -588,13 +588,13 @@ Entschuldige die Unannehmlichkeiten.</Item>
 		<Item Name="NoStockInterestTitle">Entschuldige</Item>
 		<Item Name="StockWatError">Du kannst dein ganzes Unternehmen nicht verkaufen.</Item>
 		<Item Name="StockRepLow">Dein Ruf ist zu gering, um mit Aktien Handeln zu können.</Item>
-		<Item Name="HRNoRooms">Du hast HR-Management aktiviert, für ein Team, dass kein Büro zur verfügung hat.
+		<Item Name="HRNoRooms">Du hast HR-Management aktiviert, für ein Team, dass kein Büro zur Verfügung hat.
 Erstelle für dein Team ein eigenes Büro damit sie ihre Arbeit machen können.</Item>
 		<Item Name="DesignProductNameError">Ein Produkt mit diesem Namen existiert bereits.</Item>
 		<Item Name="ProductOSError">Wähle ein oder mehrere Betriebssysteme aus.</Item>
 		<Item Name="ProductNeedError">Wähle ein Produkt aus, dass benötigt wird.</Item>
 		<Item Name="DesignProductNameHint">Du hast keinen Namen für deine Software gewählt. Bist Du sicher, dass Du fortfahren möchtest?</Item>
-		<Item Name="DesignProductTeamSizeHint">Die größe deines Teams ist recht klein, für ein Projekt dieser Größe.
+		<Item Name="DesignProductTeamSizeHint">Die Größe deines Teams ist recht klein, für ein Projekt dieser Größe.
 Bist Du sicher das Du fortfahren möchtest?</Item>
 		<Item Name="DesignProductFeatureHint">Du hast Funktion ausgewählt, die niemand in deinem Team umsetzten kann.
 Bist Du sicher das Du fortfahren möchtest?</Item>
@@ -603,7 +603,7 @@ Bist Du sicher das Du fortfahren möchtest?</Item>
 		<Item Name="DistributionServerError">Wähle einen Server.</Item>
 		<Item Name="DistributionNameWarning">Bist Du sicher das Du denn Vertriebskanal mit dem Namen {0} öffnen möchtest? Du kannst diesen Namen nicht ändern.</Item>
 		<Item Name="DistributionOfflineWarning">Bist Du sicher, dass Du deinen Vertriebskanal einstellen möchtest? Dies wird Deine Kunden verärgern.</Item>
-		<Item Name="EmployeeCourseBookError">Der ausgewählte Mitarbeiter ist bereits in einer WeiterBildung.</Item>
+		<Item Name="EmployeeCourseBookError">Der ausgewählte Mitarbeiter ist bereits in einer Weiterbildung.</Item>
 		<Item Name="TeamNameError">Ein Team mit diesen Namen existiert bereits.</Item>
 		<Item Name="TeamEmptyNameError">Bitte gebe einen Teamnamen ein.</Item>
 		<Item Name="LowMoneyHireWarning">Du hast nur begrenzte Mittel, um dein Unternehmen zu erhalten wenn Du {0} einstellst. Bist Du sicher, dass Du nicht lieber warten möchtest?</Item>
@@ -619,7 +619,7 @@ Möchtest Du {1} von deinem Versicherungskonto abheben, um zu vermeiden bankrott
 		<Item Name="BankruptStock">Du hast {0} auf deinem Konto.
 Möchtest Du deine Aktien im Wert von {1} verkaufen, um zu vermeiden bankrott zu gehen?</Item>
 		<Item Name="BankruptLoan">Du hast {0} auf deinem Konto.
-Möchtest Du ein Darlehn bei der Bank in höhe von {1} beantragen, um zu vermeiden bankrott zu gehen?</Item>
+Möchtest Du ein Darlehn bei der Bank in Höhe von {1} beantragen, um zu vermeiden bankrott zu gehen?</Item>
 		<Item Name="BankruptLoseMsg">Du bist bankrott mit {0} auf deinem Konto.</Item>
 	</Dialogs>
 	<FurnitureInfo>
@@ -651,12 +651,12 @@ Möchtest Du ein Darlehn bei der Bank in höhe von {1} beantragen, um zu vermeid
 		<Item Name="Remove">Entfernen</Item>
 		<Item Name="Normal">Normal</Item>
 		<Item Name="Horizontal">Horizontal</Item>
-		<Item Name="Vertical">Vertical</Item>
+		<Item Name="Vertical">Vertikal</Item>
 		<Item Name="Construct room">Räume bauen</Item>
 		<Item Name="Remove road">entferne Straße</Item>
 		<Item Name="Build road">Straße bauen</Item>
 		<Item Name="Build horizontal parking">horizontale Parkplätze bauen</Item>
-		<Item Name="Build vertical parking">vertikale Partkplätze bauen</Item>
+		<Item Name="Build vertical parking">vertikale Parkplätze bauen</Item>
 		<Item Name="Not available in demo">Nicht aktiviert in der Demo</Item>
 		<Item Name="Office">Büro</Item>
 		<Item Name="Temperature">Temperatur</Item>
@@ -677,10 +677,10 @@ Möchtest Du ein Darlehn bei der Bank in höhe von {1} beantragen, um zu vermeid
 		<Item Name="ActionChange Team">Team wechseln</Item>
 		<Item Name="ActionLimit Use">Raumnutzungs Limit</Item>
 		<Item Name="ActionSelect Building">Wähle gesamtes Gebäude</Item>
-		<Item Name="ActionChange Role">wechsel Mitarbeiter Rolle</Item>
-		<Item Name="ActionSend home">Mitarbeiter nach hause schicken</Item>
+		<Item Name="ActionChange Role">Wechsel Mitarbeiter Rolle</Item>
+		<Item Name="ActionSend home">Mitarbeiter nach Hause schicken</Item>
 		<Item Name="ActionFurniture color">Möbelfarbe</Item>
-		<Item Name="ActionTypes in Room">Möbeltyp im ausgewählten Raum wählen</Item>
+		<Item Name="ActionTypes in Room">Möbel Typ im ausgewählten Raum wählen</Item>
 		<Item Name="ActionDetails">Mitarbeiterdetails</Item>
 		<Item Name="ActionChange Salary">Mitarbeiter Gehalt ändern</Item>
 		<Item Name="ActionSelect Team">Gesamtes Team wählen</Item>
@@ -714,14 +714,14 @@ Möchtest Du ein Darlehn bei der Bank in höhe von {1} beantragen, um zu vermeid
 		<Item Name="DesignNoProgressTitle">Entwicklung nicht möglich</Item>
 		<Item Name="AlphaNoProgress">Alpha kann nicht abgeschlossen werden, die Arbeit muss erst abgeschlossen werden.</Item>
 		<Item Name="AlphaNoProgressTitle">Software kann nicht veröffentlich werden.</Item>
-		<Item Name="ContractCancel">{0} für stonierten Auftrag verloren</Item>
+		<Item Name="ContractCancel">{0} für stornierten Auftrag verloren</Item>
 		<Item Name="ContractFinish">Auftrag für {0} abgeschlossen.</Item>
 		<Item Name="Alpha">Alpha-Phase</Item>
 		<Item Name="Beta">Beta-Test</Item>
 		<Item Name="Promote">Hochstufen</Item>
 		<Item Name="Release">Release</Item>
 		<Item Name="Delay">Verzug</Item>
-		<Item Name="NoBugs">Keine Fehler zum beheben.</Item>
+		<Item Name="NoBugs">Keine Fehler zum Beheben.</Item>
 		<Item Name="StillBugs">{0} Fehler behoben</Item>
 		<Item Name="ContractState">{0} Monat(e) - Ziel: {1}%</Item>
 		<Item Name="ReleaseMarketingHint">Möchtest Du  die Werbung für {0} starten?
@@ -793,7 +793,7 @@ Empfohlene Teamgröße: {10}
 Zeitlimit: {3} Monat(e)
 Artists: {9}
 Erforderliche Qualität: {4}
-Im voraus: {5}
+Im Voraus: {5}
 Wenn fertig: {6}
 Strafe: -{7}
 Kosten pro Fehler: -{8}</Item>
@@ -813,7 +813,7 @@ Rechtsklick um abzubrechen.</Item>
 	<Item Name="Load">Last</Item>
 	<Item Name="Apply">anwenden</Item>
 	<Item Name="New team">neues Team</Item>
-	<Item Name="Team name">Teamname</Item>
+	<Item Name="Team name">Team Name</Item>
 	<Item Name="Enable">aktivieren</Item>
 	<Item Name="Accept work">Auftrag annehmen</Item>
 	<Item Name="Specialization">Spezialisierung</Item>
@@ -867,11 +867,11 @@ Rechtsklick um abzubrechen.</Item>
 		<Item Name="MarketingStop">Ende</Item>
 		<Item Name="On market">am Markt</Item>
 		<Item Name="Inventor">Erfinder</Item>
-		<Item Name="CustomLeaderHint">Erhöht die Fähigkeit, ein Team zusammen zu bringen, steiger deine Statistiken und Management Aufgaben.</Item>
-		<Item Name="CustomProgrammerHint">Erhöht die schnelligkeit und qualität deiner Programmierer und verbessert das beheben von fehlern.</Item>
-		<Item Name="CustomDesignerHint">Erhöht die schnelligkeit in fertigstellen von Projektarbeiten der Mitartbeiter und verhindert das die Arbeit gestoppt wird wenn sie zu komplex wird. </Item>
-		<Item Name="CustomArtistHint">Erhöht die schnelligkeit und qualität deines Artist und verbessert das beheben von Schwachstellen.</Item>
-		<Item Name="CustomMarketerHint">Erhöht die Effektivität und Geschwindigkeit von Marketing Kampangnen und Ruf des Unternehmens.</Item>
+		<Item Name="CustomLeaderHint">Erhöht die Fähigkeit, ein Team zusammen zu bringen, steigert deine Statistiken und Management Aufgaben.</Item>
+		<Item Name="CustomProgrammerHint">Erhöht die Schnelligkeit und Qualität deiner Programmierer und verbessert das beheben von Fehlern.</Item>
+		<Item Name="CustomDesignerHint">Erhöht die Schnelligkeit in fertigstellen von Projektarbeiten der Mitarbeiter und verhindert das die Arbeit gestoppt wird wenn sie zu komplex wird. </Item>
+		<Item Name="CustomArtistHint">Erhöht die Schnelligkeit und Qualität deines Künstlers und verbessert das beheben von Schwachstellen.</Item>
+		<Item Name="CustomMarketerHint">Erhöht die Effektivität und Geschwindigkeit von Marketing Kampagnen und Ruf des Unternehmens.</Item>
 		<Item Name="ElectronicHeatWarning">Deine Elektronik wird von der Hitze beeinträchtigt.</Item>
 		<Item Name="ActionCoolOverride">Setze Ventilatoren im vollen Kühlbetrieb, um die Elektronik zu schützen.</Item>
 		<Item Name="CoolMode">Super Kühlung</Item>
@@ -937,7 +937,7 @@ Rechtsklick um abzubrechen.</Item>
 		<Item Name="PresimLoadMsg">Simuliert Markt...</Item>
 		<Item Name="VacationNotify">{0} Mitarbeiter ab jetzt im Urlaub.</Item>
 		<Item Name="RetireNotify">{0} ist im Ruhestand gegangen.</Item>
-		<Item Name="SickNotify">{0} hat sich Krank gemeldet.</Item>
+		<Item Name="SickNotify">{0} hat sich krank gemeldet.</Item>
 		<Item Name="DiedNotify">{0} ist verstorben!</Item>
 		<Item Name="HospitalizedNotify">{0} hatte einen Unfall und liegt im Krankenhaus!</Item>
 		<Item Name="Skip day">Tag überspringen</Item>
@@ -969,10 +969,10 @@ Rechtsklick um abzubrechen.</Item>
 		<Item Name="MissingToiletWarning">Ein Mitarbeiter hat Probleme die Toilette zu finden.</Item>
 		<Item Name="ServerLoadWarning">Der Server ist überlastet. Wir benötigen mehr Leistung.</Item>
 		<Item Name="ServerItemLoadWarning">Der Server ist mit {0} überfordert. Wir benötigen mehr Leistung.</Item>
-		<Item Name="BoughtOutProducts">Du erhälst die Rechte an {0} Produkten</Item>
+		<Item Name="BoughtOutProducts">Du erhältst die Rechte an {0} Produkten</Item>
 		<Item Name="LowCompatWarning">Team {0} hat eine niedrige Kompatibilität</Item>
 		<Item Name="ContractIncomeMsg">{0} für das Annehmen des Auftrages.</Item>
-		<Item Name="VSyncWarning">Längeres Spielen ohne VSync kann deine Grafikkarte beschädigen und zu überhitzung führen.
+		<Item Name="VSyncWarning">Längeres Spielen ohne VSync kann deine Grafikkarte beschädigen und zur Überhitzung führen.
 Bist Du sicher, dass Du fortfahren möchtest?</Item>
 		<Item Name="RoomLowEnv">Dieser Raum sieht sehr langweilig aus.</Item>
 		<Item Name="FurnitureBlockedStaff">Einige Möbel können von deine Mitarbeiter nicht erreicht werden.</Item>
@@ -984,7 +984,7 @@ Stabilität: {5}
 Benutzerfreundlichkeit: {6}
 OS Unterstützung: {1}%
 Lizenzkosten: {2}
-Empfohlende Teamgröße: {8}</Item>
+Empfohlene Teamgröße: {8}</Item>
 		<Item Name="Available contracts">Verfügbare Aufträge</Item>
 		<Item Name="Finished contracts">Fertige Aufträge</Item>
 		<Item Name="ContractResultBreakdown">Einnahmen: {0}
@@ -1002,11 +1002,11 @@ Abgeben {7}</Item>
 		<Item Name="CloneToolDesc">Hiermit kannst Du ausgewählte Räume kopieren.</Item>
 		<Item Name="ContractDetailsNew">Firma: {0}
 Umfang: {1}
-empfohlende Team Größe: {9}
+empfohlene Team Größe: {9}
 Zeitlimit: {2} Monat(e)
 Artists: {8}
 Erforderliche Qualität: {3}
-Im voraus: {4}
+Im Voraus: {4}
 Wenn fertig: {5}
 Strafe: -{6}
 Kosten pro Fehler(Bug): -{7}</Item>
@@ -1024,7 +1024,7 @@ Jahre in der Firma: {4}</Item>
 		<Item Name="Accept demand">akzeptiere Forderung</Item>
 		<Item Name="Fire employee">Mitarbeiter entlassen</Item>
 		<Item Name="PrematureDelayWarning">Bist Du dir sicher, dass Du die Alpha-Phase beenden möchtest?
-Das vorzeigte Beenden der Alpha-Phase kann wärend der Beta-Phase zu zusätzlichen Fehler führen.</Item>
+Das vorzeigte Beenden der Alpha-Phase kann während der Beta-Phase zu zusätzlichen Fehler führen.</Item>
 	</Alpha4.6>
 	<Alpha4.7>
 			<Item Name="DesignProductTeamSizeHintLarge">Dein gewähltes Team ist ziemlich groß für dieses Projekt.
@@ -1099,18 +1099,18 @@ Der Durchschnittswert {0}, erhöht sich auf {1} pro Monat</Item>
 		<Item Name="ReleaseEventMsg">{0} plant ein Produkt vom Typ {1} Namens "{2}" nächsten Monat zu veröffentlichen.</Item>
 		<Item Name="ExceptionNotificationTip">Es ist ein Fehler aufgetreten!</Item>
 		<Item Name="ExceptionNotificationTip2">Klicke hier für Details</Item>
-		<Item Name="ExceptionNotificationMsg">Es tut mir leid Ihnen mitzuteilen das ein Fehler aufgetreten ist, was dazu führen könnte das, dass Spiel unterbrochen oder instabil läuft (Early access).
-Zur Sicherheit speicher dein aktuellen Spielstand und starte das Spiel neu, um Datenverlust zu vermeiden.
+		<Item Name="ExceptionNotificationMsg">Es tut mir Leid Ihnen mitzuteilen das ein Fehler aufgetreten ist, was dazu führen könnte das, dass Spiel unterbrochen oder instabil läuft (Early access).
+Zur Sicherheit speichere deinen aktuellen Spielstand und starte das Spiel neu, um Datenverlust zu vermeiden.
 Hast Du eine Idee was passiert sein könnte basierend auf der Fehlermeldung (Klicke auf "Fehler anzeigen" zur Überprüfung) ich wäre dir sehr dankbar wenn Du mir eine Beschreibung des Fehlers per Email an SoftwareInc@CoreDumping.com senden könntest, damit ich diesen beheben kann.
-Tut mir sehr leid für die Unannehmlichkeiten.</Item>
+Tut mir sehr Leid für die Unannehmlichkeiten.</Item>
 		<Item Name="UI size">UI Größe</Item>
-		<Item Name="NoCompanyName">Du must einen Firmennamen eingeben</Item>
+		<Item Name="NoCompanyName">Du musst einen Firmennamen eingeben</Item>
 		<Item Name="Save picture">Bild speichern</Item>
 		<Item Name="Tweet picture">Bild twittern</Item>
 		<Item Name="TwitterDesc">Was willst Du der Welt erzählen?</Item>
 		<Item Name="DefaultTweet">Look at my software empire! #SoftwareInc</Item>
 		<Item Name="Enter pin">Pin eingeben</Item>
-		<Item Name="TweetError">Bei dem Versucht dein Bild bei Twitter zu posten, ist ein Fehler aufgetretten.</Item>
+		<Item Name="TweetError">Bei dem Versucht dein Bild bei Twitter zu posten, ist ein Fehler aufgetreten.</Item>
 		<Item Name="SteamImgQ">Möchtest Du diesen Screenshot in deinem Steam Account speichern?</Item>
 	</Alpha5.3>
 	<Alpha5.4>
@@ -1139,7 +1139,7 @@ Gültig bis: {3}</Item>
 	<Alpha6>
 		<Item Name="ActionDismantle">Abbauen</Item>
 		<Item Name="Dismantle">Abbauen</Item>
-		<Item Name="DismantleMsg">Bist Du sicher, das Du diese {0} Wandelemente entfernen möchtest?</Item>
+		<Item Name="DismantleMsg">Bist Du sicher, dass Du diese {0} Wandelemente entfernen möchtest?</Item>
 		<Item Name="DismantleMsg2">Entferne {0} Wandelement(e)</Item>
 		<Item Name="WallSegments">Wandelement</Item>
 		<Item Name="AngleSnapDesc">ändere Möbelposition</Item>
@@ -1238,7 +1238,7 @@ Rente pro Mitarbeiter: {2}</Item>
 		<Item Name="Fans">Fans</Item>
 		<Item Name="FansInfo">Fans haben keinen direkten Einfluss auf deine Verkaufszahlen, aber mehr Fans helfen Dir dabei, deine Anerkennung auf dem Markt zu steigern.</Item>
 		<Item Name="Business reputation">Firmenansehen</Item>
-		<Item Name="BusinessRepInfo">Firmenansehen. Jeder Stern beeiflusst die Qualität Deiner Mitarbeiter, Aufträge, Vermarktungen und Angebote.</Item>
+		<Item Name="BusinessRepInfo">Firmenansehen. Jeder Stern beeinflusst die Qualität Deiner Mitarbeiter, Aufträge, Vermarktungen und Angebote.</Item>
 		<Item Name="PricingButtonTip">Hier klicken um den vorgeschlagenen Preis für die Software zu verwenden</Item>
 		<Item Name="Market recognition">Anerkennung</Item>
 		<Item Name="MarketRecognitionInfo">Die Anerkennung auf dem Markt gibt an, wie gut Du in der Software-Entwicklung bekannt bist und wie gut sich Deine Produkte in den entsprechenden Kategorien verkaufen lassen</Item>
@@ -1323,7 +1323,7 @@ Maximale Bandbreitennutzung: {3}</Item>
 		<Item Name="FCBlades">Blatt</Item>
 		<Item Name="FCHandle">Handeln</Item>
 		<Item Name="FCPot">Pot</Item>
-		<Item Name="FCPad">Tabet</Item>
+		<Item Name="FCPad">Tablet</Item>
 		<Item Name="FCBox">Box</Item>
 		<Item Name="FCMonitor">Monitor</Item>
 		<Item Name="FCKeys">Tasten</Item>
@@ -1356,9 +1356,9 @@ Du musst das ganze Wort eintippen. Einmal angefangen, kannst Du keine Buchstaben
 
 Wenn Du ein Wort vervollständigt hast, erhöht sich dein Punkte-Multiplikator
 
-Der Multiplikator wird zurück gesetzt, wenn Du dich vertippst oder ein Wort den unteren Rand berührt
+Der Multiplikator wird zurückgesetzt, wenn Du dich vertippst oder ein Wort den unteren Rand berührt
 
-Lass die Wört nicht den Boden berühren</Item>
+Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="OwnLicense">Nutze eigene Lizenzen</Item>
 	</Alpha7.6>
 	<Alpha7.7>
