@@ -38,7 +38,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Auto-update">
 				<Name>Auto-Update</Name>
-				<Description>Befreie dich von Bugs und Maleware, veruhrsacht lästige Benutzer mit falschen Treibern und plötzlichen Neustarts.</Description>
+				<Description>Befreie dich von Bugs und Malware, verursacht lästige Benutzer mit falschen Treibern und plötzlichen Neustarts.</Description>
 			</Feature>
 			<Feature Name="64-bit">
 				<Name>64-Bit</Name>
