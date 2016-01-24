@@ -30,7 +30,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Multithreading">
 				<Name>Multithreading</Name>
-				<Description>Multithreading erlaubt es dem Betriebssystem mehrere Threads gleichzeitig zu berrechnen indem es zwischen ihnen intelligent hin und her springt. Beschleunigt Anwendungen und verwirrt die Entwickler komplett.</Description>
+				<Description>Multithreading erlaubt es dem Betriebssystem mehrere Threads gleichzeitig zu berechnen, indem es zwischen ihnen intelligent hin und her springt. Beschleunigt Anwendungen und verwirrt die Entwickler komplett.</Description>
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Networking</Name>
