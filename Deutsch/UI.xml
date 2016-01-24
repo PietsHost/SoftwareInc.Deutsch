@@ -38,7 +38,7 @@
 		<Item Name="Personality">Persönlichkeit</Item>
 		<Item Name="Mods">Mods</Item>
 		<Item Name="Scenario">Szenario</Item>
-		<Item Name="Freeplay">Freies spiel</Item>
+		<Item Name="Freeplay">Freies Spiel</Item>
 		<Item Name="Starting money">Startkapital</Item>
 		<Item Name="Starting year">Startjahr</Item>
 		<Item Name="Simulation enabled">Simulation aktiviert</Item>
@@ -141,7 +141,7 @@
 		<Item Name="Details">Details</Item>
 		<Item Name="Worth">Wert</Item>
 		<Item Name="Reputation">Ansehen / Ruf</Item>
-		<Item Name="Bankrupt">bankrott</Item>
+		<Item Name="Bankrupt">Bankrott</Item>
 		<Item Name="Founded">gegründet</Item>
 		<Item Name="Products">Produkte</Item>
 		<Item Name="Chart">Grafik</Item>
@@ -185,8 +185,8 @@
 		<Item Name="Products">Produkte</Item>
 		<Item Name="Employees">Mitarbeiter</Item>
 		<Item Name="Enabled">aktivieren</Item>
-		<Item Name="Toggle">klick</Item>
-		<Item Name="Active">aktiv</Item>
+		<Item Name="Toggle">Umschalten</Item>
+		<Item Name="Active">Aktiv</Item>
 		<Item Name="Physical store">Ladengeschäft</Item>
 		<Item Name="Popularity">Beliebtheit</Item>
 		<Item Name="Release cost">Kosten</Item>
@@ -321,8 +321,8 @@
 	</DistributionWindow>
 	<WageWindow>
 		<Item Name="Employee request">Mitarbeiteranfrage</Item>
-		<Item Name="Accept">akzeptieren</Item>
-		<Item Name="Close">schließen</Item>
+		<Item Name="Accept">Akzeptieren</Item>
+		<Item Name="Close">Schließen</Item>
 	</WageWindow>
 	<LoanWindow>
 		<Item Name="Amount">Betrag</Item>
