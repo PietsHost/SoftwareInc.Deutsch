@@ -5,7 +5,7 @@
 	</Furniture>
 	<Furniture Name="Table">
 		<Name>Tisch</Name>
-		<Description>Stelle Dinge drauf und Stühle drum herum</Description>
+		<Description>Stelle Dinge darauf und Stühle drum herum</Description>
 	</Furniture>
 	<Furniture Name="Glass Table">
 		<Name>Glastisch</Name>
@@ -25,7 +25,7 @@
 	</Furniture>
 	<Furniture Name="Office Chair">
 		<Name>Bürostuhl</Name>
-		<Description>Guter, gepolsteter Stuhl, jedoch ohne Rollen</Description>
+		<Description>Guter, gepolsterter Stuhl, jedoch ohne Rollen</Description>
 	</Furniture>
 	<Furniture Name="Waiting Chairs">
 		<Name>Wartestühle</Name>
@@ -69,11 +69,11 @@
 	</Furniture>
 	<Furniture Name="Laptop">
 		<Name>Laptop</Name>
-		<Description>Es rechnet, es ist mobil, es hat eine Anzeige, quasi der Tschenrechner für Große</Description>
+		<Description>Es rechnet, es ist mobil, es hat eine Anzeige, quasi der Taschenrechner für Große</Description>
 	</Furniture>
 	<Furniture Name="Modern Computer">
 		<Name>Moderner Computer</Name>
-		<Description>Moderner Computer für alle modernen Computer-Anforderungen</Description>
+		<Description>Moderner Computer für alle modernen Software-Anforderungen</Description>
 	</Furniture>
 	<Furniture Name="HoloComputer">
 		<Name>HoloComputer</Name>

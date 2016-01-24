@@ -11,10 +11,10 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="GUI">
 				<Name>GUI</Name>
-				<Description>Durch das Graphical User Interface können Benutzer das visualisieren, was sie gerade tun. Dadurch sind sie nicht mehr an nur eine Zeile bei der Eingabe gebunden.</Description>
+				<Description>Durch das Grafische Interface - Graphical User Interface (GUI) wird den Benutzern die Nutzung des Betriebssystems vereinfacht. Dadurch sind sie nicht mehr nur an die Eingabe von Zeilen gebunden.</Description>
 			</Feature>
 			<Feature Name="3D rendering">
-				<Name>3D rendering</Name>
+				<Name>3D Darstellung</Name>
 			</Feature>
 			<Feature Name="Keyboard input">
 				<Name>Tastatureingabe</Name>
@@ -26,7 +26,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Multitasking">
 				<Name>Multitasking</Name>
-				<Description>Lassen Sie ihre Benutzer so tun als ob sie multitaskigfähig sind, indem sie mehrere Anwendungen gleichzeitig geöffnet haben.</Description>
+				<Description>Lassen Sie ihre Benutzer so tun als ob sie multitaskingfähig sind, indem sie mehrere Anwendungen gleichzeitig geöffnet haben.</Description>
 			</Feature>
 			<Feature Name="Multithreading">
 				<Name>Multithreading</Name>
@@ -73,7 +73,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 	</Software>
 	<Software Name="Visual Tool">
 		<Name>Visuelles Tool</Name>
-		<Description>Ein visuelle Werkzeug für die Erstellung von visueller Kunst, seien es 3D-Animationen oder Pixel-Kunst.</Description>
+		<Description>Ein visuelles Werkzeug für die Erstellung von visueller Kunst, seien es 3D-Animationen oder Pixel-Kunst.</Description>
 		<Features>
 			<Feature Name="Image viewing">
 				<Name>Bildbetrachtung</Name>
@@ -98,7 +98,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 				<Name>Audiowiedergabe</Name>
 			</Feature>
 			<Feature Name="Recording">
-				<Name>Recording</Name>
+				<Name>Aufnahme</Name>
 			</Feature>
 			<Feature Name="Music editor">
 				<Name>Musik Editor</Name>
@@ -164,7 +164,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 				<Name>Offene Welt</Name>
 			</Feature>
 			<Feature Name="AI">
-				<Name>AI</Name>
+				<Name>AI - Künstliche Intelligenz</Name>
 			</Feature>
 			<Feature Name="Multiplayer">
 				<Name>Mehrspieler</Name>
@@ -254,7 +254,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="User interface">
 				<Name>Benutzeroberfläche</Name>
-				<Description>Machen es für den Benutzer einfacher, die Viren zu verwalten</Description>
+				<Description>Vereinfacht die Konfiguration und Installation der Antivirus Software</Description>
 			</Feature>
 			<Feature Name="Firewall">
 				<Name>Firewall</Name>
@@ -288,7 +288,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 				<Name>Datenbank</Name>
 			</Feature>
 			<Feature Name="Third-party integration">
-				<Name>Third-party integrierung</Name>
+				<Name>Drittanbieter integrierung</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
