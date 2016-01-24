@@ -998,7 +998,7 @@ Abgeben {7}</Item>
 		<Item Name="ContractEarly">noch {0} Monat(e)</Item>
 		<Item Name="ContractLate">{0} Monat(e) überzogen</Item>
 		<Item Name="ContractOnTime">rechtzeitig</Item>
-		<Item Name="CloneToolTitle">Kopier Werkzeug</Item>
+		<Item Name="CloneToolTitle">Kopierwerkzeug</Item>
 		<Item Name="CloneToolDesc">Hiermit kannst Du ausgewählte Räume kopieren.</Item>
 		<Item Name="ContractDetailsNew">Firma: {0}
 Umfang: {1}
@@ -1029,7 +1029,7 @@ Das vorzeigte Beenden der Alpha-Phase kann wärend der Beta-Phase zu zusätzlich
 	<Alpha4.7>
 			<Item Name="DesignProductTeamSizeHintLarge">Dein gewähltes Team ist ziemlich groß für dieses Projekt.
 Bist Du sicher das Du fortfahren möchtest?</Item>
-			<Item Name="CloneComplexityWarning">Das kopieren von zu vielen Gegenständen kann dein Computer stark belasten.
+			<Item Name="CloneComplexityWarning">Das Kopieren von zu vielen Gegenständen kann dein Computer stark belasten.
 Bist Du sicher das Du fortfahren möchtest?</Item>
 			<Item Name="UnreachableFurniture">Dein Personal kann {0} nicht erreichen.
 Stelle sicher, dass der Weg nicht versperrt wird.</Item>
