@@ -61,7 +61,7 @@
 		<Item Name="MainPlayerRelease">Deine Software</Item>
 		<Item Name="MainPlayerReleaseDesc">Übersicht deiner Software</Item>
 		<Item Name="MainContract">Aufträge</Item>
-		<Item Name="MainContractDesc">Nehme Aufträge an um Gewinn zu erzielen, denn die Entwicklung einer eigener Software ist sehr kostspielig.</Item>
+		<Item Name="MainContractDesc">Nehme Aufträge an um Gewinn zu erzielen, denn die Entwicklung einer eigenen Software ist sehr kostspielig.</Item>
 		<Item Name="MainServer">Server</Item>
 		<Item Name="MainServerDesc">Verwalte deine Server und Prozesse.</Item>
 		<Item Name="MainEmployees">Mitarbeiter verwalten</Item>
