@@ -677,7 +677,7 @@ Möchtest Du ein Darlehn bei der Bank in Höhe von {1} beantragen, um zu vermeid
 		<Item Name="ActionChange Team">Team wechseln</Item>
 		<Item Name="ActionLimit Use">Raumnutzungs Limit</Item>
 		<Item Name="ActionSelect Building">Wähle gesamtes Gebäude</Item>
-		<Item Name="ActionChange Role">Wechsel Mitarbeiter Rolle</Item>
+		<Item Name="ActionChange Role">Mitarbeiter Rolle wechseln</Item>
 		<Item Name="ActionSend home">Mitarbeiter nach Hause schicken</Item>
 		<Item Name="ActionFurniture color">Möbelfarbe</Item>
 		<Item Name="ActionTypes in Room">Möbel Typ im ausgewählten Raum wählen</Item>
@@ -710,7 +710,7 @@ Möchtest Du ein Darlehn bei der Bank in Höhe von {1} beantragen, um zu vermeid
 		<Item Name="ThrowOutAuto">hinauswerfen</Item>
 		<Item Name="DesignWaitLabel">warten</Item>
 		<Item Name="WorkItemQuality">erwartete Qualität</Item>
-		<Item Name="DesignNoProgress">Dieser Auftrag kann nicht zur Entwicklung freigeben werden. Er muss erst vorbereitet werden.</Item>
+		<Item Name="DesignNoProgress">Dieser Auftrag kann nicht zur Entwicklung freigegeben werden. Er muss erst vorbereitet werden.</Item>
 		<Item Name="DesignNoProgressTitle">Entwicklung nicht möglich</Item>
 		<Item Name="AlphaNoProgress">Alpha kann nicht abgeschlossen werden, die Arbeit muss erst abgeschlossen werden.</Item>
 		<Item Name="AlphaNoProgressTitle">Software kann nicht veröffentlich werden.</Item>
@@ -852,7 +852,7 @@ Rechtsklick um abzubrechen.</Item>
 	<Item Name="Tertiary">Tertiär</Item>
 	<Item Name="RoomBuildHint">Aufteilen, zusammenführen und erweitern Räume</Item>
 	<Item Name="SkipTimeHint">Klicke hier, wenn Du für deinen ersten Tag bereit bist.</Item>
-	<Item Name="BankruptcyHint">Du stehst vorm Konkurs!</Item>
+	<Item Name="BankruptcyHint">Du stehst vor dem Konkurs!</Item>
 	<Item Name="RotateFurnHint">Klicke und ziehe, um Möbel zu drehen.</Item>
 	<Item Name="Development">Entwicklung</Item>
 	<Item Name="SearchBar">Typ suchen...</Item>
@@ -924,7 +924,7 @@ Rechtsklick um abzubrechen.</Item>
 		<Item Name="SheetInterest">Zinsen</Item>
 		<Item Name="SheetNA">N/A</Item>
 		<Item Name="DaysPerMonth">Tage pro Monat</Item>
-		<Item Name="OffMarketHint">Wenn ein Produkt deinen Ruf beeinträchtigt oder keinen Umsatz mehr bringt, ist es Ratsam es vom Markt zu nehmen.</Item>
+		<Item Name="OffMarketHint">Wenn ein Produkt deinen Ruf beeinträchtigt oder keinen Umsatz mehr bringt, ist es Ratsam, es vom Markt zu nehmen.</Item>
 	</Alpha4.3>
 	<Alpha4.4>
 		<Item Name="Room Aura">Raum Aura</Item>
