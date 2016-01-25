@@ -189,8 +189,8 @@
 		<Item Name="Active">Aktiv</Item>
 		<Item Name="Physical store">Ladengeschäft</Item>
 		<Item Name="Popularity">Beliebtheit</Item>
-		<Item Name="Release cost">Veröffentlichung Kosten</Item>
-		<Item Name="Revenue cut">Umsatzbeteilung</Item>
+		<Item Name="Release cost">Veröffentlichungskosten</Item>
+		<Item Name="Revenue cut">Umsatzbeteiligung</Item>
 		<Item Name="Contracts">Aufträge</Item>
 		<Item Name="Power">Leistung</Item>
 		<Item Name="Server count">Serveranzahl</Item>
