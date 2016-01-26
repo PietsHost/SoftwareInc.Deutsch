@@ -677,7 +677,7 @@ Möchtest Du ein Darlehn bei der Bank in Höhe von {1} beantragen, um zu vermeid
 		<Item Name="ActionChange Team">Team wechseln</Item>
 		<Item Name="ActionLimit Use">Raumnutzungs Limit</Item>
 		<Item Name="ActionSelect Building">Wähle gesamtes Gebäude</Item>
-		<Item Name="ActionChange Role">Mitarbeiter Rolle wechseln</Item>
+		<Item Name="ActionChange Role">Mitarbeiterrolle wechseln</Item>
 		<Item Name="ActionSend home">Mitarbeiter nach Hause schicken</Item>
 		<Item Name="ActionFurniture color">Möbelfarbe</Item>
 		<Item Name="ActionTypes in Room">Möbel Typ im ausgewählten Raum wählen</Item>
