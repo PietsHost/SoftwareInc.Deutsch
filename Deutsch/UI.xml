@@ -950,7 +950,7 @@ Rechtsklick um abzubrechen.</Item>
 		<Item Name="TeamCompat5">gut</Item>
 		<Item Name="TeamCompat6">großartig</Item>
 		<Item Name="TeamCompat7">erstaunlich</Item>
-		<Item Name="ITBrokeWarning">Ruf den IT-Support, einige Systeme sind beschädigt.</Item>
+		<Item Name="ITBrokeWarning">Ruf den IT-Support, einige elektronische Geräte sind beschädigt.</Item>
 		<Item Name="SheetBalance">Balance</Item>
 		<Item Name="Thoughts">Gedanken</Item>
 		<Item Name="Ideal salary">empfohlenes Gehalt</Item>
@@ -1037,7 +1037,7 @@ Stelle sicher, dass der Weg nicht versperrt wird.</Item>
 Stelle sicher, dass die Parkplätze mit der Straße verbunden sind.</Item>
 			<Item Name="EmployeeStuck">{0} kann nicht nach Hause gehen.
 Stelle sicher, dass es einen Weg aus dem Gebäude gibt und dieser nicht versperrt wird.</Item>
-			<Item Name="Coverage">Berichterstattung</Item>
+			<Item Name="Coverage">Abdeckung</Item>
 	</Alpha4.7>
 	<Alpha5.1>
 		<Item Name="I agree">Ich stimme zu</Item>
@@ -1072,7 +1072,7 @@ Du benötigst eine Empfangsdame um Angebote zu erhalten.</Item>
 		<Item Name="IPDealActionFail">Niemand ist an dem Kauf dieser IP Interessiert.</Item>
 		<Item Name="Trade IP">IP Handel</Item>
 		<Item Name="SheetDeals">Angebote</Item>
-		<Item Name="Receptionist">Rezeptionist</Item>
+		<Item Name="Receptionist">Empfangsmitarbeiter</Item>
 		<Item Name="Guest">Gast</Item>
 		<Item Name="Hire Receptionist">Rezeptionist einstellen</Item>
 		<Item Name="CompanyNameWarning">Du hast keinen Firmennamen angegeben.
@@ -1091,8 +1091,8 @@ Bist Du sicher, dass Du fortfahren möchtest?</Item>
 		<Item Name="AcceptAllWagesWarning">Möchtest Du wirklich alle Forderungen annehmen?
 Der Durchschnittswert {0}, erhöht sich auf {1} pro Monat</Item>
 		<Item Name="FurnitureQueue">{0} Mitarbeiter/in warten</Item>
-		<Item Name="Upcoming events">kommende Veranstaltungen</Item>
-		<Item Name="UpcomingEvDesc">Übersicht der Veranstaltungen im nächsten Monat. Das Symbol leuchtet Rot bei wichtigen Veranstaltungen.</Item>
+		<Item Name="Upcoming events">kommende Ereignisse</Item>
+		<Item Name="UpcomingEvDesc">Übersicht der Ereignisse im nächsten Monat. Das Symbol leuchtet Rot bei wichtigen Ereignisse.</Item>
 		<Item Name="RetireEventMsg">{0} aus der Gruppe {1} geht nächsten Monat in Rente. Bei {2} hat er/sie {3} Jahre gearbeitet.</Item>
 		<Item Name="VacationEventMsg1">{0} haben nächsten Monat Urlaub geplant. {1} Mitarbeiter haben noch Urlaub.</Item>
 		<Item Name="VacationEventMsg2">Keine Gruppe hat nächsten Monat Urlaub geplant. {0} Mitarbeiter haben noch Urlaub.</Item>
@@ -1120,9 +1120,9 @@ Tut mir sehr Leid für die Unannehmlichkeiten.</Item>
 		<Item Name="UpcomingRelDesc">Hier findest Du eine Liste der angekündigten Releases von deinen Mitbewerbern.</Item>
 		<Item Name="Close all windows">Schließe alle Fenster</Item>
 		<Item Name="CloseAllWindowWarning">Bist Du sicher, dass Du dieses Fenster schließen möchtest?</Item>
-		<Item Name="Only sequels">nur Fortsetzung</Item>
+		<Item Name="Only sequels">nur Fortsetzungen</Item>
 		<Item Name="Select fallback">wähle Backup</Item>
-		<Item Name="Fallback">Sicherheit</Item>
+		<Item Name="Fallback">Backup</Item>
 		<Item Name="AutoDevProjDetails">Aktuelle Projektdetails:
 Name: {0}
 Art: {1}
@@ -1203,10 +1203,10 @@ Rente pro Mitarbeiter: {2}</Item>
 		<Item Name="Segment">Segment</Item>
 	</Alpha6.14>
 	<Alpha6.18>
-		<Item Name="SaveDeletedError">Diese Sicherungsdatei existiert nicht mehr auf Deinem Computer und wird entfernt</Item>
+		<Item Name="SaveDeletedError">Diese Sicherungsdatei existiert auf Deinem Computer nicht mehr und wird deshalb entfernt</Item>
 		<Item Name="ExteriorWallFurn">Du musst dies an einer Außenwand platzieren</Item>
-		<Item Name="BasementFurnError">Möbel kann nicht im Keller platziert werden</Item>
-		<Item Name="RoomTempratureWarning2">Baue mehr Heizungen und Ventilatoren für eine optimale Raumtemperatur.</Item>
+		<Item Name="BasementFurnError">Dieses Möbel kann nicht im Keller platziert werden</Item>
+		<Item Name="RoomTempratureWarning2">Die Temperaturschwankungen in diesem Raum sind sehr gross. Baue mehr Temperatur-Regelanlage ein und vergiss dabei schwach isolierten Fenster nicht.</Item>
 		<Item Name="TemperatureOveruse">Eine Temperatur-Regelanlage ist überlastet. Bitte füge weitere Regeleinheiten zu dem Gebäudekomplex hinzu.</Item>
 	</Alpha6.18>
 	<Alpha6.21>
@@ -1214,15 +1214,15 @@ Rente pro Mitarbeiter: {2}</Item>
 		<Item Name="Select multiple">Wähle mehrere</Item>
 	</Alpha6.21>
 	<Alpha6.22>
-		<Item Name="FurnitureInLimitRoomWarning">Ein Mitarbeiter wurde (n) {0} zu einem Raum zugewiesen, den der Mitarbeiter nicht betreten darf</Item>
-		<Item Name="EmployeeArtWorkWarning">{0} arbeitet an der Gestaltung für {1}, ist jedoch nicht dafür ausgebildet. Dies könnte die Abgabe verzögern oder die Gestaltung ruinieren.</Item>
-		<Item Name="EmployeeProgrammingWorkWarning">{0} ist Programmierer für {1}, ist jedoch nicht dafür ausgebildet. Dies könnte die Abgabe verzögern und Fehler hinzufügen.</Item>
-		<Item Name="EmployeeDesignWorkWarning">{0} ist Designer für {1}, ist jedoch nicht dafür ausgebildet. Dies könnte die Abgabe verzögern oder Fehler hinzufügen.</Item>
+		<Item Name="FurnitureInLimitRoomWarning">Ein Mitarbeiter wurde (n) {0} zu einem Raum zugewiesen den er nicht nicht betreten darf</Item>
+		<Item Name="EmployeeArtWorkWarning">{0} arbeitet an der Gestaltung für {1}, ist jedoch nicht dafür ausgebildet. Dieser könnte womöglich die Veröffentlichung verzögern und die Gestaltung ruinieren.</Item>
+		<Item Name="EmployeeProgrammingWorkWarning">{0} ist Programmierer für {1}, ist jedoch nicht dafür ausgebildet. Dieser könnte womöglich die Veröffentlichung verzögern und weitere Fehler hinzufügen.</Item>
+		<Item Name="EmployeeDesignWorkWarning">{0} ist Designer für {1}, ist jedoch nicht dafür ausgebildet. Dieser könnte womöglich die Veröffentlichung verzögern und weitere Fehler hinzufügen.</Item>
 		<Item Name="RoadBusSignError">Du kannst keine Straße vor der Bushaltestelle bauen.</Item>
 	</Alpha6.22>
 	<Alpha7.1>
 		<Item Name="Units">Einheiten</Item>
-		<Item Name="Perception">Vorstellung</Item>
+		<Item Name="Perception">Wahrnehmung/Item>
 		<Item Name="License cost">Lizenzkosten</Item>
 		<Item Name="Gross">Brutto</Item>
 		<Item Name="Price">Preis</Item>
@@ -1251,7 +1251,7 @@ Rente pro Mitarbeiter: {2}</Item>
 		<Item Name="PicTakingError">Fehler. Bite wähle eine niedrigere Auflösung.</Item>
 		<Item Name="Performance tip">Performance Tipp</Item>
 		<Item Name="Hover for details">Hover für Details</Item>
-		<Item Name="PerformanceTipDetail">The performance of most of the effects depend on your screen resolution and not the complexity of the objects on the screen. SSAA will double the performance impact of most of the effects.</Item>
+		<Item Name="PerformanceTipDetail">Die Performance von den Effekten ist abhängig von der Spieleauflösung und aufgrund der Komplexität der Objekte auf dem Bildschirm. SSAA (Super Sampling Anti Aliasing) wird die Performance von den meisten Effekten verdoppeln. </Item>
 		<Item Name="Impact">Auswirkung</Item>
 		<Item Name="Very high">Sehr hoch</Item>
 		<Item Name="High">Hoch</Item>
@@ -1336,7 +1336,7 @@ Maximale Bandbreitennutzung: {3}</Item>
 	<Alpha7.6>
 		<Item Name="Minigame">Minigame</Item>
 		<Item Name="MinigameLifeError">Du hast bereits alle Leben aufgebraucht :(</Item>
-		<Item Name="Lives left">Leben</Item>
+		<Item Name="Lives left">Verbleibende Leben</Item>
 		<Item Name="Multiplier">Multiplikator</Item>
 		<Item Name="MinigameHint">Nur für kleine Projekte zu empfehlen, direkt ab Beginn</Item>
 		<Item Name="UMLGameHint">Klicken zum Starten
@@ -1377,7 +1377,7 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="Net profit">Bruttogewinn</Item>
 		<Item Name="Delivered">Abgeschlossen</Item>
 		<Item Name="Max bandwidth">Max Bandbreite</Item>
-		<Item Name="Look again">Neu suchen</Item>
+		<Item Name="Look again">Nochmal suchen</Item>
 		<Item Name="LookAgainPrompt">Möchtest Du wirklich nochmal suchen? Das kostet Dich {0}</Item>
 	</Alpha7.7>
 </UI>
