@@ -34,7 +34,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Networking</Name>
-				<Description>Wie werden sich anonyme Menschen auf der ganzen Welt gegenseitig ärgern ohne dieses praktische Feature?</Description>
+				<Description>Wie werden sich anonyme Menschen auf der ganzen Welt ohne dieses praktische Feature gegenseitig ärgern können?</Description>
 			</Feature>
 			<Feature Name="Auto-update">
 				<Name>Auto-Update</Name>
@@ -42,7 +42,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="64-bit">
 				<Name>64-Bit</Name>
-				<Description>Verdoppelt die Menge an Bits pro Verzeichnis und ermöglicht größere Zahlen, mehr Speicher, größere Datein, die Antwort auf das Leben, usw..</Description>
+				<Description>Verdoppelt die Menge an Bits pro Verzeichnis und ermöglicht größere Zahlen, mehr Speicher, größere Dateien, die Antwort auf das Leben, usw..</Description>
 			</Feature>
 			<Feature Name="PC speaker">
 				<Name>PC Lautsprecher</Name>
@@ -77,7 +77,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 		<Features>
 			<Feature Name="Image viewing">
 				<Name>Bildbetrachtung</Name>
-				<Description>Du musst wenigsten in der Lage sein Bilder sehen zu können.</Description>
+				<Description>Du musst wenigstens in der Lage sein Bilder sehen zu können.</Description>
 			</Feature>
 			<Feature Name="Image editing">
 				<Name>Bildbearbeitung</Name>
@@ -114,10 +114,10 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 				<Name>Text-basiert</Name>
 			</Feature>
 			<Feature Name="2D rendering">
-				<Name>2D rendering</Name>
+				<Name>2D Rendering</Name>
 			</Feature>
 			<Feature Name="3D rendering">
-				<Name>3D rendering</Name>
+				<Name>3D Rendering</Name>
 			</Feature>
 			<Feature Name="PC speaker">
 				<Name>PC Lautsprecher</Name>
@@ -164,7 +164,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 				<Name>Offene Welt</Name>
 			</Feature>
 			<Feature Name="AI">
-				<Name>AI - Künstliche Intelligenz</Name>
+				<Name>KI - Künstliche Intelligenz</Name>
 			</Feature>
 			<Feature Name="Multiplayer">
 				<Name>Mehrspieler</Name>
@@ -191,6 +191,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Category>
 			<Category Name="Sports">
 				<Name>Sport</Name>
+				<Description>Virtuelle Bewegung</Description>
 			</Category>
 			<Category Name="RTS">
 				<Name>RTS</Name>
@@ -247,7 +248,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 	</Software>
 	<Software Name="Antivirus">
 		<Name>Antivirus</Name>
-		<Description>Schützt Computer vor digitalen Störenfrieden, da es profitabel erscheint dies zu tun.</Description>
+		<Description>Schützt Computer vor digitalen Störenfrieden, da es profitabel erscheint diese zu verbreiten.</Description>
 		<Features>
 			<Feature Name="File scan">
 				<Name>Dateiscan</Name>
@@ -288,7 +289,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 				<Name>Datenbank</Name>
 			</Feature>
 			<Feature Name="Third-party integration">
-				<Name>Drittanbieter integrierung</Name>
+				<Name>Drittanbieter Integrierung</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
