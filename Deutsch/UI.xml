@@ -1222,7 +1222,7 @@ Rente pro Mitarbeiter: {2}</Item>
 	</Alpha6.22>
 	<Alpha7.1>
 		<Item Name="Units">Einheiten</Item>
-		<Item Name="Perception">Wahrnehmung/Item>
+		<Item Name="Perception">Wahrnehmung</Item>
 		<Item Name="License cost">Lizenzkosten</Item>
 		<Item Name="Gross">Brutto</Item>
 		<Item Name="Price">Preis</Item>
