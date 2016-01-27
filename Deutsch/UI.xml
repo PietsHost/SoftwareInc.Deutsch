@@ -1272,7 +1272,7 @@ Marketing während dein Produkt in der Entwicklung ist, generiert einen Hype, de
 Name: {0}
 Typ: {1}
 Kategorie: {2}</Item>
-		<Item Name="OldSaveGameError">Das Spiel, dass Du versucht hast zu laden stammt aus einer älteren Version von Software Inc. ({0}), die nicht mehr Unterstützt wird. Du nutzt ({1})</Item>
+		<Item Name="OldSaveGameError">Das Spiel, dass Du versucht hast zu Laden, stammt aus einer älteren Version von Software Inc. ({0}), die nicht mehr Unterstützt wird. Du nutzt ({1})</Item>
 	</Alpha7.1>
 	<Alpha7.2>
 		<Item Name="FXAA">FXAA</Item>
@@ -1300,7 +1300,7 @@ Aktuelle Bandbreitennutzung: {2}
 Maximale Bandbreitennutzung: {3}</Item>
 	</Alpha7.4>
 	<Alpha7.5>
-		<Item Name="WorkPriorityHint">Höhere Zahl bedeutet höhere Priorität</Item>
+		<Item Name="WorkPriorityHint">Eine höhere Zahl bedeutet eine höhere Priorität</Item>
 		<Item Name="ShiftFurnHint">Shift gedrückt halten um mehrere zu platzieren</Item>
 		<Item Name="IPDealActionBuyFail">{0} möchte {1}, was Du Dir nicht leisten kannst</Item>
 		<Item Name="MarketingAmount1">Keine</Item>
@@ -1308,7 +1308,7 @@ Maximale Bandbreitennutzung: {3}</Item>
 		<Item Name="MarketingAmount3">Prominent</Item>
 		<Item Name="MarketingAmount4">Weit verbreitet</Item>
 		<Item Name="MarketingAmount5">Allgegenwärtig</Item>
-		<Item Name="ActionSelectBuildingFloor">Gesamte Etage wählen</Item>
+		<Item Name="ActionSelectBuildingFloor">Gesamte Etage auswählen</Item>
 		<Item Name="PathwayBlocked">Etwas blockiert diesen Pfad</Item>
 		<Item Name="Sweep selection">Auswahl aufheben</Item>
 	</Alpha7.5>
@@ -1377,7 +1377,7 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="Net profit">Bruttogewinn</Item>
 		<Item Name="Delivered">Abgeschlossen</Item>
 		<Item Name="Max bandwidth">Max Bandbreite</Item>
-		<Item Name="Look again">Nochmal suchen</Item>
+		<Item Name="Look again">Erneut suchen</Item>
 		<Item Name="LookAgainPrompt">Möchtest Du wirklich nochmal suchen? Das kostet Dich {0}</Item>
 	</Alpha7.7>
 </UI>
