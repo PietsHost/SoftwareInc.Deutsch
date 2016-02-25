@@ -16,21 +16,25 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			<Feature Name="3D rendering">
 				<Name>3D Darstellung</Name>
 			</Feature>
-			<Feature Name="Keyboard input">
-				<Name>Tastatureingabe</Name>
+			<Feature Name="Input system">
+				<Name>Eingabesystem</Name>
 				<Description>Es hat Buchstaben, Zahlen und andere wichtige Dinge.</Description>
 			</Feature>
 			<Feature Name="Plug'n'Play">
 				<Name>Plug'n'Play</Name>
 				<Description>Stecken Sie etwas in den Computer, und lassen Sie das Betriebssystem den Rest erledigen.</Description>
 			</Feature>
-			<Feature Name="Multitasking">
-				<Name>Multitasking</Name>
-				<Description>Lassen Sie ihre Benutzer so tun als ob sie multitaskingfähig sind, indem sie mehrere Anwendungen gleichzeitig geöffnet haben.</Description>
+			<Feature Name="Touch">
+				<Name>Touch</Name>
+				<Description>You can never have enough greasy finger prints on a surface</Description>
 			</Feature>
 			<Feature Name="Multithreading">
 				<Name>Multithreading</Name>
 				<Description>Multithreading erlaubt es dem Betriebssystem mehrere Threads gleichzeitig zu berechnen, indem es zwischen ihnen intelligent hin und her springt. Beschleunigt Anwendungen und verwirrt die Entwickler komplett.</Description>
+			</Feature>
+			<Feature Name="Multitasking">
+				<Name>Multitasking</Name>
+				<Description>Lassen Sie ihre Benutzer so tun als ob sie multitaskingfähig sind, indem sie mehrere Anwendungen gleichzeitig geöffnet haben.</Description>
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Networking</Name>
