@@ -75,25 +75,94 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Category>
 		</Categories>
 	</Software>
-	<Software Name="Visual Tool">
-		<Name>Visuelles Tool</Name>
-		<Description>Ein visuelles Werkzeug für die Erstellung von visueller Kunst, seien es 3D-Animationen oder Pixel-Kunst.</Description>
+	<Software Name="2D Editor">
+		<Name>2D Editor</Name>
+		<Description>Program that allows you to handle 2 dimensional arrays of color information</Description>
 		<Features>
-			<Feature Name="Image viewing">
-				<Name>Bildbetrachtung</Name>
-				<Description>Du musst wenigstens in der Lage sein Bilder sehen zu können.</Description>
+			<Feature Name="Image rendering">
+				<Name>Bildwiedergabe</Name>
+				<Description>Gib ein Bild auf dem Bidlschrim wieder</Description>
 			</Feature>
-			<Feature Name="Image editing">
-				<Name>Bildbearbeitung</Name>
-				<Description>Erlaubt es dem Benutzer Pixel zu verändern, damit ihre Katzenbilder noch besser aussehen!</Description>
+			<Feature Name="Pixel manipulation">
+				<Name>Pixel-Manipulation</Name>
 			</Feature>
-			<Feature Name="3D editor">
-				<Name>3D Editor</Name>
-				<Description></Description>
+			<Feature Name="Advanced brushes">
+				<Name>Erweiterte Pinsel</Name>
+			</Feature>
+			<Feature Name="Image effects">
+				<Name>Bildeffekte</Name>
+				<Description>Braucht mehr Wirbel</Description>
+			</Feature>
+			<Feature Name="Cinematic filter">
+				<Name>Film-Filter</Name>
+				<Description>sofortige Professionalität</Description>
+			</Feature>
+			<Feature Name="Image compression">
+				<Name>Komprimierte Bilder</Name>
+			</Feature>
+			<Feature Name="Video editing">
+				<Name>Videobearbeitung</Name>
+			</Feature>
+			<Feature Name="Video codec">
+				<Name>Video Codec</Name>
+			</Feature>
+			<Feature Name="Stock library">
+				<Name>Bibliotheken</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
+	<Software Name="3D Editor">
+		<Name>3D Editor</Name>
+		<Description>Punkte im Raum, im Grunde gesehen</Description>
+		<Features>
+			<Feature Name="Vertex editing">
+				<Name>Vertex Editing</Name>
+				<Description>Bewege Punkte im Raum auf dem Bildschirm</Description>
+			</Feature>
+			<Feature Name="Rendering">
+				<Name>Rendering</Name>
+				<Description>Verarbeite die Punkte in einem Bild</Description>
+			</Feature>
+			<Feature Name="Animation">
+				<Name>Animation</Name>
+				<Description>Lässt die Punkte von alleine bewegen</Description>
+			</Feature>
+			<Feature Name="Sculpting">
+				<Name>Bildhauer</Name>
+				<Description>Pretend the points are clay</Description>
+			</Feature>
+			<Feature Name="Voxel sculpting">
+				<Name>Voxel sculpting</Name>
+				<Description>Everything is a point</Description>
+			</Feature>
+			<Feature Name="Physics">
+				<Name>Physik</Name>
+				<Description>Make the points interact</Description>
+			</Feature>
+			<Feature Name="Realistic hair">
+				<Name>realistisches Haar</Name>
+				<Description>Make lines between the points</Description>
+			</Feature>
+			<Feature Name="Particles">
+				<Name>Partikel</Name>
+				<Description>Spray points all over the place</Description>
+			</Feature>
+			<Feature Name="Liquid simulation">
+				<Name>Flüssigkeitssimulation</Name>
+				<Description>Spill points all over the place</Description>
+			</Feature>
+			<Feature Name="PBR">
+				<Name>PBR</Name>
+				<Description>Physically Based Rendering simulates photons reacting with the points</Description>
+			</Feature>
+			<Feature Name="Distributed rendering">
+				<Name>verteiltes Rendern</Name>
+				<Description>Process the points into a picture on many computers at once</Description>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>	
 	<Software Name="Audio Tool">
 		<Name>Audio Tool</Name>
 		<Description>Das Audio-Tool ist für die Aufnahme von Musik und das Mischen der Musik mit Soundeffekten zuständig.</Description>
@@ -106,6 +175,23 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Music editor">
 				<Name>Musik Editor</Name>
+			</Feature>
+			<Feature Name="Virtual instruments">
+				<Name>Virtuelle Instrumente</Name>
+				<Description>Gitarre? MIDI Keyboard. Violine? MIDI Keyboard. Schlagzeug? MIDI Keyboard. Saxophon? Ja.</Description>
+			</Feature>
+			<Feature Name="Sound library">
+				<Name>Sound-Bibliothek</Name>
+			</Feature>
+			<Feature Name="Instrument library">
+				<Name>Instrument-Bibliothek</Name>
+			</Feature>
+			<Feature Name="Autotune">
+				<Name>Autotune</Name>
+				<Description>Dies ist eine Sache</Description>
+			</Feature>
+			<Feature Name="Audio compression">
+				<Name>Audiokompression</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
@@ -120,8 +206,32 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			<Feature Name="2D rendering">
 				<Name>2D Rendering</Name>
 			</Feature>
+			<Feature Name="Visual editor">
+				<Name>Visueller Editor</Name>
+				<Description>Drag'n'drop ist das beste</Description>
+			</Feature>
+			<Feature Name="2D assets">
+				<Name>2D assets</Name>
+				<Description>Help the developer along with some prepackaged assets</Description>
+			</Feature>
 			<Feature Name="3D rendering">
 				<Name>3D Rendering</Name>
+			</Feature>
+			<Feature Name="3D assets">
+				<Name>3D assets</Name>
+				<Description>Like 2D assets, but with an extra dimension</Description>
+			</Feature>
+			<Feature Name="VR">
+				<Name>VR</Name>
+				<Description>Virtual reality</Description>
+			</Feature>
+			<Feature Name="Advanced shaders">
+				<Name>Erweiterte Shader</Name>
+				<Description>Not everything has to be flat! The irony is not lost on me</Description>
+			</Feature>
+			<Feature Name="Shadows">
+				<Name>Schatten</Name>
+				<Description>A very CREATIVE feature</Description>
 			</Feature>
 			<Feature Name="PC speaker">
 				<Name>PC Lautsprecher</Name>
@@ -129,17 +239,25 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			<Feature Name="8-bit audio">
 				<Name>8-Bit Audio</Name>
 			</Feature>
+			<Feature Name="Audio assets">
+				<Name>Audio assets</Name>
+			</Feature>
 			<Feature Name="HD audio">
 				<Name>HD Audio</Name>
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Networking</Name>
 			</Feature>
+			<Feature Name="Physics">
+				<Name>Physik</Name>
+			</Feature>
 			<Feature Name="Scripting">
 				<Name>Scripting</Name>
+				<Description>Seperate the game logic from the logic logic</Description>
 			</Feature>
-			<Feature Name="Joystick support">
-				<Name>Joystick Unterstützung</Name>
+			<Feature Name="Visual scripting">
+				<Name>Visuelles Scripting</Name>
+				<Description>It's like programming, but you use the mouse more</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
@@ -158,6 +276,14 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			<Feature Name="3D graphics">
 				<Name>3D Grafik</Name>
 			</Feature>
+			<Feature Name="VR">
+				<Name>VR</Name>
+				<Description>Virtual Reality</Description>
+			</Feature>
+			<Feature Name="Physics">
+				<Name>Physik</Name>
+				<Description>Bouncy stuff</Description>
+			</Feature>
 			<Feature Name="Music">
 				<Name>Musik</Name>
 			</Feature>
@@ -170,6 +296,9 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			<Feature Name="AI">
 				<Name>KI - Künstliche Intelligenz</Name>
 			</Feature>
+			<Feature Name="Local multiplayer">
+				<Name>Lokaler Mehrspieler</Name>
+			</Feature>
 			<Feature Name="Multiplayer">
 				<Name>Mehrspieler</Name>
 				<Description>Erleichtert das Beschimpfen von Teenagern auf der ganzen Welt</Description>
@@ -177,8 +306,26 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			<Feature Name="MMO">
 				<Name>MMO</Name>
 			</Feature>
-			<Feature Name="Joystick support">
-				<Name>Joystick Unterstützung</Name>
+			<Feature Name="Mod support">
+				<Name>Mod Unterstützung</Name>
+				<Description>You can mod this feature out of the game if you want</Description>
+			</Feature>
+			<Feature Name="Touch support">
+				<Name>Touch Unterstützung</Name>
+			</Feature>
+			<Feature Name="Advanced input">
+				<Name>Erweiterte Eingabe</Name>
+				<Description>Räder, Joysticks, etc.</Description>
+			</Feature>
+			<Feature Name="Cutscenes">
+				<Name>Zwischensequenzen</Name>
+			</Feature>
+			<Feature Name="Advanced cutscenes">
+				<Name>Erweiterte Zwischensequenzen</Name>
+				<Description>Reflect player choices in the story by rendering cutscenes in realtime</Description>
+			</Feature>
+			<Feature Name="Motion capture">
+				<Name>Bewegungsaufnahme</Name>
 			</Feature>
 		</Features>
 		<Categories>
@@ -207,46 +354,129 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Category>
 		</Categories>
 	</Software>
-	<Software Name="Webbased Game">
-		<Name>Browsergame</Name>
-		<Description>Browsergames sind an kein Betriebssystem gebunden, wodurch Du nicht in der Lage bist, das zugrunde liegende System in vollem Umfang zu nutzen.</Description>
+	<Software Name="Office Software">
+		<Name>Office Software</Name>
+		<Description></Description>
 		<Features>
-			<Feature Name="HTML based">
-				<Name>HTML basiert</Name>
-				<Description>Spreadsheet-Spiele! Yaaay!</Description>
+			<Feature Name="Word processor">
+				<Name>Textverarbeitungssystem</Name>
 			</Feature>
-			<Feature Name="2D graphics">
-				<Name>2D Grafik</Name>
+			<Feature Name="WYSIWYG">
+				<Name>WYSIWYG</Name>
+				<Description>What You See Is What You Get</Description>
 			</Feature>
-			<Feature Name="3D graphics">
-				<Name>3D Grafik</Name>
-				<Description>Fügt eine dritte Dimension zu deinem Browsergame hinzu.</Description>
+			<Feature Name="Spellcheck">
+				<Name>Rechtschreibprüfung</Name>
+				<Description>Make everyone seem competent</Description>
 			</Feature>
-			<Feature Name="Music">
-				<Name>Musik</Name>
+			<Feature Name="Auto layout">
+				<Name>Auto layout</Name>
+				<Description>i.e. spending 30 minutes trying to make the picture fit in the place</Description>
 			</Feature>
-			<Feature Name="MMO">
-				<Name>MMO</Name>
+			<Feature Name="Spreadsheet">
+				<Name>Kalkulationstabelle</Name>
+			</Feature>
+			<Feature Name="Custom functions">
+				<Name>Kundenspezifische Funktionen</Name>
+				<Description>A spreadsheet can always get more complicated</Description>
+			</Feature>
+			<Feature Name="Charts">
+				<Name>Charts</Name>
+			</Feature>
+			<Feature Name="Presentation">
+				<Name>Presentation</Name>
+			</Feature>
+			<Feature Name="Vector graphics">
+				<Name>Vektor Grafiken</Name>
+				<Description>Lines, boxes and circles, basically</Description>
+			</Feature>
+			<Feature Name="Animations">
+				<Name>Animationen</Name>
+				<Description>What better way to make your presention seem cheesy</Description>
+			</Feature>
+			<Feature Name="Sound effects">
+				<Name>Sound-Effekte</Name>
+				<Description>And this is our projected earnings for the next fiscal year *pew* *pew*</Description>
+			</Feature>
+			<Feature Name="Templates">
+				<Name>Vorlagen</Name>
+			</Feature>
+			<Feature Name="Clipart">
+				<Name>Clipart</Name>
+			</Feature>
+			<Feature Name="Scripting">
+				<Name>Scripting</Name>
+				<Description>Because you can never satisfy everyone</Description>
+			</Feature>
+			<Feature Name="Online backup">
+				<Name>Online backup</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="CMS">
+		<Name>CMS</Name>
+		<Description>A Content Management System is mostly used for the very specific task of managing content</Description>
+		<Features>
+			<Feature Name="File management">
+				<Name>Dateimanagement</Name>
+			</Feature>
+			<Feature Name="Visualization tools">
+				<Name>Visualisierungstools</Name>
+			</Feature>
+			<Feature Name="WYSIWYG">
+				<Name>WYSIWYG</Name>
+				<Description>What You See Is probably What You Get</Description>
+			</Feature>
+			<Feature Name="Community">
+				<Name>Community</Name>
+				<Description>The internet needs more comment sections</Description>
+			</Feature>
+			<Feature Name="Widgets">
+				<Name>Widgets</Name>
+				<Description>Also known as social media buttons</Description>
+			</Feature>
+			<Feature Name="Themes">
+				<Name>Themes</Name>
+			</Feature>
+			<Feature Name="GUI">
+				<Name>GUI</Name>
+				<Description>Graphical User Interface</Description>
+			</Feature>
+			<Feature Name="Bank integration">
+				<Name>Bank-Integration</Name>
+			</Feature>
+			<Feature Name="Document generation">
+				<Name>Dokumentenerstellung</Name>
+				<Description>Invoices for everyone</Description>
+			</Feature>
+			<Feature Name="Statistics">
+				<Name>Statistiken</Name>
+			</Feature>
+			<Feature Name="User hierarchy">
+				<Name>Benutzerhierarchie</Name>
+			</Feature>
+			<Feature Name="Work delegation">
+				<Name>Arbeits Delegation</Name>
+				<Description>Alternatively, run around the office screaming tasks at people</Description>
+			</Feature>
+			<Feature Name="Synchronization">
+				<Name>Synchronisation</Name>
+				<Description>Or send floppy disk around once in a while</Description>
 			</Feature>
 		</Features>
 		<Categories>
-			<Category Name="RPG">
-				<Name>RPG</Name>
-				<Description>Rollenspiel</Description>
+			<Category Name="Web Publishing">
+				<Name>Web Publishing</Name>
+				<Description>To avoid forcing bloggers to do backend webprograming</Description>
 			</Category>
-			<Category Name="Adventure">
-				<Name>Adventure</Name>
+			<Category Name="Financial">
+				<Name>Finanzen</Name>
+				<Description>Help businesses keep track of their money</Description>
 			</Category>
-			<Category Name="Simulation">
-				<Name>Simulation</Name>
-				<Description>Du spielst gerade eine!</Description>
-			</Category>
-			<Category Name="Sports">
-				<Name>Sport</Name>
-			</Category>
-			<Category Name="RTS">
-				<Name>RTS</Name>
-				<Description>Echtzeitstrategie</Description>
+			<Category Name="Workflow">
+				<Name>Arbeitsablauf</Name>
+				<Description>Das virtuelle whiteboard</Description>
 			</Category>
 		</Categories>
 	</Software>
