@@ -1380,5 +1380,66 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="Look again">Erneut suchen</Item>
 		<Item Name="LookAgainPrompt">Möchtest Du wirklich nochmal suchen? Das kostet Dich {0}</Item>
 	</Alpha7.7>
+<Alpha8.1>
+		<Item Name="FeatureUnlockWarning">Diese Funktion wird freigeschaltet in {0}</Item>
+		<Item Name="FeatureDependencyWarning">Diese Funktion ist abhängig von {0}, Bitte erst diese Funktion auswählen</Item>
+		<Item Name="FeatureFromWarning">Diese Funktion wird ersetzt durch {0}</Item>
+		<Item Name="FeatureDependencyUnlockWarning">Diese Funktion ist abhängig von {0} von {1}, welche noch nicht freigeschaltet ist</Item>
+		<Item Name="FeatureDependencyMarketWarning">Diese Funktion ist abhängig von {0} von {1}, welche auf dem Markt nicht verfügbar ist</Item>
+		<Item Name="FeatureDependencyPickedWarning">Diese Funktion ist abhängig von {0}, welche für {1} nicht verfügbar ist</Item>
+		<Item Name="FeatureDependencyOSWarning">Alle unterstützen Betriebssysteme müssen {0} haben um diese Funktion freizuschalten</Item>
+		<Item Name="SoftwareSupportWaning">Es ist eine Weile her, seit dem letzten Release von {0}({1}) und deinen Fans fällt das auf</Item>
+		<Item Name="SheetRoyalties">Lizenzgebühren</Item>
+		<Item Name="Royalties">Lizenzgebühren</Item>
+		<Item Name="Royalty">Lizenz</Item>
+		<Item Name="Research">Forschung</Item>
+		<Item Name="Researching">Forschen</Item>
+		<Item Name="ResearchDesc">Erforsche und Patentiere Funktionen um Lizenzgebühren von deinen Konkurrenten zu bekommen</Item>
+		<Item Name="Patent">Patent</Item>
+		<Item Name="Patents">Patente</Item>
+		<Item Name="Durability">Haltbarkeit</Item>
+		<Item Name="Work boost">Arbeitsbonus</Item>
+		<Item Name="Room boost">Raumbonus</Item>
+		<Item Name="Mood">Stimmung</Item>
+		<Item Name="Horizontal parking">Horizontales Parken</Item>
+		<Item Name="Vertical parking">Vertikales Parken</Item>
+		<Item Name="Heating">Heizung</Item>
+		<Item Name="Cooling">Kühlung</Item>
+		<Item Name="ResearchCancelWarning">Bist Du Dir sicher, dass Du diese Forschung abbrechen möchtest? Du verlierst den gesamten Fortschritt</Item>
+		<Item Name="PatentExpiration">Dein Patent auf {1} für {0} ist abgelaufen</Item>
+		<Item Name="PatentTooSlow">Another company has finished researching {1} from {0} before you</Item>
+		<Item Name="Unlocks">Freischaltungen</Item>
+		<Item Name="Researched">Erforscht</Item>
+		<Item Name="CompanyMissingWarning">Die Firma existiert nicht mehr</Item>
+		<Item Name="Find owner">Eigentümer finden</Item>
+		<Item Name="Software">Software</Item>
+		<Item Name="Port">Port</Item>
+		<Item Name="Porting">Portierung</Item>
+		<Item Name="PortTo">Portieren auf {0}</Item>
+		<Item Name="UnsupportedProcWarning">Sie haben nicht unterstützte Server-Prozesse!</Item>
+		<Item Name="Max quality">Max Qualität</Item>
+		<Item Name="Fence">Zaun</Item>
+		<Item Name="Construct fence">Zaun bauen</Item>
+		<Item Name="Construct rectangle fence">Rechteckigen Zaun bauen</Item>
+		<Item Name="ActionMaterial">Raum Baumaterial</Item>
+		<Item Name="Drag camera">Kamera bewegen</Item>
+		<Item Name="DownFloor">Gehe eine Etage tiefer</Item>
+		<Item Name="UpFloor">Gehe eine Etage höher</Item>
+		<Item Name="Salaries">Gehälter</Item>
+		<Item Name="Force role">Rolle erzwingen</Item>
+		<Item Name="ForceRoleHint">Whether to force employees to only work in their strongest role</Item>
+		<Item Name="Preferred age">Bevorzugtes Alter</Item>
+		<Item Name="Education cooldown">Bildung Abklingzeit</Item>
+		<Item Name="EducationCooldownHint">How long to wait between education. Use a negative number to allow several courses at once</Item>
+		<Item Name="SheetDividends">Dividenden</Item>
+		<Item Name="Dividends">Dividenden</Item>
+		<Item Name="ResearchPhase1">Erforschen</Item>
+		<Item Name="ResearchPhase2">Testet</Item>
+		<Item Name="ResearchPhase3">Patent einreichen</Item>
+	</Alpha8.1>
+	<Alpha8.2>
+		<Item Name="NoResearch">Aktuell gibt es nichts zu erforschen</Item>
+		<Item Name="Own office">eigenes Büro</Item>
+	</Alpha8.2>
 </UI>
 
