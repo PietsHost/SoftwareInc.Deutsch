@@ -758,7 +758,7 @@ Firma: {1}({2})
 Typ: {4} {3}
 Open Source: {5}
 Im Haus: {6}
-Veröffentlichungsdatum Datum: {7}</Item>
+Veröffentlichungsdatum: {7}</Item>
 		<Item Name="ProductDetailRightText">Qualität: {0}
 Wahrnehmung: {1}
 Popularität: {2}
