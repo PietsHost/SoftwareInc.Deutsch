@@ -1439,7 +1439,61 @@ Lass die Wörter nicht den Boden berühren</Item>
 	</Alpha8.1>
 	<Alpha8.2>
 		<Item Name="NoResearch">Aktuell gibt es nichts zu erforschen</Item>
-		<Item Name="Own office">eigenes Büro</Item>
 	</Alpha8.2>
+	<Alpha8.3>
+		<Item Name="Own office">eigenes Büro</Item>
+		<Item Name="CodeMiniGameEnd">Game Over! Klicken zum fortfahren</Item>
+		<Item Name="RoomAngleError2">Winkel der Mauer muss grösser als {0}° sein</Item>
+		<Item Name="Hint">Hinweis</Item>
+		<Item Name="Hints">Hinweise</Item>
+		<Item Name="HintEmployeeAssign">You can assign employees to furniture by holding shift and selecting both the employee(s) and the furniture and then right clicking</Item>
+		<Item Name="HintStaffAssign">You can assign staff to rooms by holding shift and selecting both the staff member(s) and the room(s) and then right clicking</Item>
+		<Item Name="HintMultipleBuild">You can keep placing objects and rooms in build mode by holding shift, this also works when duplicating objects</Item>
+		<Item Name="HintQuickSelect">You can easily select multiple objects of a specific type by holding ctrl and the left mouse button while dragging the mouse</Item>
+		<Item Name="HintSelectFurnitureType">The select furniture type option is extremely versatile, you can use it to select all furniture in a room or the selected furniture type(s) in the selected room(s)</Item>
+		<Item Name="HintCopyColor">You can easily copy furniture color by setting the default style and then resetting style for selected furniture from the context menu</Item>
+		<Item Name="HintProductRelease">Keep an eye on upcoming and recently released products before releasing your own to avoid getting overshadowed</Item>
+		<Item Name="HintFurnitureCopyMultiple">You can copy multiple objects in an arrangement at a time by holding shift and selecting them before duplicating</Item>
+		<Item Name="HintEmployeeEducation">You can educate multiple employees at a time by having them all selected before you open the education window</Item>
+		<Item Name="HintEmployeeSelection">You can hold ctrl and click to select multiple employees or hold shift to select a range of employees, which also works for some other lists in the game</Item>
+		<Item Name="HintAutoScaleSegment">For some wall segments, you can hold ctrl to auto scale the segment to fit the wall you want to build it on</Item>
+	</Alpha8.3>
+		<Alpha8.4>
+		<Item Name="HintElevatorBeam">You can select elevators in build mode to show a guiding beam, which will help you align elevators on other floors</Item>
+		<Item Name="HRHireBudgetWarning">HR for team {0} does not have a budget big enough to hire more employees</Item>
+		<Item Name="PortNonOSError">This product is not operating system dependant</Item>
+		<Item Name="ResearchOwnedError">This has already been researched</Item>
+		<Item Name="SoftwareSoftwareDependencyWarning">This software depends on {1} to be developed. Please select a product of type {1} to continue</Item>
+		<Item Name="SoftwareFeatureError">You need at least one feature to begin development</Item>
+	</Alpha8.4>
+	<Alpha8.5>
+		<Item Name="Bank">Bank</Item>
+		<Item Name="HintGridSnapToWall">You can use the "Anchor grid" button, above the build button on the left, to snap the grid to a wall. This makes it a lot easier to align furniture to angled walls</Item>
+	</Alpha8.5>
+	<Alpha8.6>
+		<Item Name="Upload">Upload</Item>
+		<Item Name="Steam Workshop">Steam Workshop</Item>
+		<Item Name="SteamWorkshopHint">Click here to start uploading your mods to the Steam Workshop</Item>
+		<Item Name="FailedSteamUpload">Failed uploading mod with error code: {0}</Item>
+		<Item Name="SuccessSteamUpload">Mod uploaded successfully! Remember to change the visibility of your mod in the workshop.</Item>
+		<Item Name="SteamUploadDenied">You do not have permission to upload this mod to the Steam Workshop</Item>
+		<Item Name="SteamUploadFileType">Found file of type {0}. Please only upload relevant files</Item>
+		<Item Name="SteamUploadConfirmation">Are you sure you want to upload this to the Steam Workshop? Please refrain from uploading work that is not yours.</Item>
+		<Item Name="HintWorkItemActions">You can left click and drag work items to re-order them in the list. You can right click a work item to collapse it.</Item>
+		<Item Name="Uploaded">Uploaded</Item>
+	</Alpha8.6>
+	<Alpha8.7>
+		<Item Name="BlueprintPrompt">Please pick a name for your blueprint</Item>
+		<Item Name="BlueprintPromptTitle">Blueprint name</Item>
+		<Item Name="BlueprintPromptDefault">My blueprint</Item>
+		<Item Name="BlueprintPromptError">That name is already taken</Item>
+		<Item Name="BlueprintButton">Building blueprints</Item>
+		<Item Name="BlueprintButtonDesc">Choose from a list of pre-made and pre-furnished buildings</Item>
+		<Item Name="SaveBlueprint">Save selected rooms</Item>
+		<Item Name="Blueprints">Blueprints</Item>
+		<Item Name="Build">Build</Item>
+		<Item Name="BlueprintSaveError">Failed saving blueprint with error: {0}</Item>
+		<Item Name="BlueprintSteamDelete">Please unsubscribe from this item in the Steam Workshop. If you uploaded this to the Workshop, please delete it manually from the Blueprints folder.</Item>
+	</Alpha8.7>
 </UI>
 
