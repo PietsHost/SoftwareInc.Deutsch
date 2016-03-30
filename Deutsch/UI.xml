@@ -532,7 +532,7 @@
 		<Item Name="RoomInRoom">Du kannst nicht in anderen Räumen bauen. Wenn Du ein Raum teilen möchtest musst Du Wand an Wand bauen.</Item>
 		<Item Name="RoomOutOfPlot">Du kannst nur innerhalb der Grundstücksgrenzen bauen.</Item>
 		<Item Name="RoomTooSmall">Deine Räume müssen mindestens 2x2 groß sein.</Item>
-		<Item Name="CannotReplaceDuplicateSegment">{0} kann nicht Durch {0} ersetzt werden.</Item>
+		<Item Name="CannotReplaceDuplicateSegment">{0} kann nicht durch {0} ersetzt werden.</Item>
 		<Item Name="SegmentOnBoundary">Du kannst dies nur innerhalb der Raumbegrenzung platzieren.</Item>
 		<Item Name="FurnitureInRoom">Du kannst Möbel nur in deine Räume stellen.</Item>
 		<Item Name="FurnitureOnWall">Du kannst dies nur an Wände platzieren.</Item>
@@ -628,7 +628,7 @@ Möchtest Du ein Darlehn bei der Bank in Höhe von {1} beantragen, um zu vermeid
 		<Item Name="Nobody">niemand</Item>
 		<Item Name="Currently on">Aktuell eingeschaltet</Item>
 		<Item Name="Currently off">Aktuell ausgeschaltet</Item>
-		<Item Name="FurnitureUnlock">Dieses Item wird im Jahr {0} freigeschaltet</Item>
+		<Item Name="FurnitureUnlock">Dieser Gegenstand wird im Jahr {0} freigeschaltet</Item>
 	</FurnitureInfo>
 	<RoomLimitNames>
 		<Item Name="Lounge">Warteraum</Item>
@@ -719,7 +719,7 @@ Möchtest Du ein Darlehn bei der Bank in Höhe von {1} beantragen, um zu vermeid
 		<Item Name="Alpha">Alpha-Phase</Item>
 		<Item Name="Beta">Beta-Test</Item>
 		<Item Name="Promote">Hochstufen</Item>
-		<Item Name="Release">Release</Item>
+		<Item Name="Release">Veröffentlichen</Item>
 		<Item Name="Delay">Verzug</Item>
 		<Item Name="NoBugs">Keine Fehler zum Beheben.</Item>
 		<Item Name="StillBugs">{0} Fehler behoben</Item>
@@ -758,7 +758,7 @@ Firma: {1}({2})
 Typ: {4} {3}
 Open Source: {5}
 Im Haus: {6}
-Release Datum: {7}</Item>
+Veröffentlichungsdatum Datum: {7}</Item>
 		<Item Name="ProductDetailRightText">Qualität: {0}
 Wahrnehmung: {1}
 Popularität: {2}
@@ -810,7 +810,7 @@ Rechtsklick um abzubrechen.</Item>
 	<Item Name="Unassigned">Nicht zugewiesene</Item>
 	<Item Name="SaveName">Gebe Speichername ein...</Item>
 	<Item Name="Save">Speichern</Item>
-	<Item Name="Load">Last</Item>
+	<Item Name="Load">Laden</Item>
 	<Item Name="Apply">anwenden</Item>
 	<Item Name="New team">neues Team</Item>
 	<Item Name="Team name">Team Name</Item>
@@ -936,7 +936,7 @@ Rechtsklick um abzubrechen.</Item>
 		<Item Name="Year">Jahr</Item>
 		<Item Name="PresimLoadMsg">Simuliert Markt...</Item>
 		<Item Name="VacationNotify">{0} Mitarbeiter ab jetzt im Urlaub.</Item>
-		<Item Name="RetireNotify">{0} ist im Ruhestand gegangen.</Item>
+		<Item Name="RetireNotify">{0} ist in den Ruhestand gegangen.</Item>
 		<Item Name="SickNotify">{0} hat sich krank gemeldet.</Item>
 		<Item Name="DiedNotify">{0} ist verstorben!</Item>
 		<Item Name="HospitalizedNotify">{0} hatte einen Unfall und liegt im Krankenhaus!</Item>
@@ -978,7 +978,7 @@ Bist Du sicher, dass Du fortfahren möchtest?</Item>
 		<Item Name="FurnitureBlockedStaff">Einige Möbel können von deine Mitarbeiter nicht erreicht werden.</Item>
 		<Item Name="DesignDetailBoxNew">ETA: {3}
 Künstler benötigt: {7}
-Erwartetes Interesse: {0}
+Erwartetes Interesse: {0}%
 Innovation: {4}
 Stabilität: {5}
 Benutzerfreundlichkeit: {6}
@@ -1116,8 +1116,8 @@ Tut mir sehr Leid für die Unannehmlichkeiten.</Item>
 	<Alpha5.4>
 		<Item Name="WindowPref">Fenstereinstellungen</Item>
 		<Item Name="Reset">zurückstellen</Item>
-		<Item Name="Upcoming releases">kommende Releases</Item>
-		<Item Name="UpcomingRelDesc">Hier findest Du eine Liste der angekündigten Releases von deinen Mitbewerbern.</Item>
+		<Item Name="Upcoming releases">kommende Veröffentlichungen</Item>
+		<Item Name="UpcomingRelDesc">Hier findest Du eine Liste der angekündigten Veröffentlichungen von deinen Mitbewerbern.</Item>
 		<Item Name="Close all windows">Schließe alle Fenster</Item>
 		<Item Name="CloseAllWindowWarning">Bist Du sicher, dass Du dieses Fenster schließen möchtest?</Item>
 		<Item Name="Only sequels">nur Fortsetzungen</Item>
@@ -1175,7 +1175,7 @@ oder drücke {0} oder {1}</Item>
 Du kannst ihn nicht wiederherstellen!</Item>
 		<Item Name="DeleteFail">Beim Löschen der Datei ist ein Fehler ist aufgetreten.
 Überprüfe ob Du die Berechtigung hast diese Datei zu löschen.</Item>
-		<Item Name="AskMarketingOption">Informiere Dich über die Vermarktung von neuen Releases</Item>
+		<Item Name="AskMarketingOption">Informiere Dich über die Vermarktung von neuen Veröffentlichungen</Item>
 	</Alpha6.5>
 	<Alpha6.11>
 		<Item Name="Overall skill">Allgemeine Fähigkeiten</Item>
@@ -1335,7 +1335,7 @@ Maximale Bandbreitennutzung: {3}</Item>
 	</FurnitureColorNames>
 	<Alpha7.6>
 		<Item Name="Minigame">Minigame</Item>
-		<Item Name="MinigameLifeError">Du hast bereits alle Leben aufgebraucht :(</Item>
+		<Item Name="MinigameLifeError">Du hast bereits alle Leben aufgebraucht</Item>
 		<Item Name="Lives left">Verbleibende Leben</Item>
 		<Item Name="Multiplier">Multiplikator</Item>
 		<Item Name="MinigameHint">Nur für kleine Projekte zu empfehlen, direkt ab Beginn</Item>
@@ -1380,7 +1380,7 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="Look again">Erneut suchen</Item>
 		<Item Name="LookAgainPrompt">Möchtest Du wirklich nochmal suchen? Das kostet Dich {0}</Item>
 	</Alpha7.7>
-<Alpha8.1>
+	<Alpha8.1>
 		<Item Name="FeatureUnlockWarning">Diese Funktion wird freigeschaltet in {0}</Item>
 		<Item Name="FeatureDependencyWarning">Diese Funktion ist abhängig von {0}, Bitte erst diese Funktion auswählen</Item>
 		<Item Name="FeatureFromWarning">Diese Funktion wird ersetzt durch {0}</Item>
@@ -1388,7 +1388,7 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="FeatureDependencyMarketWarning">Diese Funktion ist abhängig von {0} von {1}, welche auf dem Markt nicht verfügbar ist</Item>
 		<Item Name="FeatureDependencyPickedWarning">Diese Funktion ist abhängig von {0}, welche für {1} nicht verfügbar ist</Item>
 		<Item Name="FeatureDependencyOSWarning">Alle unterstützen Betriebssysteme müssen {0} haben um diese Funktion freizuschalten</Item>
-		<Item Name="SoftwareSupportWaning">Es ist eine Weile her, seit dem letzten Release von {0}({1}) und deinen Fans fällt das auf</Item>
+		<Item Name="SoftwareSupportWaning">Es ist eine Weile her, seit der letzten Veröffentlichung von {0}({1}) und deinen Fans fällt das auf</Item>
 		<Item Name="SheetRoyalties">Lizenzgebühren</Item>
 		<Item Name="Royalties">Lizenzgebühren</Item>
 		<Item Name="Royalty">Lizenz</Item>
@@ -1446,10 +1446,10 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="RoomAngleError2">Winkel der Mauer muss grösser als {0}° sein</Item>
 		<Item Name="Hint">Hinweis</Item>
 		<Item Name="Hints">Hinweise</Item>
-		<Item Name="HintEmployeeAssign">You can assign employees to furniture by holding shift and selecting both the employee(s) and the furniture and then right clicking</Item>
-		<Item Name="HintStaffAssign">You can assign staff to rooms by holding shift and selecting both the staff member(s) and the room(s) and then right clicking</Item>
-		<Item Name="HintMultipleBuild">You can keep placing objects and rooms in build mode by holding shift, this also works when duplicating objects</Item>
-		<Item Name="HintQuickSelect">You can easily select multiple objects of a specific type by holding ctrl and the left mouse button while dragging the mouse</Item>
+		<Item Name="HintEmployeeAssign">Du kannst Angestellten Möbel zuweisen in dem du Shift gedrückt hälst und den Angestellten und das Möbelstück ausgewählt hast und dann die rechte Maustaste drückst</Item>
+		<Item Name="HintStaffAssign">Du kannst Angestellten Räume zuweisen in dem du die Shift Taste gedrückt hälst, beides markierst und dann die rechte Maustaste drückst</Item>
+		<Item Name="HintMultipleBuild">Du kannst mehrere Objekte und Räume im Baumodus platzieren wenn du die Shift Taste gedrückt hälst. Das funktioniert auch wenn du Objekte duplizierst</Item>
+		<Item Name="HintQuickSelect">Du kannst mehrere Objekte eines bestimmten Typs auswählen in dem du Strg gedrückt hälst wärend du die Maus bewegst</Item>	
 		<Item Name="HintSelectFurnitureType">The select furniture type option is extremely versatile, you can use it to select all furniture in a room or the selected furniture type(s) in the selected room(s)</Item>
 		<Item Name="HintCopyColor">You can easily copy furniture color by setting the default style and then resetting style for selected furniture from the context menu</Item>
 		<Item Name="HintProductRelease">Keep an eye on upcoming and recently released products before releasing your own to avoid getting overshadowed</Item>
