@@ -1,16 +1,16 @@
 <Tutorial>
-	<Message id="ALPHA WORK1">Ihr Design hat nun die Alphaphase erreicht nun geht es mit dem richtigen Entwickeln los.
+	<Message id="ALPHA WORK1">Ihr Design hat nun die Alphaphase erreicht. Nun geht es mit dem richtigen Entwickeln los.
 
-Die Alphaphase besteht aus drei Stufen, erstens „Alpha“, in dieser Stufe wird das Produkt entwickelt, dann kann es zu einer kleinen „Verzögerung“ kommen, je nachdem wie Kompetent ihre Angestellten sind, und als letztes „Beta“  in dieser Phase werden so viele Bugs wie möglich gefixt.
+Die Alphaphase besteht aus drei Stufen, erstens „Alpha“, in dieser Stufe wird das Produkt entwickelt, dann kann es zu einer kleinen „Verzögerung“ kommen, je nachdem wie Kompetent ihre Angestellten sind, und als letztes „Beta“. In dieser Phase werden so viele Bugs wie möglich gefixt.
 
-Drücken Sie „Promote“ im Aktionsmenü wenn die Alphaphase abgeschlossen ist. Beachte das es zu Qualitätsverlusten kommt wenn Sie die Alphaphase zu früh beendest, jedoch ist es die einzige Möglichkeit wenn Sie einem Kontrahenten ausstechen wollen oder Gefahr  laufen kein Geld mehr zu haben.
+Drücken Sie „Promote“ im Aktionsmenü wenn die Alphaphase abgeschlossen ist. Beachten Sie, dass es zu Qualitätsverlusten kommt wenn Sie die Alphaphase zu früh beenden, jedoch ist es die einzige Möglichkeit wenn Sie einem Kontrahenten ausstechen wollen oder Gefahr laufen kein Geld mehr zu haben.
 
-Das Tutorial wird fortgesetzt wenn sie die Verzögerungsphase begonnen haben.</Message>
-	<Message id="ALPHA WORK2">Ihre Alpha ist in eine Verzögerungsphase eingetreten, in dieser Phase versuchen die Angestellten alle Bugs zu beheben, um schnellst möglich in die nächste Phase zu kommen.
+Das Tutorial wird fortgesetzt wenn Sie die Verzögerungsphase begonnen haben.</Message>
+	<Message id="ALPHA WORK2">Ihre Alpha ist in eine Verzögerungsphase eingetreten, in dieser Phase versuchen die Angestellten alle Bugs zu beheben, um schnellstmöglich in die nächste Phase zu kommen.
 
-Drücke „Beta“ oder warte bis die Verzögerung beendet ist.
+Drücken Sie „Beta“ oder warten Sie bis die Verzögerung beendet ist.
 
-Beachte dass der vorschnelle Einstieg zum Ende hin länger dauern kann als die Bugs jetzt zu fixen.
+Beachten Sie, dass der vorschnelle Einstieg zum Ende hin länger dauern kann als die Bugs jetzt zu fixen.
 
 Das Tutorial wird mit Anfang der Betaphase fortgesetzt.</Message>
 	<Message id="ALPHA WORK3">Bugs are now being fixed. The amount of bugs that can be fixed depends on the competence of your employees.

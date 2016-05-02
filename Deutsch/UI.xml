@@ -1477,7 +1477,7 @@ Lassen Sie die Wörter nicht den Boden berühren</Item>
 		<Item Name="FailedSteamUpload">Fehler beim Hochladen des Mods. Fehler Code: {0}</Item>
 		<Item Name="SuccessSteamUpload">Mod erfolgreich hochgeladen! Denken Sie daran, die Sichtbarkeit Ihres Mods im Workshop zu ändern.</Item>
 		<Item Name="SteamUploadDenied">Sie haben keine Berechtigungen, diesen Mod in den Steam Workshop hochzuladen</Item>
-		<Item Name="SteamUploadFileType">Date vom Typ {0} gefunden. Bitte lade nur relevante Dateien hoch</Item>
+		<Item Name="SteamUploadFileType">Datei vom Typ {0} gefunden. Bitte lade nur relevante Dateien hoch</Item>
 		<Item Name="SteamUploadConfirmation">Möchten Sie diesen Mod wirklich in den Steam Workshop hochladen? Bitte unterlassen Sie das Hochladen von Arbeit, die nicht von Ihnen selbst stammt.</Item>
 		<Item Name="HintWorkItemActions">Sie können Elemente durch Klicken und Ziehen in der Liste neu ordnen. Ein Rechtsklick auf ein Item expandiert dieses.</Item>
 		<Item Name="Uploaded">Hochgeladen</Item>
