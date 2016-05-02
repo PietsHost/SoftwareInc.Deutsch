@@ -1495,5 +1495,109 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="BlueprintSaveError">Failed saving blueprint with error: {0}</Item>
 		<Item Name="BlueprintSteamDelete">Please unsubscribe from this item in the Steam Workshop. If you uploaded this to the Workshop, please delete it manually from the Blueprints folder.</Item>
 	</Alpha8.7>
+    <Alpha8.8>
+		<Item Name="Square meters">Quadratmeter</Item>
+		<Item Name="Building cost">Baukosten</Item>
+		<Item Name="Furniture cost">Möbel Kosten</Item>
+		<Item Name="Computers">Computer</Item>
+		<Item Name="Incompatible furniture">Inkompatible Möbel</Item>
+		<Item Name="Distribution">Vertrieb</Item>
+		<Item Name="Build Mode">Baumodus</Item>
+		<Item Name="Welcome">Willkommen</Item>
+		<Item Name="Customization">Anpassung</Item>
+		<Item Name="Design work">Design Arbeit</Item>
+		<Item Name="Alpha work">Alpha Arbeit</Item>
+		<Item Name="Support work">Support Arbeit</Item>
+		<Item Name="Hiring">Verleih</Item>
+		<Item Name="TutorialPost">{0} tutorial</Item>
+		<Item Name="TutorialPrompt">Would you like to begin the {0} tutorial?</Item>
+		<Item Name="Tutorial">Tutorial</Item>
+		<Item Name="Not now">Nicht jetzt</Item>
+		<Item Name="Never">Nie</Item>
+		<Item Name="Disable all">Alle deaktivieren</Item>
+		<Item Name="Skip">Überspringen</Item>
+		<Item Name="End">Beenden</Item>
+		<Item Name="CancelTutorial">Are you sure you want to cancel the tutorial?</Item>
+		<Item Name="ModEnableError">The selected mod is not compatible with the other mods selected</Item>
+		<Item Name="Preparing">Vorbereiten</Item>
+		<Item Name="Uploading">Hochladen</Item>
+		<Item Name="Committing">Committing</Item>
+	</Alpha8.8>
+	<Alpha8.9>
+		<Item Name="Noise reduction">Geräuschreduzierung</Item>
+		<Item Name="Stressed">Ich bin gestresst</Item>
+		<Item Name="StressWarning">An employee is stressed. Make sure you don't overwork them with too many tasks and send them home when they are completely stressed</Item>
+		<Item Name="SocialProblem">Ich fühle mich isoliert</Item>
+		<Item Name="SocialWarning">An employee is not having their social needs met. An open working environment, team meetings and furniture for socializing can help</Item>
+		<Item Name="Stress">Stress</Item>
+		<Item Name="Social">Social</Item>
+		<Item Name="Independent">Unabhängig</Item>
+		<Item Name="Hard worker">Fleißiger Arbeiter</Item>
+		<Item Name="Fast learner">Schneller Lerner</Item>
+		<Item Name="Lazy">Faul</Item>
+		<Item Name="Stressed">gestresst</Item>
+		<Item Name="IndependantVsSocial">A good leader needs to be social, but an independant employee will happily work all day by themselves in their booths</Item>
+		<Item Name="LazyVsStressed">A lazy employee will try to get out of work as much as possible, whereas a stressed employee will quickly feel overworked</Item>
+		<Item Name="HardWorkVsFastLearn">A hard worker always gives it 110%, but a fast learner will pick up new skills more easily</Item>
+		<Item Name="InHouseWarning">You are about to start deveping an in-house product, which means you won't be able to sell it or license it.
+Are you sure you want to continue?</Item>
+		<Item Name="InHouseMarketing">You cannot market in-house products</Item>
+		<Item Name="RotateRoomHint">Press {0} or {1} to rotate the buliding</Item>
+		<Item Name="Appx bandwidth">Durchs. Bandbreite</Item>
+	</Alpha8.9>
+	<Alpha8.10>
+		<Item Name="Zoom">Zoom</Item>
+		<Item Name="Gamma">Gamma</Item>
+		<Item Name="CleaningBlocked">Something is blocking your cleaning staff from cleaning this room</Item>
+		<Item Name="Head">Kopf</Item>
+		<Item Name="Torso">Körper</Item>
+		<Item Name="Legs">Beine</Item>
+		<Item Name="Accessories">Zubehör</Item>
+		<Item Name="Business Casual">Business Casual</Item>
+		<Item Name="Full Beard">Vollbart</Item>
+		<Item Name="Stubble">Stoppel</Item>
+		<Item Name="Mens Blouse">Männerhemd</Item>
+		<Item Name="Mens Pants">Männerhose</Item>
+		<Item Name="Glasses">Brillen</Item>
+		<Item Name="Knot">Knoten</Item>
+		<Item Name="Rouge">Rouge</Item>
+		<Item Name="Womens Blouse">Bluse</Item>
+		<Item Name="Womens Pants">Frauenhose</Item>
+		<Item Name="HintTeamSizeEffectiveness">Putting more people on a project than needed does not necessarily make development faster and might actually decrease effectiveness</Item>
+		<Item Name="Womens Hoodie">Women's Hoodie</Item>
+		<Item Name="Mens Hoodie">Men's Hoodie</Item>
+		<Item Name="Womens Shirt">Women's Shirt</Item>
+		<Item Name="Mens Shirt">Men's Shirt</Item>
+		<Item Name="Womens T-Shirt">Women's T-Shirt</Item>
+		<Item Name="Mens T-Shirt">Men's T-Shirt</Item>
+		<Item Name="Long Skirt">Long Skirt</Item>
+		<Item Name="Short Skirt">Short Skirt</Item>
+		<Item Name="Trumpet Pants">Trumpet Pants</Item>
+		<Item Name="Cargo Shorts">Cargo Shorts</Item>
+		<Item Name="Mens Shorts">Men's Shorts</Item>
+		<Item Name="Trousers">Trousers</Item>
+		<Item Name="Long Curly Hair">Long Curly Hair</Item>
+		<Item Name="Long Hair">Long Hair</Item>
+		<Item Name="Semi-Long Hair">Semi-Long Hair</Item>
+		<Item Name="Afro">Afro</Item>
+		<Item Name="Hire Cook">Koch einstellen</Item>
+		<Item Name="Cook">Koch</Item>
+		<Item Name="Preparing food">Essen vorbereiten</Item>
+		<Item Name="Serving food">Essen servieren</Item>
+		<Item Name="Canteen">Kantine</Item>
+		<Item Name="NameChangeTitle">Neuer Name</Item>
+		<Item Name="NameChangePrompt">Mitarbeitername:</Item>
+		<Item Name="Change name">Namen ändern</Item>
+		<Item Name="DeleteKeyHintHint">You can configure a keyboard shortcut to fire employees and destroy objects. The default is the DELETE key</Item>
+		<Item Name="SaveFailIOError">Failed saving game with error message:
+{0}</Item>
+		<Item Name="Currency short form">Currency short form</Item>
+		<Item Name="MillionPost">M</Item>
+		<Item Name="BillionPost">B</Item>
+		<Item Name="UpdateBlueprint">Update-Plan</Item>
+		<Item Name="SplitUnsupported">This split would result in unsupported rooms</Item>
+		<Item Name="ModActivateError">Failed activating mod. Check log for details.</Item>
+		<Item Name="HexColor">Hex</Item>
+	</Alpha8.10>
 </UI>
 
