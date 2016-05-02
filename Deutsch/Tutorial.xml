@@ -1,18 +1,18 @@
 <Tutorial>
-	<Message id="ALPHA WORK1">Your design has now been promoted to alpha and the real development will begin.
+	<Message id="ALPHA WORK1">Ihr Design hat nun die Alphaphase erreicht nun geht es mit dem richtigen Entwickeln los.
 
-Alpha has three stages, first "Alpha", in which the product is developed, then a possible "Delay", depending on how compentent your employees are, and finally "Beta", in which as many bugs as possible will be fixed.
+Die Alphaphase besteht aus drei Stufen, erstens „Alpha“, in dieser Stufe wird das Produkt entwickelt, dann kann es zu einer kleinen „Verzögerung“ kommen, je nachdem wie Kompetent ihre Angestellten sind, und als letztes „Beta“  in dieser Phase werden so viele Bugs wie möglich gefixt.
 
-Press "Promote" in the action menu when the alpha is ready. Note that you will lose some quality if you end the alpha phase prematurily, but it might also be the best thing to do if you want beat a competitor to the punch or you are running out of money.
+Drücken Sie „Promote“ im Aktionsmenü wenn die Alphaphase abgeschlossen ist. Beachte das es zu Qualitätsverlusten kommt wenn Sie die Alphaphase zu früh beendest, jedoch ist es die einzige Möglichkeit wenn Sie einem Kontrahenten ausstechen wollen oder Gefahr  laufen kein Geld mehr zu haben.
 
-The tutorial will continue once you begin the delay phase.</Message>
-	<Message id="ALPHA WORK2">Your alpha has entered a delay phase, in which employees scramble to finish up the alpha.
+Das Tutorial wird fortgesetzt wenn sie die Verzögerungsphase begonnen haben.</Message>
+	<Message id="ALPHA WORK2">Ihre Alpha ist in eine Verzögerungsphase eingetreten, in dieser Phase versuchen die Angestellten alle Bugs zu beheben, um schnellst möglich in die nächste Phase zu kommen.
 
-Press "Beta" or wait for the delay to finish.
+Drücke „Beta“ oder warte bis die Verzögerung beendet ist.
 
-Note that promoting to beta will add extra bugs, which might take longer to fix than the delay phase takes to finish.
+Beachte dass der vorschnelle Einstieg zum Ende hin länger dauern kann als die Bugs jetzt zu fixen.
 
-The tutorial will continue once you begin the beta phase.</Message>
+Das Tutorial wird mit Anfang der Betaphase fortgesetzt.</Message>
 	<Message id="ALPHA WORK3">Bugs are now being fixed. The amount of bugs that can be fixed depends on the competence of your employees.
 
 Press "Release" when you are ready, but note that bugs will cost you in contract work and add more work when you are supporting a product you released yourself.
