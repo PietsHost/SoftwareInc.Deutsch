@@ -1,5 +1,5 @@
 # SoftwareInc.Deutsch
-Deutsche Übersetzung für Software Inc. Alpha 8 (8.7)
+Deutsche Übersetzung für Software Inc. Alpha 8 (8.10.12)
 
 
 
