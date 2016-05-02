@@ -203,7 +203,7 @@
         <Color1>Base</Color1>
     </Furniture>
     <Furniture Name="Watercooler">
-		<Name>Wasserkühler</Name>
+		<Name>Wasserspender</Name>
 		<Description>Ein Ort für die Mitarbeiter</Description>
 		<Color1>Shade</Color1>
 		<Color2>Support</Color2>

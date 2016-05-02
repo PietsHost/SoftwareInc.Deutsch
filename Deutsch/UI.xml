@@ -165,7 +165,7 @@
 		<Item Name="Disband">auflösen</Item>
 		<Item Name="Automation">Automatisierung</Item>
 		<Item Name="Type">Art</Item>
-		<Item Name="Dismiss">Entlassen</Item>
+		<Item Name="Dismiss">Ausblenden</Item>
 		<Item Name="Tier">Stufe</Item>
 		<Item Name="Progress">Fortschritt</Item>
 		<Item Name="Contract">Vertrag</Item>
@@ -1459,40 +1459,40 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="HintAutoScaleSegment">For some wall segments, you can hold ctrl to auto scale the segment to fit the wall you want to build it on</Item>
 	</Alpha8.3>
 		<Alpha8.4>
-		<Item Name="HintElevatorBeam">You can select elevators in build mode to show a guiding beam, which will help you align elevators on other floors</Item>
-		<Item Name="HRHireBudgetWarning">HR for team {0} does not have a budget big enough to hire more employees</Item>
-		<Item Name="PortNonOSError">This product is not operating system dependant</Item>
-		<Item Name="ResearchOwnedError">This has already been researched</Item>
-		<Item Name="SoftwareSoftwareDependencyWarning">This software depends on {1} to be developed. Please select a product of type {1} to continue</Item>
-		<Item Name="SoftwareFeatureError">You need at least one feature to begin development</Item>
+		<Item Name="HintElevatorBeam">Wenn Sie Aufzuüge im Bau-Modus auswählen, helfen Ihnen Leitlinien bei der Ausrichtung über mehrere Etagen</Item>
+		<Item Name="HRHireBudgetWarning">HR für Team {0} hat nicht genug Budget um weiteres Personal einzustellen</Item>
+		<Item Name="PortNonOSError">Dieses Produkt ist betriebssystemunabhängig</Item>
+		<Item Name="ResearchOwnedError">Dies wurde bereits erforscht</Item>
+		<Item Name="SoftwareSoftwareDependencyWarning">Diese Software benötigt {1}. Bitte wähle ein Produkt vom Typ {1} um fortzufahren</Item>
+		<Item Name="SoftwareFeatureError">Du benötigst mindestens ein Feature um die Entwicklung zu starten</Item>
 	</Alpha8.4>
 	<Alpha8.5>
 		<Item Name="Bank">Bank</Item>
-		<Item Name="HintGridSnapToWall">You can use the "Anchor grid" button, above the build button on the left, to snap the grid to a wall. This makes it a lot easier to align furniture to angled walls</Item>
+		<Item Name="HintGridSnapToWall">Nutze den "Anchor Gitter" Knopf, über dem Bau-Knopf auf der linken Seite, um das Gitter an eine Wand zu zentrieren. Dies macht es viel einfacher, Möbel an angewinkelte Wände auszurichten.</Item>
 	</Alpha8.5>
 	<Alpha8.6>
 		<Item Name="Upload">Upload</Item>
 		<Item Name="Steam Workshop">Steam Workshop</Item>
-		<Item Name="SteamWorkshopHint">Click here to start uploading your mods to the Steam Workshop</Item>
-		<Item Name="FailedSteamUpload">Failed uploading mod with error code: {0}</Item>
-		<Item Name="SuccessSteamUpload">Mod uploaded successfully! Remember to change the visibility of your mod in the workshop.</Item>
-		<Item Name="SteamUploadDenied">You do not have permission to upload this mod to the Steam Workshop</Item>
-		<Item Name="SteamUploadFileType">Found file of type {0}. Please only upload relevant files</Item>
-		<Item Name="SteamUploadConfirmation">Are you sure you want to upload this to the Steam Workshop? Please refrain from uploading work that is not yours.</Item>
-		<Item Name="HintWorkItemActions">You can left click and drag work items to re-order them in the list. You can right click a work item to collapse it.</Item>
-		<Item Name="Uploaded">Uploaded</Item>
+		<Item Name="SteamWorkshopHint">Hier klicken um deine Mods in den Steam Workshop hochzuladen</Item>
+		<Item Name="FailedSteamUpload">Fehler beim Hochladen des Mods. Fehler Code: {0}</Item>
+		<Item Name="SuccessSteamUpload">Mod erfolgreich hochgeladen! Denken Sie daran, die Sichtbarkeit Ihres Mods im Workshop zu ändern.</Item>
+		<Item Name="SteamUploadDenied">Sie haben keine Berechtigungen, diesen Mod in den Steam Workshop hochzuladen</Item>
+		<Item Name="SteamUploadFileType">Date vom Typ {0} gefunden. Bitte lade nur relevante Dateien hoch</Item>
+		<Item Name="SteamUploadConfirmation">Möchten Sie diesen Mod wirklich in den Steam Workshop hochladen? Bitte unterlassen Sie das Hochladen von Arbeit, die nicht von Ihnen selbst stammt.</Item>
+		<Item Name="HintWorkItemActions">Sie können Elemente durch Klicken und Ziehen in der Liste neu ordnen. Ein Rechtsklick auf ein Item expandiert dieses.</Item>
+		<Item Name="Uploaded">Hochgeladen</Item>
 	</Alpha8.6>
 	<Alpha8.7>
-		<Item Name="BlueprintPrompt">Please pick a name for your blueprint</Item>
-		<Item Name="BlueprintPromptTitle">Blueprint name</Item>
-		<Item Name="BlueprintPromptDefault">My blueprint</Item>
-		<Item Name="BlueprintPromptError">That name is already taken</Item>
-		<Item Name="BlueprintButton">Building blueprints</Item>
-		<Item Name="BlueprintButtonDesc">Choose from a list of pre-made and pre-furnished buildings</Item>
-		<Item Name="SaveBlueprint">Save selected rooms</Item>
-		<Item Name="Blueprints">Blueprints</Item>
-		<Item Name="Build">Build</Item>
-		<Item Name="BlueprintSaveError">Failed saving blueprint with error: {0}</Item>
+		<Item Name="BlueprintPrompt">Wählen Sie einen Namen für Ihre Blaupause</Item>
+		<Item Name="BlueprintPromptTitle">Blaupause Name</Item>
+		<Item Name="BlueprintPromptDefault">Meine Blaupause</Item>
+		<Item Name="BlueprintPromptError">Der Name ist bereits vergeben</Item>
+		<Item Name="BlueprintButton">Gebäude Blaupause</Item>
+		<Item Name="BlueprintButtonDesc">Wählen Sie aus einer Liste vorgefertigter Räume und Gebäude</Item>
+		<Item Name="SaveBlueprint">Gewählten Raum speichern</Item>
+		<Item Name="Blueprints">Blaupausen</Item>
+		<Item Name="Build">Bauen</Item>
+		<Item Name="BlueprintSaveError">Speichern der Blaupause fehlgeschlagen mit Fehler: {0}</Item>
 		<Item Name="BlueprintSteamDelete">Please unsubscribe from this item in the Steam Workshop. If you uploaded this to the Workshop, please delete it manually from the Blueprints folder.</Item>
 	</Alpha8.7>
     <Alpha8.8>
@@ -1509,16 +1509,16 @@ Lass die Wörter nicht den Boden berühren</Item>
 		<Item Name="Alpha work">Alpha Arbeit</Item>
 		<Item Name="Support work">Support Arbeit</Item>
 		<Item Name="Hiring">Verleih</Item>
-		<Item Name="TutorialPost">{0} tutorial</Item>
-		<Item Name="TutorialPrompt">Would you like to begin the {0} tutorial?</Item>
+		<Item Name="TutorialPost">{0} Tutorial</Item>
+		<Item Name="TutorialPrompt">Möchten Sie das {0} Tutorial beginnen?</Item>
 		<Item Name="Tutorial">Tutorial</Item>
 		<Item Name="Not now">Nicht jetzt</Item>
 		<Item Name="Never">Nie</Item>
 		<Item Name="Disable all">Alle deaktivieren</Item>
 		<Item Name="Skip">Überspringen</Item>
 		<Item Name="End">Beenden</Item>
-		<Item Name="CancelTutorial">Are you sure you want to cancel the tutorial?</Item>
-		<Item Name="ModEnableError">The selected mod is not compatible with the other mods selected</Item>
+		<Item Name="CancelTutorial">Möchten Sie das aktuelle Tutorial wirklich beenden?</Item>
+		<Item Name="ModEnableError">Der gewählte Mod ist mit anderen ausgewählten Mods nicht kompatibel</Item>
 		<Item Name="Preparing">Vorbereiten</Item>
 		<Item Name="Uploading">Hochladen</Item>
 		<Item Name="Committing">Committing</Item>
@@ -1526,29 +1526,29 @@ Lass die Wörter nicht den Boden berühren</Item>
 	<Alpha8.9>
 		<Item Name="Noise reduction">Geräuschreduzierung</Item>
 		<Item Name="Stressed">Ich bin gestresst</Item>
-		<Item Name="StressWarning">An employee is stressed. Make sure you don't overwork them with too many tasks and send them home when they are completely stressed</Item>
+		<Item Name="StressWarning">Ein Mitarbeiter ist gestresst. Stelle sicher, dass die Mitarbeiter nicht mit zu vielen Aufgaben überlastet werden und schicke sie nach Hause, wenn sie maximal gestresst sind</Item>
 		<Item Name="SocialProblem">Ich fühle mich isoliert</Item>
-		<Item Name="SocialWarning">An employee is not having their social needs met. An open working environment, team meetings and furniture for socializing can help</Item>
+		<Item Name="SocialWarning">Ein Mitarbeiter fühlt sich in seinen sozialen Bedürfnissen nicht erfüllt. Ein offenes Arbeitsumfeld, Teamsitzungen und Möbel für Geselligkeit können helfen</Item>
 		<Item Name="Stress">Stress</Item>
-		<Item Name="Social">Social</Item>
+		<Item Name="Social">Sozial</Item>
 		<Item Name="Independent">Unabhängig</Item>
 		<Item Name="Hard worker">Fleißiger Arbeiter</Item>
 		<Item Name="Fast learner">Schneller Lerner</Item>
 		<Item Name="Lazy">Faul</Item>
 		<Item Name="Stressed">gestresst</Item>
-		<Item Name="IndependantVsSocial">A good leader needs to be social, but an independant employee will happily work all day by themselves in their booths</Item>
-		<Item Name="LazyVsStressed">A lazy employee will try to get out of work as much as possible, whereas a stressed employee will quickly feel overworked</Item>
-		<Item Name="HardWorkVsFastLearn">A hard worker always gives it 110%, but a fast learner will pick up new skills more easily</Item>
-		<Item Name="InHouseWarning">You are about to start deveping an in-house product, which means you won't be able to sell it or license it.
-Are you sure you want to continue?</Item>
-		<Item Name="InHouseMarketing">You cannot market in-house products</Item>
-		<Item Name="RotateRoomHint">Press {0} or {1} to rotate the buliding</Item>
+		<Item Name="IndependantVsSocial">Ein guter Führer muss sozial sein, aber ein unabhängiger Mitarbeiter arbeitet glücklich für sich alleine</Item>
+		<Item Name="LazyVsStressed">Ein fauler Mitarbeiter wird versuchen, so wenig wie möglich zu arbeiten, während ein gestresster Mitarbeiter schnell überfordert ist</Item>
+		<Item Name="HardWorkVsFastLearn">Ein fleißiger Mitarbeiter gibt 110%, ein schneller Lerner kann dafür neue Skills besser und einfacher erlernen</Item>
+		<Item Name="InHouseWarning">Sie starten die Entwicklung eines In-Haus Produktes, was bedeutet, dass Sie dieses nicht verkaufen oder Lizenzgebühren dafür verlangen können. 
+Möchten Sie wirklich fortfahren?</Item>
+		<Item Name="InHouseMarketing">Sie können In-Haus Produkte nicht vermarkten</Item>
+		<Item Name="RotateRoomHint">Drücke {0} oder {1} um das Gebäude zu rotieren</Item>
 		<Item Name="Appx bandwidth">Durchs. Bandbreite</Item>
 	</Alpha8.9>
 	<Alpha8.10>
 		<Item Name="Zoom">Zoom</Item>
 		<Item Name="Gamma">Gamma</Item>
-		<Item Name="CleaningBlocked">Something is blocking your cleaning staff from cleaning this room</Item>
+		<Item Name="CleaningBlocked">Etwas blockiert Ihr Reinigungspersonal und hält es von der Reinigung dieses Zimmers ab</Item>
 		<Item Name="Head">Kopf</Item>
 		<Item Name="Torso">Körper</Item>
 		<Item Name="Legs">Beine</Item>
@@ -1564,21 +1564,21 @@ Are you sure you want to continue?</Item>
 		<Item Name="Womens Blouse">Bluse</Item>
 		<Item Name="Womens Pants">Frauenhose</Item>
 		<Item Name="HintTeamSizeEffectiveness">Putting more people on a project than needed does not necessarily make development faster and might actually decrease effectiveness</Item>
-		<Item Name="Womens Hoodie">Women's Hoodie</Item>
-		<Item Name="Mens Hoodie">Men's Hoodie</Item>
-		<Item Name="Womens Shirt">Women's Shirt</Item>
-		<Item Name="Mens Shirt">Men's Shirt</Item>
-		<Item Name="Womens T-Shirt">Women's T-Shirt</Item>
-		<Item Name="Mens T-Shirt">Men's T-Shirt</Item>
-		<Item Name="Long Skirt">Long Skirt</Item>
-		<Item Name="Short Skirt">Short Skirt</Item>
-		<Item Name="Trumpet Pants">Trumpet Pants</Item>
+		<Item Name="Womens Hoodie">Frauen Hoodie</Item>
+		<Item Name="Mens Hoodie">Männer Hoodie</Item>
+		<Item Name="Womens Shirt">Frauen Shirt</Item>
+		<Item Name="Mens Shirt">Männer Shirt</Item>
+		<Item Name="Womens T-Shirt">Frauen T-Shirt</Item>
+		<Item Name="Mens T-Shirt">Männer T-Shirt</Item>
+		<Item Name="Long Skirt">Langer Rock</Item>
+		<Item Name="Short Skirt">Kurzer Rock</Item>
+		<Item Name="Trumpet Pants">Trompetenhose</Item>
 		<Item Name="Cargo Shorts">Cargo Shorts</Item>
-		<Item Name="Mens Shorts">Men's Shorts</Item>
-		<Item Name="Trousers">Trousers</Item>
-		<Item Name="Long Curly Hair">Long Curly Hair</Item>
-		<Item Name="Long Hair">Long Hair</Item>
-		<Item Name="Semi-Long Hair">Semi-Long Hair</Item>
+		<Item Name="Mens Shorts">Männer Shorts</Item>
+		<Item Name="Trousers">Hose</Item>
+		<Item Name="Long Curly Hair">Lange, lockige Haare</Item>
+		<Item Name="Long Hair">Lange Haare</Item>
+		<Item Name="Semi-Long Hair">Semi-Lange Haare</Item>
 		<Item Name="Afro">Afro</Item>
 		<Item Name="Hire Cook">Koch einstellen</Item>
 		<Item Name="Cook">Koch</Item>
@@ -1591,7 +1591,7 @@ Are you sure you want to continue?</Item>
 		<Item Name="DeleteKeyHintHint">You can configure a keyboard shortcut to fire employees and destroy objects. The default is the DELETE key</Item>
 		<Item Name="SaveFailIOError">Failed saving game with error message:
 {0}</Item>
-		<Item Name="Currency short form">Currency short form</Item>
+		<Item Name="Currency short form">Währungskurzform</Item>
 		<Item Name="MillionPost">M</Item>
 		<Item Name="BillionPost">B</Item>
 		<Item Name="UpdateBlueprint">Update-Plan</Item>
