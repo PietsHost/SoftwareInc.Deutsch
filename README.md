@@ -11,7 +11,7 @@ Im Spiel kann dann Deutsch oben links ausgewählt werden.
 
 Forum: http://softwareinc.coredumping.com/forum/index.php?topic=499.0
 
-Steam Workshop: http://steamcommunity.com/sharedfiles/filedetails/?id=857002644
+Steam Workshop: http://steamcommunity.com/sharedfiles/filedetails/?id=656321335
 
 HINWEIS: 
 Einige Elemente im Spiel sind "hardcoded" und können daher nicht übersetzt werden!
