@@ -284,6 +284,15 @@
         <Description>Wenn ein Computer nicht genug ist</Description>
         <Color1>Base</Color1>
     </Furniture>
+	
+	
+	<Furniture Name="Big Server Rack">
+		<Name>Großes Server Rack</Name>
+		<Description>Wenn Sie nicht genug Server haben können</Description>
+		<Color1>Casing</Color1>
+		<Color2>Casing</Color2>
+		<Color3>LED</Color3>
+	</Furniture>
     <Furniture Name="Phone">
         <Name>Telefon</Name>
         <Description>Wen rufst du an? Den Support!</Description>
@@ -307,6 +316,14 @@
         <Description>Hilf deinen Mitarbeitern organisiert zu bleiben. Besonders hilfreich für Menschen, die noch nichts von E-Mails gehört haben</Description>
         <Color1>Box</Color1>
     </Furniture>
+		<Furniture Name="Small Product Printer">
+		<Name>Kleiner Produktdrucker</Name>
+		<Description>Ein kleiner Disketten-Drucker zum Drucken Ihrer Produkte</Description>
+	</Furniture>
+	<Furniture Name="Pallet">
+		<Name>Palette</Name>
+		<Description>Unterstützt bis zu 27 Boxen mit 1000 Kopien Inhalt. Muss im selben Raum wie ein Drucker sein</Description>
+	</Furniture>
     <Segment Name="Standard door">
         <Name>Einfache Tür</Name>
         <Description>Es ist eine Tür...</Description>
