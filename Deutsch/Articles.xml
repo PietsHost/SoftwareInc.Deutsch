@@ -1,11 +1,12 @@
 <Articles>
-	<Item Name="SoftwareIntroStart0">{0} has released {1}</Item>
-	<Item Name="SoftwareIntroStart1">{0} ready with {1}</Item>
-	<Item Name="SoftwareIntroStart2">{1} has been released</Item>
-	<Item Name="SoftwareIntroStart3">{0} enters {1} scene with {2}</Item>
-	<Item Name="SoftwareIntroStart4">{0} releases its first {1} product</Item>
-	<Item Name="SoftwareIntroStart5">{0} is ready with its first {1} release</Item>
-	<Item Name="SoftwareIntroStartAdd0"> and they are already well known in the industry</Item>
+	<Item Name="SoftwareIntroStart0">{0} hat veröffentlicht {1}</Item>
+	<Item Name="SoftwareIntroStart1">{0} fertig mit {1}</Item>
+	<Item Name="SoftwareIntroStart2">{1} wurde veröffentlicht</Item>
+	<Item Name="SoftwareIntroStart3">{0} betritt {1} Szene mit {2}</Item>
+	<Item Name="SoftwareIntroStart4">{0} Veröffentlicht sein erstes {1} Produkt</Item>
+	<Item Name="SoftwareIntroStart5">{0} ist mit seinem ersten Release {1} fertig</Item>
+	<Item Name="SoftwareIntroStartAdd0"> und sie sind bereits in der Industrie gut bekannt/Item>
+	<Item Name="SoftwareIntroStartAdd1"> und ich wette, die Fans sind aufgregt zu sehen was es im Geschäft gibt.</Item>
 	<Item Name="SoftwareIntroStartAdd1"> and I bet fans are excited to see what's in store</Item>
 	<Item Name="SoftwareIntroStartAdd20">, is it worth your money?</Item>
 	<Item Name="SoftwareIntroStartAdd21">, is it any good?</Item>
