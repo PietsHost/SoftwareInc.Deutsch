@@ -5,9 +5,8 @@
 	<Item Name="SoftwareIntroStart3">{0} betritt {1} Szene mit {2}</Item>
 	<Item Name="SoftwareIntroStart4">{0} Veröffentlicht sein erstes {1} Produkt</Item>
 	<Item Name="SoftwareIntroStart5">{0} ist mit seinem ersten Release {1} fertig</Item>
-	<Item Name="SoftwareIntroStartAdd0"> und sie sind bereits in der Industrie gut bekannt/Item>
-	<Item Name="SoftwareIntroStartAdd1"> und ich wette, die Fans sind aufgregt zu sehen was es im Geschäft gibt.</Item>
-	<Item Name="SoftwareIntroStartAdd1"> and I bet fans are excited to see what's in store</Item>
+	<Item Name="SoftwareIntroStartAdd0"> und sie sind bereits in der Industrie gut bekannt</Item>
+	<Item Name="SoftwareIntroStartAdd1"> und ich wette, die Fans sind aufgregt zu sehen was es im Geschäft gibt</Item>
 	<Item Name="SoftwareIntroStartAdd20">, is it worth your money?</Item>
 	<Item Name="SoftwareIntroStartAdd21">, is it any good?</Item>
 	<Item Name="SoftwareIntroStartAdd22">, we've got the scoop!</Item>
