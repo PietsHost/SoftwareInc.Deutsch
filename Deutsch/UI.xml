@@ -1603,8 +1603,8 @@ Möchten Sie wirklich fortfahren?</Item>
 			<Item Name="FurnitureLoadError">A furniture named {0} was not present on your computer. The game will have to load your save file without this furniture, which might break the game.</Item>
 			<Item Name="StockLowBid">{0} is willing to offer {1}, do you want to take their offer?
 You bought the stock for {2} and it is currently worth {3}</Item>
-			<Item Name="InaccessibleRoom">This room is not accessible from the outside
-Please connect it using doors, elevators or stairs</Item>
+			<Item Name="InaccessibleRoom">Dieses Zimmer ist nicht von aussen zugänglich
+Bitte verbinden Sie es mit Türen, Aufzügen oder Treppen</Item>
 			<Item Name="Column widths">Spaltenbreite</Item>
 			<Item Name="MonthLeft">{0} Monat(e) verbleibend</Item>
 			<Item Name="DayLeft">{0} Tag(e) verbleibend</Item>
