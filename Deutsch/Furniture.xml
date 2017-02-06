@@ -91,7 +91,7 @@
     </Furniture>
     <Furniture Name="Industrial ventilation">
         <Name>Industrieller Ventilator</Name>
-        <Description>Dieser Lüfter wurde entwickelt, um einen Raum mit Server zu kühlen, das heißt nicht Menschen</Description>
+        <Description>Dieser Lüfter wurde entwickelt, um einen Raum mit Server zu kühlen, nicht für Menschen geeignet um Räme mit Personen zu kühlen</Description>
         <Color1>Base</Color1>
         <Color2>Blades</Color2>
     </Furniture>
@@ -173,7 +173,7 @@
     </Furniture>
     <Furniture Name="Stove">
 		<Name>Herd</Name>
-		<Description>Löche nutzen den Herd um Essen zu kochen. Ein Herd pro Koch.</Description>
+		<Description>Köche nutzen den Herd um Essen zu kochen. Ein Herd pro Koch.</Description>
 		<Color1>Base</Color1>
 		<Color2>Top</Color2>
 	</Furniture>
@@ -214,13 +214,13 @@
         <Color1>Frame</Color1>
     </Furniture>
     <Furniture Name="TV">
-        <Name>TV</Name>
+        <Name>Fernseher</Name>
         <Description>Zeigt dir was in der Welt so passiert, sehr hilfreich um nicht mit anderen reden zu müssen</Description>
         <Color1>Frame</Color1>
     </Furniture>
     <Furniture Name="Bookshelf">
         <Name>Bücherregal</Name>
-        <Description>Komplett mit Büchern!</Description>
+        <Description>Komplett voll mit Büchern!</Description>
         <Color1>Base</Color1>
     </Furniture>
     <Furniture Name="Reception desk">
@@ -240,7 +240,7 @@
     </Furniture>
     <Furniture Name="Table Cactus">
         <Name>Tischkaktus</Name>
-        <Description></Description>
+        <Description>Hoffentlich piekst sich keiner</Description>
         <Color1>Pot</Color1>
     </Furniture>
     <Furniture Name="Big Plant">
@@ -354,10 +354,10 @@
     </Segment>
     <Segment Name="Arched gate">
         <Name>Torbogen</Name>
-        <Description></Description>
+        <Description>Ein Tor mit Bogen</Description>
     </Segment>
     <Segment Name="Open gate">
         <Name>Offenes Tor</Name>
-        <Description></Description>
+        <Description>Damit jeder eintreten kann</Description>
     </Segment>
 </Furniture>

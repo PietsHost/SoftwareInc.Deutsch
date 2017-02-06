@@ -1280,7 +1280,7 @@ Kategorie: {2}</Item>
 		<Item Name="SMAA">SMAA</Item>
 		<Item Name="SMAADetails">Subpixel Morphological Anti-Aliasing, erweitertes Anti-Aliasing. Verhindert verpixelte Kanten</Item>
 		<Item Name="SMAADetailsError">Subpixel Morphological Anti-Aliasing, nicht unterstützt unter DirectX 9</Item>
-		<Item Name="SSAADetails">Super-Sampling Anti-Aliasing. Rendert das Spiel in höherer Azflösung um die Kanten noch feiner darzustellen (Benötigt High-End Grafikkarte)</Item>
+		<Item Name="SSAADetails">Super-Sampling Anti-Aliasing. Rendert das Spiel in höherer Auflösung um die Kanten noch feiner darzustellen (Benötigt High-End Grafikkarte)</Item>
 		<Item Name="WorkItemCancelConf">Möchten Sie {0} wirklich abbrechen?</Item>
 		<Item Name="Shadow quality">Schattenqualität</Item>
 		<Item Name="Units sold">Verkaufte Einheiten</Item>
