@@ -1,5 +1,5 @@
 # SoftwareInc.Deutsch
-Deutsche Übersetzung für Software Inc. Alpha 9.1
+Deutsche Übersetzung für Software Inc. Alpha 9.2
 
 
 
