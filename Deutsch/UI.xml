@@ -1848,6 +1848,27 @@ Sie können Kopien sofort für {0} per Kopie bestellen, indem Sie auf die Schalt
 		<Item Name="FurnitureReplacementBlocked">Nicht alle Möbel wurden ersetzt, da es durch etwas anderes blockiert wurde</Item>
 		<Item Name="No release date">Kein Veröffentlichungsdatum</Item>
 	</Alpha9.2>
+	<Alpha9.3>
+		<Item Name="NoPrintersWarning">You do not own any product printers, are you sure you want to start a printing job?
+You can order copies instantly for {0} per copy by clicking the "Order copies" button</Item>
+		<Item Name="LostSalesPopup">{0} does not meet demand and you are losing sales. You need to order more physical copies of {0} or print your own</Item>
+		<Item Name="FurnitureReplacementBlocked">Not all furniture was replaced as it was blocked by something else</Item>
+		<Item Name="No release date">Kein release date</Item>
+		<Item Name="MainFinanceDesc">Get an overview of your company's expenditure and income</Item>
+		<Item Name="Bills">Rechnungen</Item>
+		<Item Name="Rent">Rent</Item>
+		<Item Name="Food">Essen</Item>
+		<Item Name="Internet">Internet</Item>
+		<Item Name="MonthsAgo">vor {0} Monaten</Item>
+		<Item Name="Sheet">Tabelle</Item>
+		<Item Name="NextPrintCountdown">Next print in {0} minutes</Item>
+		<Item Name="Log">Log</Item>
+		<Item Name="Copy">kopieren</Item>
+		<Item Name="IndoorError">Dieses muss innen platziert werden</Item>
+		<Item Name="OutdoorError">Dieses muss außen platziert werden</Item>
+		<Item Name="Background noise">Hintergrundgeräusch</Item>
+		<Item Name="Neighbor rooms">Geräusche aus dem Nachbarraum</Item>
+	</Alpha9.3>
 </UI>
 
 
