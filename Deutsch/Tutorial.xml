@@ -13,62 +13,62 @@ Drücken Sie „Beta“ oder warten Sie bis die Verzögerung beendet ist.
 Beachten Sie, dass der vorschnelle Einstieg zum Ende hin länger dauern kann als die Bugs jetzt zu fixen.
 
 Das Tutorial wird mit Anfang der Betaphase fortgesetzt.</Message>
-	<Message id="ALPHA WORK3">Bugs are now being fixed. The amount of bugs that can be fixed depends on the competence of your employees.
+	<Message id="ALPHA WORK3">Fehler werden nun behoben. Die Anzahl an Fehlern, die behoben werden können, hängt von der Kompetenz Ihrer Angestellten ab.
 
-Press "Release" when you are ready, but note that bugs will cost you in contract work and add more work when you are supporting a product you released yourself.
+Drücken Sie "Veröffentlichen" wenn Sie fertig sind, aber beachten Sie, dass Fehler bei einem Auftrag Strafe kosten und mehr Arbeit verursachen, wenn Sie ein Produkt supporten, dass Sie selber veröffentlicht haben.
 
-Press "End" to finish the tutorial.</Message>
-	<Message id="BUILD MODE1">Start by entering "Build mode" by clicking the Build-button.</Message>
-	<Message id="BUILD MODE2">The game is always paused in build mode.
+Drücken Sie "Beenden" um dieses Tutorial zu beenden.</Message>
+	<Message id="BUILD MODE1">Beginnen Sie mit dem Betreten des "Baumodus" durch Klicken auf den Baumodusknopf.</Message>
+	<Message id="BUILD MODE2">Das Spiel ist im Baumodus immer angehalten.
 
-Let's start by building a room, click on the "Construct rectangle room" button in the build panel.
+Nun lassen Sie uns mit dem Bau eines Raums beginnen. Klicken Sie auf den "Rechteckigen Raum konstruieren" Knopf im Baumenü.
 
-You can build rooms in any shape or split rooms into two by clicking "Construct room" to the left of the button.</Message>
-	<Message id="BUILD MODE3">Now click somewhere inside the area you own, which has a grid, and then click somewhere else to finish your new room. Keep an eye on the cost while moving the cursor.</Message>
-	<Message id="BUILD MODE4">You might have noticed that you were limited to the grid when you built your room. You can change the grid and building angles if you want by using this panel. This might come in handy if you want to build tables along a diagonal wall for example.
+Sie können Räume in allen Formen bauen oder Sie teilen sie durch das Klicken auf "Räume bauen" auf der linken Seite des Knopfes.</Message>
+	<Message id="BUILD MODE3">Klicken Sie nun irgendwo in den Bereich, der Ihnen gehört (durch ein Gitter gekennzeichnet) und klicken Sie dann irgendwo anders hin um Ihren neuen Raum zu vollenden. Haben Sie immer ein Auge auf die Kosten, während Sie den Cursor bewegen.</Message>
+	<Message id="BUILD MODE4">Sie haben vielleicht bemerkt, dass Sie durch das Gitter limitiert sind, wenn Sie einen Raum bauen. Sie können das Gitter anpassen und Winkel bauen, indem Sie dieses Menü benutzen. Dies ist recht praktisch, wenn Sie zum Beispiel Tische entlang einer diagonalen Wand bauen wollen.
 
-Click Continue when you are ready.</Message>
-	<Message id="BUILD MODE5">You can move up and down floors by pressing Q and E.
+Klicken Sie Fortsetzen, wenn Sie fertig sind.</Message>
+	<Message id="BUILD MODE5">Sie können die Etage wechseln, indem Sie Q oder E drücken.
 
-Now let's add windows and doors. You can either select a category or search for "window" or "door" in the build panel.</Message>
-	<Message id="BUILD MODE6">Notice how the room lights up when you add windows, make sure to add enough so that your employees can see.
+Nun lassen Sie uns Türen und Fenster hinzufügen. Sie könne im Baumenü entweder die Kategorie auswählen oder nach "Fenster" oder "Tür" suchen.</Message>
+	<Message id="BUILD MODE6">Achten Sie darauf, wie das Licht durch die hinzugefügten Fenster den Raum erleuchtet. Beachten Sie, dass Sie genügend Fenster einbauen, damit Ihre Mitarbeiter genügend Licht bekommen.
 
-You can inspect lighting, environment, temperature and noise conditions by clicking on and selecting the room.</Message>
-	<Message id="BUILD MODE7">You can also change the color of your rooms and furniture.
+Sie können sich die Informationen zur Beleuchtung, der Umgebung, den Temperaturen und der Umgebungslautstärke anzeigen lassen, indem sie auf "Datenüberlagerung" klicken und dann einen Raum auswählen.</Message>
+	<Message id="BUILD MODE7">Sie auch die Farbe Ihrer Räume und Möbel anpassen.
 
-Try changing the color of your room by right clicking it and click the "Room colors" button that resembles a brush.</Message>
-	<Message id="BUILD MODE8">You can change the color of multiple things at once by shift clicking and selecting the objects before your open the color window. The color window will suggest colors that are currently in use.
+Versuchen Sie die Farbe zu ändern, indem Sie einen Rechtsklick auf das Objekt machen und dann den "Raum Farbe" Knopf, der durch einen Pinsel dargestellt wird, auswählen.</Message>
+	<Message id="BUILD MODE8">Sie könne auch die Farbe mehrerer Objekte ändern, indem Sie durch Drücken und Halten von SHIFT mehrere Objekte auswählen und danach das Farbfenster öffnen. Das Farbfenster wird Farben vorschlagen, die aktuell verwendet werden.
 
-If you like the style you have given a room or piece of furniture, you can set it as default in the right click context menu.
+Wenn Ihnen der Stil eines Raumes oder eines Möbelstückes gefällt, dann können Sie ihn als Standard festlegen, indem Sie auf den Harken im Rechtsklick-Kontextmenü drücken.
 
-Click Apply when you are ready or close the window if you want to cancel your changes.</Message>
-	<Message id="BUILD MODE9">Let's put some furniture in your new room.
+Klicken Sie "Anwenden" wenn Sie fertig sind oder schließen Sie das Fenster, wenn Sie die Änderungen verwerfen möchten.</Message>
+	<Message id="BUILD MODE9">Nun lassen Sie uns ein paar Möbel in Ihrem neuen Raum platzieren.
 
-Build a new table by clicking on the "Furnish" button or searching for "table".</Message>
-	<Message id="BUILD MODE10">Now add a chair. Chairs can only be added to tables.
+Bauen Sie einen neuen Tisch, indem Sie auf den "Möbel" Knopf drücken oder nach "Tisch/table" suchen.</Message>
+	<Message id="BUILD MODE10">Fügen Sie nun einen Stuhl hinzu. Stühle können nur an Tische platziert werden.
 
-Note that furniture with multiple tiers, like chairs, can be upgraded after they have been placed. You can use the right click context menu to easily upgrade a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example.</Message>
-	<Message id="BUILD MODE11">Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
+Beachten Sie, dass Möbel, die mehrere Stufen besitzen, wie zum Beispiel Stühle, auch nach dem Platzieren verbessert werden können. Durch Verwendung des Rechtsklick-Kontextmenüs können Sie zum Beispiel mehrere oder alle Möbelstücke eines Typs in einem Raum verbessern.</Message>
+	<Message id="BUILD MODE11">Fügen Sie schließlich einen Computer hinzu. Wenn Sie einen Computer hinzufügen, klicken und halten Sie an der Stelle, an der Sie den Computer platzieren möchten, und ziehen sie anschließend in die Richtung, in die der Computer zeigen soll. Lassen sie los, wenn er in die richtige Richtung zeigt.
 
-Computers have to sit on top of a table and face a chair.</Message>
-	<Message id="BUILD MODE12">When you put tables next to eachother they will be grouped together if they don't have anything on top of them. Tables that are grouped together can be used for meetings. To see which tables are grouped, just highlight one table and it's group will be highlighted in blue.
+Computer müssen auf einem Tisch platziert werden und in die Richtung eines Stuhls zeigen.</Message>
+	<Message id="BUILD MODE12">Wenn Sie Tische nebeneinander stellen und nichts auf ihnen platziert ist, werden sie zusammengefügt. Zusammengefügte Tische können für Meetings genutzt werden. Um zu sehen, welche Tische zusammengefügt sind, wählen Sie einen Tisch aus, der dann grün umrandet wird, und alle andren verbundenen Tische werden blau umrandet.
 
-Click "Continue" to advance.</Message>
-	<Message id="BUILD MODE13">Your founder does not get tired, hungry, cold or needs to use the toilet, but when you hire new employees they will. So make sure to add at least one fridge, a coffee machine, a radiator, a ventilator and a separate toilet room before you hire new employees.
+Klicken Sie "Fortfahren" um fortzufahren.</Message>
+	<Message id="BUILD MODE13">Ihr Gründer wird nicht müde oder hungrig, ihm wird nicht kalt werden und er braucht keine Toilette. Sobald Sie jedoch Mitarbeiter eingestellt haben, werden Sie es. Gehen Sie also sicher, dass Sie mindestens einen Kühlschrank, eine Kaffeemaschine, eine Heizung, einen Ventilator und einen separaten Toilettenraum hinzufügen, bevor Sie Mitarbeiter einstellen.
 
-Click "Continue" to advance.</Message>
-	<Message id="BUILD MODE14">Now, let's assign the room to a team, employees from other teams may then not use it or even pass through it.
+Klicken Sie "Fortfahren" um fortzufahren.</Message>
+	<Message id="BUILD MODE14">Nun weisen Sie dem Raum ein Team zu. Mitarbeiter eines anderen Teams werden ihn nicht nutzen und ihn nicht einmal durchqueren.
 
-Right click your new room and choose "Switch team", which resembles a circle with arrows. A window will appear, click on "Core" to assign the room to the Core team.</Message>
-	<Message id="BUILD MODE15">Remember to assign employees to a team as well. You can do this either by right clicking on an employee and choosing "Switch team" or from the employees window. All employees are automatically assigned to a team, if there is only one team in your company.
+Rechtsklicken Sie Ihren neuen Raum und wählen Sie "Switch team", was durch einen Kreis mit Pfeilen symbolisiert wird. Ein Fenster wird erscheinen, wählen Sie dort "Core" um dem Raum das Team "Core" zuzuweisen.</Message>
+	<Message id="BUILD MODE15">Vergessen Sie nicht Mitarbeiter einem Team zuzuweisen. Sie können dies entweder durch einen Rechtsklick auf den Mitarbeiter und dem Wählen von "Switch team" oder im Angestelltenfenster machen. Wenn Sie nur ein Team haben, werden die Angestellten diesem automatisch zugewiesen.
 
-Holding shift while clicking on objects, rooms or employees will allow you to select several at once, you can then right click anywhere to see the actions menu.
+Durch das Drücken und Halten von SHIFT, während Sie auf Objekte, Mitarbeiter oder Räume klicken, können Sie mehrere auf einmal auswählen. Danach können Sie irgendwo einen Rechtsklick machen und öffnen damit das Kontextmenü.
 
-Try selecting at least 2 things in the game.</Message>
-	<Message id="BUILD MODE16">If you ever want to merge two rooms, just hold shift and click to select the rooms you want to merge, right click and then choose the "Merge rooms" option from the context menu.
+Versuchen Sie mindestens zwei Objekte auszuwählen.</Message>
+	<Message id="BUILD MODE16">Wann immer Sie zwei Räume verbinden möchten, wählen Sie einfach mit gedrückter SHIFT-Taste zwei oder mehr Räume, die Sie verbinden möchten, aus. Machen Sie dann einen Rechtsklick und wählen Sie "Merge rooms" im Kontextmenü.
 
-Now, let's exit Build mode.</Message>
-	<Message id="BUILD MODE17">When you are ready, open the employees window to start managing your employees.</Message>
+Lassen Sie uns nun den Baumodus verlassen.</Message>
+	<Message id="BUILD MODE17">Wenn Sie fertig sind, öffnen Sie das "Mitarbeiter verwalten" Fenster, um mit der Verwaltung von Mitarbeitern zu beginnen.</Message>
 	<Message id="CONTRACTS1">Start by opening the contract window.</Message>
 	<Message id="CONTRACTS2">This is a list of available contracts. New contracts will be added as older ones are completed.
 
@@ -80,7 +80,7 @@ Browse the contracts now and accept one you think sounds fair.</Message>
 	<Message id="CUSTOMIZATION3">Then pick a name for your founder in the game.</Message>
 	<Message id="CUSTOMIZATION4">And a gender.</Message>
 	<Message id="CUSTOMIZATION5">You can use these buttons to choose an aspect of your founder's appearance that you want to change.
-	
+
 You can change the shape of the face and eyebrows by clicking the first button, and the last button allows you to pick the colors of the skin, hair, accessories and clothes of your founder.</Message>
 	<Message id="CUSTOMIZATION7">Here you can pick you founder's personality traits.
 
@@ -362,4 +362,3 @@ Some notifications can be clicked to move the camera to the subject. You can rig
 
 When you are ready, begin building your office by entering "Build mode".</Message>
 </Tutorial>
-
