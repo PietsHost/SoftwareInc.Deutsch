@@ -44,7 +44,7 @@ Wenn Ihnen der Stil eines Raumes oder eines Möbelstückes gefällt, dann könne
 Klicken Sie "Anwenden" wenn Sie fertig sind oder schließen Sie das Fenster, wenn Sie die Änderungen verwerfen möchten.</Message>
 	<Message id="BUILD MODE9">Nun lassen Sie uns ein paar Möbel in Ihrem neuen Raum platzieren.
 
-Bauen Sie einen neuen Tisch, indem Sie auf den "Möbel" Knopf drücken oder nach "Tisch/table" suchen.</Message>
+Bauen Sie einen neuen Tisch, indem Sie auf den "Möbel" Knopf drücken oder nach "Tisch" suchen.</Message>
 	<Message id="BUILD MODE10">Fügen Sie nun einen Stuhl hinzu. Stühle können nur an Tische platziert werden.
 
 Beachten Sie, dass Möbel, die mehrere Stufen besitzen, wie zum Beispiel Stühle, auch nach dem Platzieren verbessert werden können. Durch Verwendung des Rechtsklick-Kontextmenüs können Sie zum Beispiel mehrere oder alle Möbelstücke eines Typs in einem Raum verbessern.</Message>
@@ -59,53 +59,53 @@ Klicken Sie "Fortfahren" um fortzufahren.</Message>
 Klicken Sie "Fortfahren" um fortzufahren.</Message>
 	<Message id="BUILD MODE14">Nun weisen Sie dem Raum ein Team zu. Mitarbeiter eines anderen Teams werden ihn nicht nutzen und ihn nicht einmal durchqueren.
 
-Rechtsklicken Sie Ihren neuen Raum und wählen Sie "Switch team", was durch einen Kreis mit Pfeilen symbolisiert wird. Ein Fenster wird erscheinen, wählen Sie dort "Core" um dem Raum das Team "Core" zuzuweisen.</Message>
+Rechtsklicken Sie Ihren neuen Raum und wählen Sie "Team wechseln", was durch einen Kreis mit Pfeilen symbolisiert wird. Ein Fenster wird erscheinen, wählen Sie dort "Core" um dem Raum das Team "Core" zuzuweisen.</Message>
 	<Message id="BUILD MODE15">Vergessen Sie nicht Mitarbeiter einem Team zuzuweisen. Sie können dies entweder durch einen Rechtsklick auf den Mitarbeiter und dem Wählen von "Switch team" oder im Angestelltenfenster machen. Wenn Sie nur ein Team haben, werden die Angestellten diesem automatisch zugewiesen.
 
 Durch das Drücken und Halten von SHIFT, während Sie auf Objekte, Mitarbeiter oder Räume klicken, können Sie mehrere auf einmal auswählen. Danach können Sie irgendwo einen Rechtsklick machen und öffnen damit das Kontextmenü.
 
 Versuchen Sie mindestens zwei Objekte auszuwählen.</Message>
-	<Message id="BUILD MODE16">Wann immer Sie zwei Räume verbinden möchten, wählen Sie einfach mit gedrückter SHIFT-Taste zwei oder mehr Räume, die Sie verbinden möchten, aus. Machen Sie dann einen Rechtsklick und wählen Sie "Merge rooms" im Kontextmenü.
+	<Message id="BUILD MODE16">Wann immer Sie zwei Räume verbinden möchten, wählen Sie einfach mit gedrückter SHIFT-Taste zwei oder mehr Räume, die Sie verbinden möchten, aus. Machen Sie dann einen Rechtsklick und wählen Sie "Räume verbinden" im Kontextmenü.
 
 Lassen Sie uns nun den Baumodus verlassen.</Message>
 	<Message id="BUILD MODE17">Wenn Sie fertig sind, öffnen Sie das "Mitarbeiter verwalten" Fenster, um mit der Verwaltung von Mitarbeitern zu beginnen.</Message>
-	<Message id="CONTRACTS1">Start by opening the contract window.</Message>
-	<Message id="CONTRACTS2">This is a list of available contracts. New contracts will be added as older ones are completed.
+	<Message id="CONTRACTS1">Starten Sie durch Öffnen des "Aufträge" Fensters.</Message>
+	<Message id="CONTRACTS2">Dies ist eine Liste der verfügbaren Aufträge. Neue Aufträge werden hinzugefügt, sobald ältere abgeschlossen sind.
 
-Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. There will be big penalties for not finishing the contract and any unfixed bugs. Breaking the quality or time agreement will result in a lower payout.
+Aufträge haben eine Vorauszahlung die Sie bekommen, wenn Sie einen Auftrag annehmen, und eine größere Zahlung, wenn Sie den Auftrag abschließen. Es gibt hohe Strafen für das nicht abschließen von Aufträgen und unbehoben Fehler. Das Missachten von Qualitäts- und Zeitvorgaben führt zu einer geringeren Bezahlung.
 
-Browse the contracts now and accept one you think sounds fair.</Message>
-	<Message id="CUSTOMIZATION1">Welcome to the customization screen. Press "Continue" to advance the tutorial or "Cancel" to exit.</Message>
-	<Message id="CUSTOMIZATION2">Begin by picking a name for your company.</Message>
-	<Message id="CUSTOMIZATION3">Then pick a name for your founder in the game.</Message>
-	<Message id="CUSTOMIZATION4">And a gender.</Message>
-	<Message id="CUSTOMIZATION5">You can use these buttons to choose an aspect of your founder's appearance that you want to change.
+Durchstöbern Sie nun die Aufträge und akzeptieren Sie einen, der Ihnen fair erscheint.</Message>
+	<Message id="CUSTOMIZATION1">Willkommen im Anpassungsbildschirm. Drücken Sie "Fortfahren" zum Fortsetzen des Tutorials oder "Abbrechen" um es zu verlassen.</Message>
+	<Message id="CUSTOMIZATION2">Beginnen Sie durch das Wählen eines Namens für Ihre Firma.</Message>
+	<Message id="CUSTOMIZATION3">Benennen Sie nun den Gründer im Spiel.</Message>
+	<Message id="CUSTOMIZATION4">Und ein Geschlecht.</Message>
+	<Message id="CUSTOMIZATION5">Wählen Sie mit diesen Knöpfen die Aspekte des Erscheinungsbildes aus, die Sie anpassen möchten.
 
-You can change the shape of the face and eyebrows by clicking the first button, and the last button allows you to pick the colors of the skin, hair, accessories and clothes of your founder.</Message>
-	<Message id="CUSTOMIZATION7">Here you can pick you founder's personality traits.
+Sie können die Form des Gesichtes und der Augenbrauen mit einem Klick auf den ersten Knopf anpassen. Der letzte Knopf erlaubt es Ihnen, die Farbe der Haut, der Haare, der Accessoires und der Kleidung anzupassen.</Message>
+	<Message id="CUSTOMIZATION7">Hier können Sie die persönlichen Merkmale Ihres Gründers anpassen.
 
-You can choose two traits, which will affect your founder's behavior(leadership, ability to learn and laziness) and inter-office relationships.</Message>
-	<Message id="CUSTOMIZATION8">Here you can pick you founder's skill points and specializations, which will affect the performance of your founder.
+Sie können zwei Merkmale wählen, welche das Verhalten des Gründers (Führungskompetenzen, Lernkompetenzen, Faulheit) und die Beziehungen zu anderen Mitarbeitern beeinflussen.</Message>
+	<Message id="CUSTOMIZATION8">Hier können Sie die Fähigkeitspunkte und Spezialisierungen Ihres Gründers anpassen. Diese beeinflussen die Leistung Ihres Gründers.
 
-Specializations are limited by skill, so if your founder has low design skill, he/she will also be low skilled in the design specialization you pick.
+Spezialisierungen sind durch die Fähigkeiten begrenzt. Somit ist ein Gründer, der wenig Designfähigkeiten hat, auch in der Designspezialisierung, die Sie wählen schlecht.
 
-You can further educate and train your founder to gain skill and specializations in the game.</Message>
-	<Message id="CUSTOMIZATION9">You are now done customizing your founder. Let's begin choosing the rules of the game!</Message>
-	<Message id="CUSTOMIZATION10">You can enable any mods here, which will be bound to the game forever.
+Zusätzlich können Sie Ihren Gründer im Spiel ausbilden und trainieren, um die Fähigkeit zu verbessern und Spezialisierungen zu erlangen.</Message>
+	<Message id="CUSTOMIZATION9">Die Anpassung des Gründers ist nun abgeschlossen. Lassen Sie uns nun die Regeln für das Spiel wählen!</Message>
+	<Message id="CUSTOMIZATION10">Sie können hier jegliche Mods aktivieren, welche für immer an den Spielstand gebunden sind.
 
-You can share your game with others, without them having to install the mods.
+Deshalb können Sie Ihren Spielstand mit anderen Leuten teilen, ohne dass diese die Mods installiert haben.
 
-Some mods add scenarios, so you should enable the ones you want before picking a scenario.</Message>
-	<Message id="CUSTOMIZATION11">Now pick a scenario. The scenario will control the starting money and starting date you can choose between, and goals and whether to simulate the competition, use a scripted competition or both.</Message>
-	<Message id="CUSTOMIZATION12">You can change the environment here.
+Einige Mods fügen Szenarien hinzu, deshalb sollten Sie die, die Sie verwenden möchten, aktivieren, bevor Sie ein Szenario auswählen.</Message>
+	<Message id="CUSTOMIZATION11">Wählen Sie nun ein Szenario. Das Szenario bestimmt das Startkapital und die Gründungsjahre, zwischen denen Sie wählen können, und die Ziele. Des Weiteren bestimmen sie, ob ein Wettbewerb simuliert, geskriptet oder beides wird.</Message>
+	<Message id="CUSTOMIZATION12">Die Umgebung können Sie hier wählen.
 
-The forest is the default environment, the tundra is cold all year, the desert is hot all year and the city has skyscrapers and a pre-built road network with parking lots.</Message>
-	<Message id="CUSTOMIZATION13">Difficulty can be changed at any point in the game by going to the options menu. Difficutly controls employee wage and effectiveness, and the simulated competitors' competence.</Message>
-	<Message id="CUSTOMIZATION14">Normally 1 day is equal to 1 month in Software Inc. This keeps the game at a steady pace so it doesn't get boring.
+Der Walt ist die Standardumgebung, die Tundra ist das ganze Jahr über kalt, die Wüste ist das ganze Jahr über heiß und die Stadt hat Wolkenratzer und ein bereits existierendes Straßennetz mit Parkplätzen.</Message>
+	<Message id="CUSTOMIZATION13">Die Schwierigkeit Die Schwierigkeit beeinflusst die Gehälter und Effektivität der Mitarbeiter und die Kompetenz der simulierten Wettbewerber und kann das ganze Spiel über in den Einstellungen geändert werden.</Message>
+	<Message id="CUSTOMIZATION14">Normalerweise entspricht 1 Tag einem Monat in Software Inc. Dies sorgt für eine angemessene Spielgeschwindigkeit und verhindert, dass das Spiel langweilig wird.
 
-If you feel the game is going too fast or you want a couple of buffer days to earn money between having to pay salaries and bills, you can increase the amount of days there is in a month.
+Wenn Sie das Gefühl haben, dass das Spiel zu schnell ist oder Sie möchten einfach zwischen den Monatsenden, an denen Sie Ihre Rechnungen und Löhne bezahlen müssen, ein paar Tage mehr zum Geldverdienen, dann erhöhen Sie einfach die Anzahl an Tagen, die einem Monat entsprechen.
 
-Note that everything in the game will move relatively slower to match the setting you pick and you can't change it later on.</Message>
+Beachten Sie, dass alles im Spiel sich in Relation zu Ihren Einstellungen langsamer bewegt und dass Sie dies später nicht ändern können.</Message>
 	<Message id="DESIGN DOCUMENT1">Start the tutorial by pressing the "Develop software" button to bring up the design document.</Message>
 	<Message id="DESIGN DOCUMENT2">Welcome to the design document, the heart of Software Inc.
 
