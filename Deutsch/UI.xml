@@ -1848,7 +1848,7 @@ Sie können Kopien sofort für {0} per Kopie bestellen, indem Sie auf die Schalt
 		<Item Name="FurnitureReplacementBlocked">Nicht alle Möbel wurden ersetzt, da es durch etwas anderes blockiert wurde</Item>
 		<Item Name="No release date">Kein Veröffentlichungsdatum</Item>
 	</Alpha9.2>
-	<Alpha9.3>
+´	<Alpha9.3>
 		<Item Name="NoPrintersWarning">You do not own any product printers, are you sure you want to start a printing job?
 You can order copies instantly for {0} per copy by clicking the "Order copies" button</Item>
 		<Item Name="LostSalesPopup">{0} does not meet demand and you are losing sales. You need to order more physical copies of {0} or print your own</Item>
@@ -1868,8 +1868,103 @@ You can order copies instantly for {0} per copy by clicking the "Order copies" b
 		<Item Name="OutdoorError">Dieses muss außen platziert werden</Item>
 		<Item Name="Background noise">Hintergrundgeräusch</Item>
 		<Item Name="Neighbor rooms">Geräusche aus dem Nachbarraum</Item>
+		<Item Name="Noise level">Geräuschlevel</Item>
+		<Item Name="Noise overlay">Geräusche Overlay</Item>
+		<Item Name="NoiseOverlayDesc">Monitor sources of noise. Hover over rooms to view exactly how noise is dispersing</Item>
+		<Item Name="SupportWorkCancelWarning2">Cancelling support for a product with active users will anger them, unless all bugs have been fixed.
+Are you sure you want to continue?</Item>
+		<Item Name="Room size">Raumgröße</Item>
+		<Item Name="AlphaPromoteConfirmation">Are you sure you want to promote out of the alpha phase?
+You can no longer improve the quality of the product once you leave alpha</Item>
+		<Item Name="Reviews">Reviews</Item>
+		<Item Name="ReleaseDateConfirmation">Are you sure you want to set the release date to {0}?
+You will have {1} to release the product</Item>
+		<Item Name="MonthPostfix">{0} Monat</Item>
+		<Item Name="YearPostfix">{0} Jahr</Item>
+		<Item Name="DayPostfix">{0} Tag</Item>
+		<Item Name="MonthPostfixPlural">{0} Monate</Item>
+		<Item Name="YearPostfixPlural">{0} Jahre</Item>
+		<Item Name="DayPostfixPlural">{0} Tage</Item>
+		<Item Name="SoftwareReviewHeader">Review von {0}</Item>
+		<Item Name="PressBuildReviewHeader">Beta review von {0}</Item>
+		<Item Name="PressReleaseReviewHeader">{0} kündigt {1} an</Item>
+		<Item Name="ReviewReminder">A product has been reviewed.</Item>
+		<Item Name="PressBuildReviewReminder">A press build has been reviewed.</Item>
+		<Item Name="PressReleaseReviewReminder">A press release has been mentioned.</Item>
+		<Item Name="Printing capacity">Druckkapazität</Item>
+		<Item Name="Toggle audio overlay">Toggle audio overlay</Item>
+		<Item Name="Toggle ceiling fixture">Toggle ceiling fixture</Item>
+		<Item Name="Ceiling fixture">Ceiling fixture</Item>
 	</Alpha9.3>
+	<Alpha9.5>
+		<Item Name="Today">Heute</Item>
+		<Item Name="Recycle">Recyclen</Item>
+		<Item Name="Plot expansion">Plot expansion</Item>
+		<Item Name="Digital store">Digital store</Item>
+		<Item Name="Copy order">Copy order</Item>
+		<Item Name="Store cut">Store cut</Item>
+		<Item Name="Hosting">Hosting</Item>
+		<Item Name="IntellectualPropertyAbbr">IP</Item>
+		<Item Name="On call">On call</Item>
+		<Item Name="Unlimited">Unbegrenzt</Item>
+		<Item Name="Limit">Limit</Item>
+		<Item Name="Maximum copies">Maximum copies</Item>
+		<Item Name="LimitCopyPrompt">Please enter how many copies you would like to have in stock before the print job is suspended. -1 means unlimited.</Item>
+		<Item Name="PerBox">{0} pro box</Item>
+		<Item Name="CourierPayment">{0} up front - {1} per box</Item>
+		<Item Name="Call courier">Call courier</Item>
+		<Item Name="FollowerChange">Losing {0}% followers per month</Item>
+		<Item Name="HypingInactiveStatus">Currently not losing followers</Item>
+		<Item Name="Master">Master</Item>
+		<Item Name="UI">UI</Item>
+		<Item Name="ProjectManagementProjectWarning">You need to assign an initial project design to your project management group, {0}, before they can begin work</Item>
+		<Item Name="PressReleaseNotReleased">You have an unreleased press release for this project, which will be cancelled if you release your product.
+Do you want to continue?</Item>
+		<Item Name="PressBuildNotReleased">You have an unreleased press build for this project, which will be cancelled if you release your product.
+Do you want to continue?</Item>
+		<Item Name="Reject">Reject</Item>
+		<Item Name="RejectConfirmation">Are you sure you want to reject these items?</Item>
+		<Item Name="TimeDiffLeft">{0} left</Item>
+		<Item Name="TimeDiffNotLeft">{0} overdue</Item>
+		<Item Name="Expected quality">Expected quality</Item>
+		<Item Name="Lines of code">Lines of code</Item>
+		<Item Name="Art amount">Art amount</Item>
+		<Item Name="Cancelled">Cancelled</Item>
+		<Item Name="Inadequate">Inadequate</Item>
+		<Item Name="Satisfactory">Satisfactory</Item>
+		<Item Name="Outstanding">Outstanding</Item>
+		<Item Name="Late">Late</Item>
+		<Item Name="Completion penalty">Unfinished penalty</Item>
+		<Item Name="Quality assesment">Quality assessment</Item>
+		<Item Name="ContractFinish2">Finished contract for a net worth of {0}, with {1} quality</Item>
+	</Alpha9.5>
+	<Alpha9.6>
+		<Item Name="PressBuildConfirmation">A press build reflecting the current state of {0} has been sent to the press</Item>
+		<Item Name="Handle support">Handle support</Item>
+		<Item Name="HandleSupportTip">Let the project manager handle support and when to end it</Item>
+		<Item Name="ProjectQualityWarning">The quality of {0} is diminishing fast, {1} is not very skilled in {2}</Item>
+		<Item Name="HREducationBudgetWarning">HR for team {0} does not have a budget big enough to educate employees</Item>
+		<Item Name="ReportSuccess2">Report sent successfully, with identification number: {0}
+You can use the feedback window to find this identification number, if you need it later</Item>
+		<Item Name="Previous reports">Previous reports</Item>
+		<Item Name="SubsidiaryBankruptWarning">Your subsidiary {0} is bankrupt and has closed down</Item>
+		<Item Name="Subsidiary">Subsidiary</Item>
+		<Item Name="Subsidiaries">Subsidiaries</Item>
+		<Item Name="MarketingReleaseDateWarning">You haven't announced a release date yet, which will reduce the impact of your {0}
+Are you sure you want to continue?</Item>
+		<Item Name="ActionPairDirect">Assign furniture to employee</Item>
+		<Item Name="ActionPair">Assign furniture to selected employee</Item>
+		<Item Name="ActionAutoAssign">Auto assign computers in rooms</Item>
+		<Item Name="SubsidiaryCloseWarning">You are about to shut down your subsidiary, {0}.
+Are you sure you want to continue?</Item>
+		<Item Name="SubsidiaryPrompt">Do you want to take over {0} and its IP or make it subsidiary of your company?</Item>
+		<Item Name="BoughtOutProductsStocksInfo">You received {0} stocks and the rights to {1} products in the takeover of {2}</Item>
+		<Item Name="ReturnDate">Returns in {0}</Item>
+		<Item Name="AutoSecondDevTeam">The design phase is usually shorter than the implementation phase, but you can use a secondary development team to run projects in parallel and pick up any slack</Item>
+		<Item Name="SubsidiaryDeposit">Please enter how much money you wish to deposit in the subsidiary</Item>
+		<Item Name="SubsidiaryDepositError">The company needs money to not declare bankruptcy</Item>
+		<Item Name="Vacation end">Vacation end</Item>
+		<Item Name="ReleaseDateChangeWarning">Are you sure you want to change the release date? You'll have {0} to release your product.
+Pushing back the release date can make people start unfollowing and it'll be harder to push it back later, if you move it up.</Item>
+	</Alpha9.6>
 </UI>
-
-
-
