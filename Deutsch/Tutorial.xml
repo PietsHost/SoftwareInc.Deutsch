@@ -106,18 +106,18 @@ Der Walt ist die Standardumgebung, die Tundra ist das ganze Jahr über kalt, die
 Wenn Sie das Gefühl haben, dass das Spiel zu schnell ist oder Sie möchten einfach zwischen den Monatsenden, an denen Sie Ihre Rechnungen und Löhne bezahlen müssen, ein paar Tage mehr zum Geldverdienen, dann erhöhen Sie einfach die Anzahl an Tagen, die einem Monat entsprechen.
 
 Beachten Sie, dass alles im Spiel sich in Relation zu Ihren Einstellungen langsamer bewegt und dass Sie dies später nicht ändern können.</Message>
-	<Message id="DESIGN DOCUMENT1">Start the tutorial by pressing the "Develop software" button to bring up the design document.</Message>
-	<Message id="DESIGN DOCUMENT2">Welcome to the design document, the heart of Software Inc.
+	<Message id="DESIGN DOCUMENT1">Starten sie das Tutorial, indem sie auf die Schaltfläche "Software entwickeln" klicken, um das Designdokument aufzurufen.</Message>
+	<Message id="DESIGN DOCUMENT2">Willkommen im Desgindokument, dem Herzen von Software Inc.
 
-Start by picking a software type.
+Starten sie indem sie einen Software-Typen auswählen.
 
 Click continue to to advance the tutorial.</Message>
-	<Message id="DESIGN DOCUMENT3">If applicable, you can pick a software category. Each category for a software type has different development times, popularity, audience retention, features and it's own target audience.</Message>
-	<Message id="DESIGN DOCUMENT4">Then pick a name. You can either write one yourself or press the "Name:" button to have it generated.</Message>
-	<Message id="DESIGN DOCUMENT5">You can also pick a price. If you leave the price field alone, the best price will be picked based on the software and features you've chosen. You can click the Price button to reset the price.</Message>
-	<Message id="DESIGN DOCUMENT6">Now you must pick features for your product. Each feature takes time to develop and balances innovation, stability and usability, so pick carefully.
+	<Message id="DESIGN DOCUMENT3">Gegebenfalls können sie eine Software-Kategorie auswählen. Jede Kategorie für einen bestimmten Software-Typen hat unterschiedliche Entwicklungszeiten, Populatität, Publikum, Funktionen und seine eigene Zielgruppe.</Message>
+	<Message id="DESIGN DOCUMENT4">Wähle eine Namen. Sie können entweder selbst einen Namen ausdenken oder auf die Schaltfläche "Name" klicken, um einen Namen generieren zu lassen.</Message>
+	<Message id="DESIGN DOCUMENT5">Sie können auch selber einen Preis festlegen. Wenn du das Preisfeld nicht anfasst, wird der beste Preis auf der Grundlage des Software-Typen und der gewählten Funktionen ausgewählt. Klicke auf die Schaltfläche "Preis" um den Preis zurückzusetzten.</Message>
+	<Message id="DESIGN DOCUMENT6">Jetzt müssen sie die Funktionen für ihr Produkt auswählen. Beachten sie, jede Funktion braucht seine Zeit, um Innovation, Stabilität und Benutzerfreundlichkeit zu entwickeln und auszugleichen.
 
-The features you can pick depend on which software dependencies and operating systems you chose. When you select features, dependencies and operating systems will be filtered accordingly, this also works the other way around.
+Die Funktionen, die Sie auswählen können, hängen davon ab, welche Software-Abhängigkeiten und Betriebssysteme sie gewählt haben. Wenn sie Funktionen auswählen, werden Abhängigkeiten und Betriebssysteme entsprechend gefiltert, dies funktioniert auch umgekehrt.
 
 Some features are artistic in nature and you will need artists on the team to get the best result.</Message>
 	<Message id="DESIGN DOCUMENT7">You can use these buttons to quickly select features. Note that it might not always be best to just select all features.</Message>
