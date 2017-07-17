@@ -1967,4 +1967,64 @@ Are you sure you want to continue?</Item>
 		<Item Name="ReleaseDateChangeWarning">Are you sure you want to change the release date? You'll have {0} to release your product.
 Pushing back the release date can make people start unfollowing and it'll be harder to push it back later, if you move it up.</Item>
 	</Alpha9.6>
+	<Alpha9.7>
+		<Item Name="Shipping capacity">Versandkapazität</Item>
+		<Item Name="Close active window">Aktives Fenster schließen</Item>
+		<Item Name="CopyPerBox">{0} Kopien pro Box</Item>
+		<Item Name="BoxPostfix">{0} Boxen</Item>
+		<Item Name="CopiesPostfix">{0} Kopien</Item>
+		<Item Name="Size">Größe</Item>
+		<Item Name="Vacation range">Urlaubsbereich</Item>
+		<Item Name="Past peer reviews">Vergangene Peer Reviews</Item>
+		<Item Name="View assigned furniture">Zeige zugeordnete Möbel</Item>
+		<Item Name="ViewAssignedFurnitureHint">Klicken Sie hier, um alle zugewiesenen Möbel rot und nicht zugewiesene Möbel grau zu markieren</Item>
+		<Item Name="Income per Mb per hour">Einkommen pro MB pro Stunde</Item>
+		<Item Name="Filter">Filter</Item>
+		<Item Name="PrintDealFail">You failed to print the last {0} copies for {1} costing you a total of {2} at half off market value</Item>
+		<Item Name="Crunch">Crunch</Item>
+		<Item Name="CrunchHint">Crunch time forces all employees on a team to work a lot faster at the cost of satisfaction. Employees will work slower for a period after the crunch is over, depending on how long it lasted.</Item>
+		<Item Name="CrunchTimeProb">Crunch time is stressful</Item>
+		<Item Name="CrunchHangover">Crunch hangover</Item>
+		<Item Name="Distribution deals">Vertriebsgeschäfte</Item>
+		<Item Name="NoPreMarketWarning">{0} has reached alpha but still doesn't have any followers! Make sure you start your marketing efforts early or nobody will buy your product</Item>
+		<Item Name="NoHRWarning">The {0} team just lost their leader and is no longer under HR management</Item>
+		<Item Name="Handle wages">Löhne behandeln</Item>
+		<Item Name="Handle complaints">Beschwerden behandeln</Item>
+		<Item Name="ProductReleaseConfirmation">Are you sure you want to release {0} now?</Item>
+		<Item Name="ProductOSAudienceZero">The supported operating systems for {0} no longer have any users to sell to. Consider porting it to other operating systems if possible</Item>
+		<Item Name="RangeFrom">Von</Item>
+		<Item Name="RangeTo">An</Item>
+		<Item Name="Confirmations">Bestätigungen</Item>
+		<Item Name="ConfirmationsHint">Enable non-essentiel confirmation dialogs. Only disable this if you are confident you won't miss-click</Item>
+	</Alpha9.7>
+	<Alpha9.8>
+		<Item Name="Code units">Code-Einheiten</Item>
+		<Item Name="Art units">Kunst-Einheiten</Item>
+		<Item Name="EstUnits">Geschätzt {0} Einheiten</Item>
+		<Item Name="OSMockConfirm">Your product depends on operating systems, which are still in development. You won't be able to release your product before those operating systems have been released.
+Are you sure you want to continue?</Item>
+		<Item Name="ActionRoomPairDirect">Ausgewählte Räume den Mitarbeitern zuordnen</Item>
+		<Item Name="Undo">Rückgängig machen</Item>
+		<Item Name="UndoWarningTip">This feature is currently experimental! The game will autosave in case something happens</Item>
+		<Item Name="Destroy Wall">Wand zerstören</Item>
+		<Item Name="Tear down walls between rooms">Wand zwischen den Räumen abreißen</Item>
+		<Item Name="MissingChairHint">This {0} needs a chair to become accessible</Item>
+	</Alpha9.8>
+	<Alpha9.9>
+		<Item Name="Generous">Großzügig</Item>
+		<Item Name="Optimistic">Optimistisch</Item>
+		<Item Name="Misanthropist">Menschenfeind</Item>
+		<Item Name="Cocky">Großspurig</Item>
+		<Item Name="Snob">Snob</Item>
+		<Item Name="Mean">Durchschnitt</Item>
+		<Item Name="Pessimistic">Pessimistisch</Item>
+		<Item Name="Goofy">Doof</Item>
+		<Item Name="Flirt">Flirt</Item>
+		<Item Name="Naive">Naiv</Item>
+		<Item Name="Dramatic">Dramatisch</Item>
+		<Item Name="Short-tempered">Gereizt</Item>
+		<Item Name="Stubborn">Stur</Item>
+		<Item Name="Introvert">Introvertiert</Item>
+		<Item Name="Extrovert">Extrovertiert</Item>
+	</Alpha9.9>
 </UI>
