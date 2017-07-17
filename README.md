@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/PietsHost/SoftwareInc.Deutsch.svg)](https://github.com/PietsHost/SoftwareInc.Deutsch/stargazers)
 [![irc](https://img.shields.io/badge/IRC-%23pietshost%20on%20freenode-orange.svg)](https://webchat.freenode.net/?channels=pietshost)
 
-Deutsche Übersetzung für Software Inc. Alpha 9.6
+Deutsche Übersetzung für Software Inc. Alpha 9
 
 
 
