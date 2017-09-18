@@ -1,7 +1,7 @@
 <Furniture>
     <Furniture Name="Elevator">
         <Name>Aufzug</Name>
-        <Description>Setze Aufzüge in verschiedenen Etage übereinander um diese zu Verbinden</Description>
+        <Description>Setze Aufzüge in verschiedenen Etagen übereinander, um diese zu verbinden</Description>
     </Furniture>
     <Furniture Name="Stairs">
 		<Name>Treppe</Name>
@@ -14,7 +14,7 @@
     </Furniture>
     <Furniture Name="Glass Table">
         <Name>Glastisch</Name>
-        <Description>Genieß die Ansicht deiner Füße während der Arbeit</Description>
+        <Description>Genieße die Ansicht deiner Füße während der Arbeit</Description>
         <Color1>Frame</Color1>
     </Furniture>
     <Furniture Name="2m End Table">
@@ -65,18 +65,18 @@
     </Furniture>
     <Furniture Name="Ceiling Fan">
         <Name>Deckenventilator</Name>
-        <Description>Flotter Ventilator, der nicht nur cool aussieht sondern auch den Raum kühlt! Verursacht eventuell etwas Lärm.</Description>
+        <Description>Flotter Ventilator, der nicht nur cool aussieht, sondern auch den Raum kühlt! Verursacht eventuell etwas Lärm.</Description>
         <Color1>Base</Color1>
         <Color2>Blades</Color2>
     </Furniture>
     <Furniture Name="Radiator">
         <Name>Heizung</Name>
-        <Description>Läuft mit teurer Fernwärme, ist jedoch deutlich Effektiver als die kleine Heizung.</Description>
+        <Description>Läuft mit teurer Fernwärme, ist jedoch deutlich effektiver als die kleine Heizung.</Description>
         <Color1>Base</Color1>
     </Furniture>
     <Furniture Name="Ventilation">
         <Name>Lüftungsanlage</Name>
-        <Description>Kleinlüftereinheit, die Luft direkt von der anderen Seite der Wand saugt. Kann genutzt werden um Serverräume zu kühlen.</Description>
+        <Description>Kleinlüftereinheit, die Luft direkt von der anderen Seite der Wand saugt. Kann genutzt werden, um Serverräume zu kühlen.</Description>
         <Color1>Base</Color1>
     </Furniture>
     <Furniture Name="Central Heating">
@@ -86,24 +86,24 @@
     </Furniture>
     <Furniture Name="AC Unit">
         <Name>Klimaanlage</Name>
-        <Description>Industrielle Klimaanlage, die ganze Gebäudekomplexe abkühlen kann. Sehr laut und sehr hässlich. Muss Oberirdisch installiert werden</Description>
+        <Description>Industrielle Klimaanlage, die ganze Gebäudekomplexe abkühlen kann. Sehr laut und sehr hässlich. Muss oberirdisch installiert werden</Description>
         <Color1>Base</Color1>
     </Furniture>
     <Furniture Name="Industrial ventilation">
         <Name>Industrieller Ventilator</Name>
-        <Description>Dieser Lüfter wurde entwickelt, um einen Raum mit Server zu kühlen, nicht für Menschen geeignet um Räme mit Personen zu kühlen</Description>
+        <Description>Dieser Lüfter wurde entwickelt, um einen Raum mit Servern zu kühlen, nicht geeignet, um Räme mit Personen zu kühlen</Description>
         <Color1>Base</Color1>
         <Color2>Blades</Color2>
     </Furniture>
     <Furniture Name="Old Computer">
         <Name>Alter Computer</Name>
-        <Description>Mehr Pixel als man an einer Hand abzählen kann!</Description>
+        <Description>Mehr Pixel, als man an einer Hand abzählen kann!</Description>
         <Color1>Casing</Color1>
         <Color2>Keys</Color2>
     </Furniture>
     <Furniture Name="90s Computer">
         <Name>90er Computer</Name>
-        <Description>Die Rechenleistung eines Taschenrechners verteilt auf das Volumen von 2 Bierkästen</Description>
+        <Description>Die Rechenleistung eines Taschenrechners, verteilt auf das Volumen von 2 Bierkästen</Description>
         <Color1>Casing</Color1>
         <Color2>Monitor</Color2>
         <Color3>Keys</Color3>
@@ -127,11 +127,11 @@
     </Furniture>
     <Furniture Name="Cubicle wall">
 		<Name>Würfel-Wand</Name>
-		<Description>Platziere diese Wand intelligent um die Lärmbelästigung am Arbeitsplatz zu reduzieren. Würfel-Wände erhöhen die Isolation der Mitarbeiter.</Description>
+		<Description>Platziere diese Wand intelligent, um die Lärmbelästigung am Arbeitsplatz zu reduzieren. Würfel-Wände erhöhen die Isolation der Mitarbeiter.</Description>
 	</Furniture>
     <Furniture Name="Lamp">
         <Name>Lampe</Name>
-        <Description>Stelle sicher, dass deine Mitarbeiter etwas sehen, wenn sie zu später Stunde arbeiten oder wenn Sie nicht durch Fenster gestört werden sollen</Description>
+        <Description>Stelle sicher, dass deine Mitarbeiter etwas sehen, wenn sie zu später Stunde arbeiten, oder wenn Sie nicht durch Fenster gestört werden sollen</Description>
         <Color1>Shade</Color1>
         <Color3>Lighting</Color3>
     </Furniture>
@@ -159,7 +159,7 @@
     </Furniture>
     <Furniture Name="Outdoor Lamp">
         <Name>Außenleuchte</Name>
-        <Description>Gemütliche Lampe für alle lauf-nirgends-gegen-in-der-Nacht Bedürfnisse!</Description>
+        <Description>Gemütliche Lampe für alle lauf-nirgends-dagegen-in-der-Nacht Bedürfnisse!</Description>
         <Color1>Base</Color1>
         <Color3>Lighting</Color3>
     </Furniture>
@@ -173,7 +173,7 @@
     </Furniture>
     <Furniture Name="Stove">
 		<Name>Herd</Name>
-		<Description>Köche nutzen den Herd um Essen zu kochen. Ein Herd pro Koch.</Description>
+		<Description>Köche nutzen den Herd, um Essen zu kochen. Ein Herd pro Koch.</Description>
 		<Color1>Base</Color1>
 		<Color2>Top</Color2>
 	</Furniture>
@@ -210,12 +210,12 @@
 	</Furniture>
     <Furniture Name="Painting">
         <Name>Bild</Name>
-        <Description>Eine kitschige Malerei um das Büro zu beleben</Description>
+        <Description>Eine kitschige Malerei, um das Büro zu beleben</Description>
         <Color1>Frame</Color1>
     </Furniture>
     <Furniture Name="TV">
         <Name>Fernseher</Name>
-        <Description>Zeigt dir was in der Welt so passiert, sehr hilfreich um nicht mit anderen reden zu müssen</Description>
+        <Description>Zeigt dir, was in der Welt so passiert, sehr hilfreich um nicht mit anderen reden zu müssen</Description>
         <Color1>Frame</Color1>
     </Furniture>
     <Furniture Name="Bookshelf">
@@ -225,7 +225,7 @@
     </Furniture>
     <Furniture Name="Reception desk">
         <Name>Rezeption</Name>
-        <Description>Nötig um Aufträge entgegen zu nehmen.</Description>
+        <Description>Nötig, um Aufträge entgegen zu nehmen.</Description>
         <Color1>Base</Color1>
     </Furniture>
     <Furniture Name="Floor Plant">
@@ -271,7 +271,7 @@
     </Furniture>
     <Furniture Name="Medium Server">
         <Name>Mittlerer Server</Name>
-        <Description>Wie ein kleiner Server, aber mehr mittel</Description>
+        <Description>Wie ein kleiner Server, aber mehr "mittel"</Description>
         <Color1>Casing</Color1>
     </Furniture>
     <Furniture Name="Tower Server">
@@ -284,8 +284,6 @@
         <Description>Wenn ein Computer nicht genug ist</Description>
         <Color1>Base</Color1>
     </Furniture>
-	
-	
 	<Furniture Name="Big Server Rack">
 		<Name>Großes Server Rack</Name>
 		<Description>Wenn Sie nicht genug Server haben können</Description>
@@ -322,7 +320,7 @@
 	</Furniture>
 	<Furniture Name="Pallet">
 		<Name>Palette</Name>
-		<Description>Unterstützt bis zu 27 Boxen mit 1000 Kopien Inhalt. Muss im selben Raum wie ein Drucker sein</Description>
+		<Description>Unterstützt bis zu 27 Boxen mit 1000 Kopien Inhalt. Muss im selben Raum, wie ein Drucker sein</Description>
 	</Furniture>
     <Segment Name="Standard door">
         <Name>Einfache Tür</Name>
@@ -330,7 +328,7 @@
     </Segment>
     <Segment Name="Sliding glass door">
         <Name>Glas-Schiebetür</Name>
-        <Description>Tür, die das Fenster verdoppelt</Description>
+        <Description>Tür, die auch ein Fenster ist</Description>
     </Segment>
     <Segment Name="Double doors">
         <Name>Doppeltüren</Name>
@@ -338,11 +336,11 @@
     </Segment>
     <Segment Name="Double glass door">
         <Name>Doppelte Glastür</Name>
-        <Description></Description>
+        <Description>Mehr Türen, mehr Fenster</Description>
     </Segment>
     <Segment Name="Small window">
         <Name>kleines Fenster</Name>
-        <Description>Völlig nutzlos, wenn zwischen den Räumen platziert</Description>
+        <Description>Völlig nutzlos, wenn zwischen Räumen platziert</Description>
     </Segment>
     <Segment Name="Large window">
         <Name>großes Fenster</Name>
