@@ -55,7 +55,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="8-bit audio">
 				<Name>8-Bit Audio</Name>
-				<Description>Wie in einem Konzert... nuja, fast</Description>
+				<Description>Wie in einem Konzert... nunja, fast</Description>
 			</Feature>
 			<Feature Name="HD audio">
 				<Name>HD Audio</Name>
@@ -202,7 +202,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Audio compression">
 				<Name>Audiokompression</Name>
-				<Description>Läßt Klangteile veschwinden, die sowieso niemand hört</Description>
+				<Description>Läßt Klangteile veschwinden, die sowieso (fast) niemand hört</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
@@ -261,7 +261,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="HD audio">
 				<Name>HD Audio</Name>
-				<Description>In HD nun fast wie im Konzert</Description>
+				<Description>In HD, jetzt fast wie in einem Konzert</Description>
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Netzwerke</Name>
@@ -292,7 +292,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="2D graphics">
 				<Name>2D Grafik</Name>
-				<Description>Beeindrucke den Spieler mit teuren Grafiken</Description>
+				<Description>Beeindrucke den Spieler mit Grafiken</Description>
 			</Feature>
 			<Feature Name="3D graphics">
 				<Name>3D Grafik</Name>
@@ -308,11 +308,11 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Music">
 				<Name>Musik</Name>
-				<Description>Beeindrucke den Spieler mit schöner Musik</Description>
+				<Description>Verwöhne den Spieler mit schöner Musik</Description>
 			</Feature>
 			<Feature Name="Dialog">
 				<Name>Dialog</Name>
-				<Description>Unterhalte dich virtuell mit dem Spieler</Description>
+				<Description>Virtuelle Unterhaltungen mit dem Spieler</Description>
 			</Feature>
 			<Feature Name="Open world">
 				<Name>Offene Welt</Name>
@@ -324,11 +324,11 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Local multiplayer">
 				<Name>Lokaler Mehrspieler</Name>
-				<Description>Ermöglicht das Zusammenspielen daheim in kleiner Runde</Description>
+				<Description>Ermöglicht das zusammen spielen daheim in kleiner Runde</Description>
 			</Feature>
 			<Feature Name="Multiplayer">
 				<Name>Mehrspieler</Name>
-				<Description>Ermöglicht das Zusammenspielen von Spielern auf der ganzen Welt</Description>
+				<Description>Ermöglicht das zusammen spielen von Spielern auf der ganzen Welt</Description>
 			</Feature>
 			<Feature Name="MMO">
 				<Name>MMO</Name>
@@ -336,7 +336,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Mod support">
 				<Name>Mod Unterstützung</Name>
-				<Description>Ermöglicht Spielern eigene Inhalte zu erstellen (Auch in Software Inc. vorhanden)</Description>
+				<Description>Ermöglicht Spielern, eigene Inhalte zu erstellen (Auch in Software Inc. vorhanden)</Description>
 			</Feature>
 			<Feature Name="Touch support">
 				<Name>Touch Unterstützung</Name>
@@ -352,7 +352,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Advanced cutscenes">
 				<Name>Erweiterte Zwischensequenzen</Name>
-				<Description>Zeigt Spielerentscheidungen in in Echtzeit erstellten Filmsequenzen</Description>
+				<Description>Zeigt Spielerentscheidungen in, in Echtzeit erstellten, Filmsequenzen</Description>
 			</Feature>
 			<Feature Name="Motion capture">
 				<Name>Bewegungsaufnahme</Name>
@@ -366,6 +366,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Category>
 			<Category Name="Adventure">
 				<Name>Abenteuer</Name>
+				<Description>Virtuelle Abenteuer</Description>
 			</Category>
 			<Category Name="Simulation">
 				<Name>Simulation</Name>
@@ -391,6 +392,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 		<Features>
 			<Feature Name="Word processor">
 				<Name>Textverarbeitungssystem</Name>
+				<Description>Digitale Schreibmaschine</Description>
 			</Feature>
 			<Feature Name="WYSIWYG">
 				<Name>WYSIWYG</Name>
@@ -410,7 +412,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Custom functions">
 				<Name>Kundenspezifische Funktionen</Name>
-				<Description>Gibt deinen Kunden etwas Besonderes</Description>
+				<Description>Eine Tabelle kann immer noch etwas komplizierter werden</Description>
 			</Feature>
 			<Feature Name="Charts">
 				<Name>Statistik-Diagramme</Name>
@@ -418,6 +420,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Presentation">
 				<Name>Präsentation</Name>
+				<Description>Virtuelle Folien, Daten im Überblick</Description>
 			</Feature>
 			<Feature Name="Vector graphics">
 				<Name>Vektor Grafiken</Name>
@@ -433,9 +436,11 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Templates">
 				<Name>Vorlagen</Name>
+				<Description>Damit alle Folien gleich aussehen</Description>
 			</Feature>
 			<Feature Name="Clipart">
 				<Name>Clipart</Name>
+				<Description>Wiederverwendbare Bilder</Description>
 			</Feature>
 			<Feature Name="Scripting">
 				<Name>Scripting</Name>
@@ -443,19 +448,22 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Online backup">
 				<Name>Online backup</Name>
+				<Description>Abspeichern im Netz, damit es überall verfügbar ist</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="CMS">
 		<Name>CMS</Name>
-		<Description>Ein Content Management System wird vor allem für ganz bestimmte Aufgabe der Verwaltung von Inhalten verwendet</Description>
+		<Description>Ein Content Management System wird vor allem für ganz bestimmte Aufgaben der Verwaltung von Inhalten verwendet</Description>
 		<Features>
 			<Feature Name="File management">
 				<Name>Dateimanagement</Name>
+				<Description>Verwaltung der Dateien</Description>
 			</Feature>
 			<Feature Name="Visualization tools">
 				<Name>Visualisierungstools</Name>
+				<Description>Visuelle Darstellung der Zusammenhänge</Description>
 			</Feature>
 			<Feature Name="WYSIWYG">
 				<Name>WYSIWYG</Name>
@@ -471,6 +479,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Themes">
 				<Name>Themes</Name>
+				<Description>Laß den Anwender das Aussehen selbst festlegen</Description>
 			</Feature>
 			<Feature Name="GUI">
 				<Name>GUI</Name>
@@ -478,6 +487,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Bank integration">
 				<Name>Bank-Integration</Name>
+				<Description>Direkte Kommunikation mit der Bank</Description>
 			</Feature>
 			<Feature Name="Document generation">
 				<Name>Dokumentenerstellung</Name>
@@ -485,9 +495,11 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Statistics">
 				<Name>Statistiken</Name>
+				<Description>Verschiedene Statistiken über alle möglichen Aspekte</Description>
 			</Feature>
 			<Feature Name="User hierarchy">
 				<Name>Benutzerhierarchie</Name>
+				<Description>Benutzer- und Rechteverwaltung</Description>
 			</Feature>
 			<Feature Name="Work delegation">
 				<Name>Arbeits Delegation</Name>
@@ -519,6 +531,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 		<Features>
 			<Feature Name="File scan">
 				<Name>Dateiscan</Name>
+				<Description>Die Grundfunktion ist das Überprüfen von Dateien</Description>
 			</Feature>
 			<Feature Name="User interface">
 				<Name>Benutzeroberfläche</Name>
@@ -526,6 +539,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 			</Feature>
 			<Feature Name="Firewall">
 				<Name>Firewall</Name>
+				<Description>Verhindert unberechtigten Datenverkehr nach innen und außen</Description>
 			</Feature>
 			<Feature Name="Background scan">
 				<Name>Hintergrundscan</Name>
@@ -548,15 +562,19 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 		<Features>
 			<Feature Name="Commandline">
 				<Name>Kommandozeile</Name>
+				<Description>Alle Kommandos werden per Tastatur gegeben</Description>
 			</Feature>
 			<Feature Name="GUI">
 				<Name>GUI</Name>
+				<Description>Grafische Oberfläche für mehr Komfort</Description>
 			</Feature>
 			<Feature Name="Database">
 				<Name>Datenbank</Name>
+				<Description>Verwendung von Datenbanken für weniger Datenredundanz</Description>
 			</Feature>
 			<Feature Name="Third-party integration">
 				<Name>Drittanbieter Integrierung</Name>
+				<Description>Integrierte Interaktion mit anderen Firmen</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
@@ -567,18 +585,23 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 		<Features>
 			<Feature Name="Static pages">
 				<Name>Statische Seiten</Name>
+				<Description>Seiten sind komplett statisch programmiert</Description>
 			</Feature>
 			<Feature Name="Image gallery">
-				<Name>Bildergallerie</Name>
+				<Name>Bildergalerie</Name>
+				<Description>Virtuelle Galerien für Ihre schönsten Bilder</Description>
 			</Feature>
 			<Feature Name="Dynamic pages">
 				<Name>Dynamische Seiten</Name>
+				<Description>Seiten werden aus Inhalten dynamisch zusammen gesetzt</Description>
 			</Feature>
 			<Feature Name="Store">
 				<Name>Shop</Name>
+				<Description>Verwendung eines eigenen Shops</Description>
 			</Feature>
 			<Feature Name="Database">
 				<Name>Datenbank</Name>
+				<Description>Nutzung von Datenbanken für mehr Flexibilität und leichtere Anpassungen</Description>
 			</Feature>
 		</Features>
 		<Categories></Categories>
