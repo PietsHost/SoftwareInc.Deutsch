@@ -589,9 +589,9 @@ Sind Sie sicher, dass Sie fortfahren möchten?</Item>
 		<Item Name="LoseDialogMsgTitle">Sie verlieren!</Item>
 		<Item Name="BankruptInsurance">Sie haben {0} auf Ihrem Konto.
 Möchten Sie {1} von Ihrem Versicherungskonto abheben, um den Bankrott zu vermeiden?</Item>
-		<Item Name="BankruptStock">Sie hast {0} auf Ihrem Konto.
+		<Item Name="BankruptStock">Sie haben {0} auf Ihrem Konto.
 Möchten Sie Ihre Aktien im Wert von {1} verkaufen, um den Bankrott zu vermeiden?</Item>
-		<Item Name="BankruptLoan">Sie hast {0} auf Ihrem Konto.
+		<Item Name="BankruptLoan">Sie haben {0} auf Ihrem Konto.
 Möchten Sie ein Darlehen bei der Bank in Höhe von {1} beantragen, um den Bankrott zu vermeiden?</Item>
 		<Item Name="BankruptLoseMsg">Sie sind mit {0} auf Ihrem Konto bankrott gegangen.</Item>
 	</Dialogs>
