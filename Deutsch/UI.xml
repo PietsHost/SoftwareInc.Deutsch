@@ -606,7 +606,7 @@ Möchten Sie ein Darlehen bei der Bank in Höhe von {1} beantragen, um den Bankr
 	<RoomLimitNames>
 		<Item Name="Lounge">Warteraum</Item>
 		<Item Name="Anyone">jeder</Item>
-		<Item Name="Leaders">Führung</Item>
+		<Item Name="Leaders">Leitung</Item>
 		<Item Name="Programmers">Programmierer</Item>
 		<Item Name="Designers">Designer</Item>
 		<Item Name="Artists">Künstler</Item>
@@ -772,8 +772,8 @@ Rechtsklick um abzubrechen.</Item>
 	<Item Name="Code">Code</Item>
 	<Item Name="Art">Kunst</Item>
 	<Item Name="Base skill">Basisfähigkeit</Item>
-	<Item Name="Lead">Führung</Item>
-	<Item Name="Leader">Führer</Item>
+	<Item Name="Lead">Leitung</Item>
+	<Item Name="Leader">Leiter</Item>
 	<Item Name="Designer">Designer</Item>
 	<Item Name="Programmer">Programmierer</Item>
 	<Item Name="Artist">Künstler</Item>
@@ -1449,7 +1449,7 @@ Klicken zum fortfahren</Item>
 		<Item Name="Fast learner">Schneller Lerner</Item>
 		<Item Name="Lazy">Faul</Item>
 		<Item Name="Stressed">Gestresst</Item>
-		<Item Name="IndependantVsSocial">Ein guter Führer muss sozial sein, aber ein unabhängiger Mitarbeiter arbeitet glücklicher für sich alleine</Item>
+		<Item Name="IndependantVsSocial">Ein guter Leiter muss sozial sein, aber ein unabhängiger Mitarbeiter arbeitet glücklicher für sich alleine</Item>
 		<Item Name="LazyVsStressed">Ein fauler Mitarbeiter wird versuchen, so wenig wie möglich zu arbeiten, während ein gestresster Mitarbeiter schnell überfordert ist</Item>
 		<Item Name="HardWorkVsFastLearn">Ein fleißiger Mitarbeiter gibt 110%, ein schneller Lerner kann dafür neue Fähigkeiten besser und einfacher erlernen</Item>
 		<Item Name="InHouseWarning">Sie starten die Entwicklung eines In-Haus Produktes, was bedeutet, dass Sie dieses nicht verkaufen oder Lizenzgebühren dafür verlangen können. 
@@ -1654,7 +1654,7 @@ Stellen Sie ein Budget ein, um sicherzustellen, dass Ihnen nicht das Geld aus ge
 		<Item Name="TicketsQueued">{0} in Warteschlange</Item>
 		<Item Name="TicketsMissed">{0} verpasst</Item>
 		<Item Name="Human resources">Human resources</Item>
-		<Item Name="Pick a leader">Wählen Sie einen Anführer</Item>
+		<Item Name="Pick a leader">Wählen Sie einen Leiter</Item>
 		<Item Name="HUD Frost">HUD Frost</Item>
 		<Item Name="HUDFrostHelp">Gibt der Haupt-HUD ein mattes Aussehen</Item>
 		<Item Name="ProjectManagementDefaultName">Projektname</Item>
@@ -1666,8 +1666,8 @@ Stellen Sie ein Budget ein, um sicherzustellen, dass Ihnen nicht das Geld aus ge
 		<Item Name="Post-marketing teams">Post-Marketing Teams</Item>
 		<Item Name="Development time">Entwicklungszeit</Item>
 		<Item Name="Auto development">Auto-Entwicklung</Item>
-		<Item Name="AutoDevHelpTip">Aktivieren Sie dies, um den Anführer Produkte auf der Basis der letzten Produkte veröffentlichen zu lassen</Item>
-		<Item Name="OnlySequelHelpTip">Ob der Anführer nur Fortsetzungen zu vergangenen Projekten herstellen sollte, anstatt neue IPs zu schaffen</Item>
+		<Item Name="AutoDevHelpTip">Aktivieren Sie dies, um den Leiter Produkte auf der Basis der letzten Produkte veröffentlichen zu lassen</Item>
+		<Item Name="OnlySequelHelpTip">Ob der Leiter nur Fortsetzungen zu vergangenen Projekten herstellen sollte, anstatt neue IPs zu schaffen</Item>
 		<Item Name="DevelopmentTimeHelpTip">Wie lange jedes Projekt in der Entwicklung sein sollte, relativ zur optimalen Zeit, die es zum Entwickeln benötigt</Item>
 		<Item Name="Phase">Phase</Item>
 		<Item Name="Projects">Projekte</Item>
@@ -1683,13 +1683,13 @@ Stellen Sie ein Budget ein, um sicherzustellen, dass Ihnen nicht das Geld aus ge
 		<Item Name="HandleMarketingTip">Lassen Sie den Projektleiter das Post-Marketing handhaben und das Budget festlegen</Item>
 		<Item Name="Takeover">Übernahme</Item>
 		<Item Name="Action points">Aktionspunkte</Item>
-		<Item Name="ActionPointTip">Jede Managemententscheidung erfordert Handlungspunkte, die der Anführer erwerben wird. Leader Skill bestimmt, wie viele erworben werden können und Rollen spezifische Fähigkeiten bestimmen die Geschwindigkeit.</Item>
-		<Item Name="OwnLicenseTip">Ob der Anführer versuchen sollte, nur hauseigene Lizenzen bei der Erstellung neuer Projekte zu verwenden</Item>
+		<Item Name="ActionPointTip">Jede Managemententscheidung erfordert Handlungspunkte, die der Leiter erwerben wird. Leader Skill bestimmt, wie viele erworben werden können und Rollen spezifische Fähigkeiten bestimmen die Geschwindigkeit.</Item>
+		<Item Name="OwnLicenseTip">Ob der Leiter versuchen sollte, nur hauseigene Lizenzen bei der Erstellung neuer Projekte zu verwenden</Item>
 		<Item Name="Single IP">Einzelne IP</Item>
-		<Item Name="SingleIPTip">Ob der Anführer an ein IP gebunden ist, was in zwingt, zu warten, wenn bereits ein Nachfolger entwickelt wird</Item>
+		<Item Name="SingleIPTip">Ob der Leiter an ein IP gebunden ist, was in zwingt, zu warten, wenn bereits ein Nachfolger entwickelt wird</Item>
 		<Item Name="Temporarily unavailable">Vorübergehend nicht verfügbar</Item>
-		<Item Name="AutoDevMissingLeader">Sie müssen einen Anführer auswählen, bevor Sie fortfahren können</Item>
-		<Item Name="AutoDevNoLeaders">Es stehen keine Anführer zur Auswahl. Bitte stellen Sie einen Anführer ein oder machen Sie einen Ihrer aktuellen Mitarbeiter zu einem Anführer</Item>
+		<Item Name="AutoDevMissingLeader">Sie müssen einen Leiter auswählen, bevor Sie fortfahren können</Item>
+		<Item Name="AutoDevNoLeaders">Es stehen keine Leiter zur Auswahl. Bitte stellen Sie einen Leiter ein oder machen Sie einen Ihrer aktuellen Mitarbeiter zu einem Leiter.</Item>
 		<Item Name="LateProductRelease">{0} ist überfällig und verliert Follower</Item>
 		<Item Name="NewDebtLoss">Ihr Unternehmen ist im Minus! Sie haben bis {0} Zeit, um Ihre finanzielle Situation zu korrigieren oder Ihr Unternehmen wird gezwungen sein, Konkurs anzumelden</Item>
 		<Item Name="NewDebtLossPass">Glückwunsch! 24 Stunden sind vergangen und Ihr Unternehmen wurde von Schulden befreit</Item>
@@ -1932,7 +1932,7 @@ Die Zeit bis zum Erscheinen zu verlängern kann dafür sorgen, daß Leute anfang
 		<Item Name="CrunchHangover">Zeitnot-Kater</Item>
 		<Item Name="Distribution deals">Vertriebsgeschäfte</Item>
 		<Item Name="NoPreMarketWarning">{0} hat den Alpha Status erreicht, aber noch keinen einzigen Follower! Stellen Sie sicher, das Marketing rechtzeitig zu beginnen, sonst wird niemand Ihr Produkt kaufen.</Item>
-		<Item Name="NoHRWarning">Das Team {0} hat ihren Anführer verloren und ist nicht länger unter HR-Management!</Item>
+		<Item Name="NoHRWarning">Das Team {0} hat ihren Leiter verloren und ist nicht länger unter HR-Management!</Item>
 		<Item Name="Handle wages">Löhne behandeln</Item>
 		<Item Name="Handle complaints">Beschwerden behandeln</Item>
 		<Item Name="ProductReleaseConfirmation">Sind Sie sicher, {0} jetzt zu veröffentlichen?</Item>
