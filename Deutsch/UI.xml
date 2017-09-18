@@ -1953,7 +1953,7 @@ Wollen Sie wirklich fortfahren?</Item>
 		<Item Name="UndoWarningTip">Dieses Feature ist noch experimentell! Das Spiel wird automatisch gespeichert, falls etwas schief geht</Item>
 		<Item Name="Destroy Wall">Wand zerstören</Item>
 		<Item Name="Tear down walls between rooms">Wand zwischen den Räumen abreißen</Item>
-		<Item Name="MissingChairHint">Einen Stuhl wird von {0} benötigt, um benutzbar zu sein</Item>
+		<Item Name="MissingChairHint">{0} benötigt einen Stuhl, um benutzbar zu sein</Item>
 	</Alpha9.8>
 	<Alpha9.9>
 		<Item Name="Generous">Großzügig</Item>
