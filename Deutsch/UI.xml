@@ -592,7 +592,7 @@ Möchten Sie {1} von Ihrem Versicherungskonto abheben, um den Bankrott zu vermei
 		<Item Name="BankruptStock">Du hast {0} auf deinem Konto.
 Möchten Sie Ihre Aktien im Wert von {1} verkaufen, um den Bankrott zu vermeiden?</Item>
 		<Item Name="BankruptLoan">Du hast {0} auf deinem Konto.
-Möchten Sie ein Darlehn bei der Bank in Höhe von {1} beantragen, um den Bankrott zu vermeiden?</Item>
+Möchten Sie ein Darlehen bei der Bank in Höhe von {1} beantragen, um den Bankrott zu vermeiden?</Item>
 		<Item Name="BankruptLoseMsg">Sie sind mit {0} auf Ihrem Konto bankrott gegangen.</Item>
 	</Dialogs>
 	<FurnitureInfo>
