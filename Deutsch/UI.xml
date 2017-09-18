@@ -165,7 +165,7 @@
 		<Item Name="Progress">Fortschritt</Item>
 		<Item Name="Contract">Vertrag</Item>
 		<Item Name="Months">Monate</Item>
-		<Item Name="Income">Einkommen</Item>
+		<Item Name="Income">Einnahmen</Item>
 		<Item Name="Total">gesamt</Item>
 		<Item Name="Monthly">monatlich</Item>
 		<Item Name="Payout">Auszahlung</Item>
