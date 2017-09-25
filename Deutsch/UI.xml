@@ -87,8 +87,6 @@
 		<Item Name="MainDistribution">Vertriebskanäle</Item>
 		<Item Name="MainDistributionDesc">Verwalten Sie, wie Sie Ihre Software verteilen möchten.</Item>
 		<Item Name="Settings">Einstellungen</Item>
-		<Item Name="LowerWalls">Wände aus/einblenden</Item>
-		<Item Name="LowerWallsDesc">Blendet Wände für eine bessere Übersicht ein/aus.</Item>
 		<Item Name="HideLamps">Lampen aus/einblenden</Item>
 		<Item Name="HideLampsDesc">Blendet Lampen für eine bessere Übersicht ein/aus.</Item>
 		<Item Name="RoomLabels">Raumbeschreibung aus/einblenden</Item>
@@ -161,7 +159,7 @@
 		<Item Name="Disband">auflösen</Item>
 		<Item Name="Automation">Automatisierung</Item>
 		<Item Name="Type">Typ</Item>
-		<Item Name="Dismiss">Entlassen</Item>
+		<Item Name="Dismiss">Beenden</Item>
 		<Item Name="Progress">Fortschritt</Item>
 		<Item Name="Contract">Vertrag</Item>
 		<Item Name="Months">Monate</Item>
@@ -937,7 +935,6 @@ Empfohlene Teamgröße: {8}</Item>
 		<Item Name="CloneToolTitle">Kopierwerkzeug</Item>
 		<Item Name="CloneToolDesc">Hiermit können Sie ausgewählte Räume kopieren.</Item>
 		<Item Name="ActionRoomUnpair">Raum abwählen</Item>
-		<Item Name="ActionRoomPair">Raum zuweisen</Item>
 		<Item Name="Hire IT-support">IT-Support einstellen</Item>
 		<Item Name="ComplaintDialogInfo">Name: {0}
 Alter: {1}
@@ -2021,4 +2018,28 @@ Hänge ein % an die Zahl an, um die Anzahl als Prozentwert an der Zahl an Follow
 Hänge ein % an die Zahl an, um die Anzahl als Prozentwert an der Zahl an Followern des Projekts auszurichten.</Item>
 		<Item Name="Make sequel">Nachfolger erstellen</Item>
 	</Alpha9.10>
+	<Alpha9.11>
+		<Item Name="StockLoanError">Sie können keine Aktien von geliehenem Geld erwerben</Item>
+		<Item Name="Dialog confirmations">Dialogbestätigungen</Item>
+		<Item Name="ActionSave Style">Stil speichern</Item>
+		<Item Name="ActionApply Style">Stil anwenden</Item>
+		<Item Name="SaveStylePrompt">Bitte Namen für den Stil hier eingeben:</Item>
+		<Item Name="Room style">Raumstil</Item>
+		<Item Name="ActionGroupRooms">Ausgewählte Räume zu Gruppe zuweisen</Item>
+		<Item Name="Room groups">Raumgruppen</Item>
+		<Item Name="NewRoomGroupPrompt">Bitte Name für Raumgruppe hier eingeben:</Item>
+		<Item Name="New room group">Neue Raumgruppe</Item>
+		<Item Name="RoomGroupNameError">Eine Raumgruppe mit diesem Namen existiert bereits</Item>
+		<Item Name="NoRoomGroupPrompt">Sie haben keine Raumgruppe, wollen Sie jetzt eine erstellen?</Item>
+		<Item Name="Indoor style">Innen-Stil</Item>
+		<Item Name="Outdoor style">Außen-Stil</Item>
+		<Item Name="Select rooms">Räume auswählen</Item>
+		<Item Name="Ungrouped rooms">Räume ohne Gruppe</Item>
+		<Item Name="Group">Gruppe</Item>
+		<Item Name="ActionRoomPair">Raumgruppe an die ausgewählten Mitarbeiter zuweisen</Item>
+		<Item Name="LowerWalls">Wände umschalten</Item>
+		<Item Name="LowerWallsDesc">Wanddarstellung umschalten</Item>
+		<Item Name="RoomGroupDesc">Verwalte und gruppiere Räume, um sie leichter anzupassen und an Mitarbeiter zuzuweisen</Item>
+		<Item Name="StaffRoomAssignError">Einem Mitarbeiter wurden leere Raumgruppen zugeordnet, er kann so nicht arbeiten!</Item>
+	</Alpha9.11>	
 </UI>
