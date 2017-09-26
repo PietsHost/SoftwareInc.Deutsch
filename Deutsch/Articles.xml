@@ -136,7 +136,7 @@
 	<Item Name="PressBuildBodyFollowers0">Wir haben noch nicht wirklich von {0} gehört</Item>
 	<Item Name="PressBuildBodyFollowers1">Wir haben ein paar Gerüchte über {0} gehört</Item>
 	<Item Name="PressBuildBodyFollowers2">Einige Leute erwarten {0} schon</Item>
-	<Item Name="PressBuildBodyFollowers3">{0} hat ziemlich viele Follower angesammelt</Item>
+	<Item Name="PressBuildBodyFollowers3">{0} hat ziemlich viele Anhänger angesammelt</Item>
 	<Item Name="PressBuildBodyFollowers4">Jeder weiß zu diesem Zeitpunkt von {0}</Item>
 	<Item Name="PressBuildBodyReleaseDate0">Hat kein Veröffentlichungsdatum</Item>
 	<Item Name="PressBuildBodyReleaseDate1">Kein Wort darüber, wann sie es veröffentlichen</Item>

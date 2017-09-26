@@ -304,7 +304,7 @@
 		<Item Name="Close">Schließen</Item>
 	</WageWindow>
 	<LoanWindow>
-		<Item Name="Amount">Betrag</Item>
+		<Item Name="Amount">Menge</Item>
 		<Item Name="Interest">Zinsen</Item>
 		<Item Name="Period">Zeit</Item>
 		<Item Name="Current loans">Aktuelle Kredite</Item>
@@ -367,8 +367,8 @@
 		<Item Name="Tutorials">Tutorials</Item>
 		<Item Name="AM/PM">AM/PM</Item>
 		<Item Name="Celsius">Celsius</Item>
-		<Item Name="Mouse edge scrolling">Maus Kante Scrollen</Item>
-		<Item Name="MouseEdgeHint">Schwenkt die Kamera, wenn sich die Maus am Bildschirmrand befindet.</Item>
+		<Item Name="Mouse edge scrolling">Randverschieben</Item>
+		<Item Name="MouseEdgeHint">Bewegt die Kamera, wenn sich die Maus am Bildschirmrand befindet.</Item>
 		<Item Name="Scroll speed">Scroll Geschwindigkeit</Item>
 		<Item Name="Zoom speed">Zoom Geschwindigkeit</Item>
 		<Item Name="Rotation speed">Drehgeschwindigkeit</Item>
@@ -999,7 +999,7 @@ Sie benötigen einen Empfangsmitarbeiter, um Angebote zu erhalten.</Item>
 		<Item Name="Hire Receptionist">Empfangsmitarbeiter einstellen</Item>
 		<Item Name="CompanyNameWarning">Sie haben keinen Firmennamen angegeben.
 Sind Sie sicher, dass Sie fortfahren möchten?</Item>
-		<Item Name="ActionConnectServers">Verbundene Server</Item>
+		<Item Name="ActionConnectServers">Server verbinden</Item>
 		<Item Name="WireMode">Kabelmodus</Item>
 		<Item Name="GuestCompany">{0} im Auftrag von {1}</Item>
 	</Alpha5.1>
@@ -1621,7 +1621,7 @@ Jede Pressemitteilung wird die Wirkung der nächsten verringern, daher sollten S
 		<Item Name="MarketingDescBuild">Sie können eine frühe Kopie Ihres Produkts an die Presse senden, um schnell viele Anhänger zu gewinnen. Wenn die Presse Ihr Produkt nicht mag, können Sie dadurch sehr viele Anhänger verlieren, also seien Sie vorsichtig.
 Die Antwort auf Ihre Demo erscheint in der Zeitung am Tag nach ihrer Veröffentlichung.</Item>
 		<Item Name="MarketingDescHype">Es ist eine gute Idee, den Hype aufrecht zu erhalten, sobald Sie Anhänger gewonnen haben, damit diese Ihr Produkt nicht vergessen.
-Zu hypen reduziert den Verlust an Followern, wenn diese anfangen, das Interesse zu verlieren.</Item>
+Zu hypen reduziert den Verlust an Anhängern, wenn diese anfangen, das Interesse zu verlieren.</Item>
 		<Item Name="MarketingDescPost">Sie sollten sich darauf fokussieren, dass Ihr Produkt so oft in den Medien erwähnt wird wie möglich, sobald es freigegeben wurde.
 Marketing ist ein endloser Geldvernichter und Sie konkurrieren die ganze Zeit um Aufmerksamkeit mit Ihren direkten Konkurrenten.
 Stellen Sie ein Budget ein, um sicherzustellen, dass Ihnen nicht das Geld aus geht oder lassen Sie es auf 0, wenn Sie die Ausgaben nicht begrenzen wollen.</Item>
@@ -1630,7 +1630,7 @@ Stellen Sie ein Budget ein, um sicherzustellen, dass Ihnen nicht das Geld aus ge
 		<Item Name="Press release">Pressemitteilung</Item>
 		<Item Name="Press build">Presse aufbauen</Item>
 		<Item Name="Hype">Hype</Item>
-		<Item Name="FollowerAmount">{0} follower</Item>
+		<Item Name="FollowerAmount">{0} Anhänger</Item>
 		<Item Name="ReleaseDateError">Bitte wählen Sie ein zukünftiges Datum aus</Item>
 		<Item Name="PressText">Text</Item>
 		<Item Name="PressPicture">Bilder</Item>
@@ -1670,7 +1670,7 @@ Stellen Sie ein Budget ein, um sicherzustellen, dass Ihnen nicht das Geld aus ge
 		<Item Name="Projects">Projekte</Item>
 		<Item Name="Info">Info</Item>
 		<Item Name="Queued">In Warteschlange</Item>
-		<Item Name="Followers">Follower</Item>
+		<Item Name="Followers">Anhänger</Item>
 		<Item Name="DesignDocumentAutoDevWarning">Sie haben derzeit keine laufenden Aufgaben im Projektmanagement</Item>
 		<Item Name="DesignDocumentAutoDevDesc">Klicken Sie hier, um diesem Projekt eine Projektmanagementaufgabe zuzuordnen</Item>
 		<Item Name="Next release">Nächstes Release</Item>
@@ -1687,14 +1687,14 @@ Stellen Sie ein Budget ein, um sicherzustellen, dass Ihnen nicht das Geld aus ge
 		<Item Name="Temporarily unavailable">Vorübergehend nicht verfügbar</Item>
 		<Item Name="AutoDevMissingLeader">Sie müssen einen Leiter auswählen, bevor Sie fortfahren können</Item>
 		<Item Name="AutoDevNoLeaders">Es stehen keine Leiter zur Auswahl. Bitte stellen Sie einen Leiter ein oder machen Sie einen Ihrer aktuellen Mitarbeiter zu einem Leiter.</Item>
-		<Item Name="LateProductRelease">{0} ist überfällig und verliert Follower</Item>
+		<Item Name="LateProductRelease">{0} ist überfällig und verliert Anhänger</Item>
 		<Item Name="NewDebtLoss">Ihr Unternehmen ist im Minus! Sie haben bis {0} Zeit, um Ihre finanzielle Situation zu korrigieren oder Ihr Unternehmen wird gezwungen sein, Konkurs anzumelden</Item>
 		<Item Name="NewDebtLossPass">Glückwunsch! 24 Stunden sind vergangen und Ihr Unternehmen wurde von Schulden befreit</Item>
 		<Item Name="ReviewError">Peer-Reviews sind nur während der Alpha-Phase verfügbar</Item>
 		<Item Name="Current floor">Gegenwärtige Etage</Item>
 		<Item Name="Physical units">Physische Einheiten</Item>
 		<Item Name="Digital units">Digitale Einheiten</Item>
-		<Item Name="In stock">Auf Lager</Item>
+		<Item Name="In stock">Im Handel</Item>
 		<Item Name="Various">Verschiedene</Item>
 		<Item Name="Taken">vergeben</Item>
 		<Item Name="Free">Frei</Item>
@@ -1706,7 +1706,7 @@ Stellen Sie ein Budget ein, um sicherzustellen, dass Ihnen nicht das Geld aus ge
 		<Item Name="ActionSelectNearParking">Wählen Sie benachbarte Parkplätze</Item>
 		<Item Name="Digital distribution">Digitale Verteilung</Item>
 		<Item Name="DistributionFailCancel">{0} hat die Vertriebsvereinbarung mit Ihnen abgebrochen, da Sie keine stabile Verbindung herstellen konnten</Item>
-		<Item Name="DistributionDealPrompt">Bitte machen Sie {0} ein Angebot, wie viel Umsatzeinbußen Sie für den digitalen Umsatz in Prozent erhalten werden</Item>
+		<Item Name="DistributionDealPrompt">Bitte machen Sie {0} ein Angebot, welchen Anteil am Umsatz in Prozent Sie für den digitalen Vertrieb erhalten möchten</Item>
 		<Item Name="DistributionOffer">Machen Sie ein Angebot über die digitale Verteilung</Item>
 		<Item Name="DistributionOfferMade">Derzeit nehmen Sie {0}% Umsatz für den digitalen Vertrieb ein</Item>
 		<Item Name="Digital market share">Digitaler Marktanteil</Item>
@@ -1855,8 +1855,8 @@ Sie haben {1}, um das Produkt zu veröffentlichen</Item>
 		<Item Name="PerBox">{0} pro Box</Item>
 		<Item Name="CourierPayment">{0} Vorschuß - {1} pro Box</Item>
 		<Item Name="Call courier">Kurier rufen</Item>
-		<Item Name="FollowerChange">Verlust von {0}% Followern pro Monat</Item>
-		<Item Name="HypingInactiveStatus">Aktuell kein Verlust an Followern</Item>
+		<Item Name="FollowerChange">Verlust von {0}% Anhängern pro Monat</Item>
+		<Item Name="HypingInactiveStatus">Aktuell kein Verlust an Anhängern</Item>
 		<Item Name="Master">Master</Item>
 		<Item Name="UI">UI</Item>
 		<Item Name="ProjectManagementProjectWarning">Sie müssen Ihrer Projektmanagementgruppe, {0}, einen ersten Projektentwurf zuordnen, bevor sie mit der Arbeit beginnen können!</Item>
@@ -1928,7 +1928,7 @@ Die Zeit bis zum Erscheinen zu verlängern kann dafür sorgen, daß Leute anfang
 		<Item Name="CrunchTimeProb">Zeitnot ist stressig</Item>
 		<Item Name="CrunchHangover">Zeitnot-Kater</Item>
 		<Item Name="Distribution deals">Vertriebsgeschäfte</Item>
-		<Item Name="NoPreMarketWarning">{0} hat den Alpha Status erreicht, aber noch keinen einzigen Follower! Stellen Sie sicher, das Marketing rechtzeitig zu beginnen, sonst wird niemand Ihr Produkt kaufen.</Item>
+		<Item Name="NoPreMarketWarning">{0} hat den Alpha Status erreicht, aber noch keinen einzigen Anhänger! Stellen Sie sicher, das Marketing rechtzeitig zu beginnen, sonst wird niemand Ihr Produkt kaufen.</Item>
 		<Item Name="NoHRWarning">Das Team {0} hat ihren Leiter verloren und ist nicht länger unter HR-Management!</Item>
 		<Item Name="Handle wages">Löhne behandeln</Item>
 		<Item Name="Handle complaints">Beschwerden behandeln</Item>
@@ -2013,9 +2013,9 @@ Das kann passieren, wenn sie keinen Schreibzugriff haben, sie durch Antiviren-So
 		<Item Name="FinishedPrintingJob">Druckaufgabe für {0} beendet</Item>
 		<Item Name="Print job copies">Druckaufgabe Kopien</Item>
 		<Item Name="AutoDevPrintHint">Setzen Sie diesen Wert größer als 0, um einen Druckauftrag automatisch für jedes Projekt zu erstellen, wodurch die angegeben Anzahl an Kopien erstellt wird, wenn das Projekt die Beta-Phase erreicht.
-Hänge ein % an die Zahl an, um die Anzahl als Prozentwert an der Zahl an Followern des Projekts auszurichten.</Item>
+Hänge ein % an die Zahl an, um die Anzahl als Prozentwert an der Zahl an Anhängern des Projekts auszurichten.</Item>
 		<Item Name="AutoDevPhysicalHint">Diese Anzahl an physischen Kopien werden bei Veröffentlichung eines Projektes zum Verkauf bestellt.
-Hänge ein % an die Zahl an, um die Anzahl als Prozentwert an der Zahl an Followern des Projekts auszurichten.</Item>
+Hänge ein % an die Zahl an, um die Anzahl als Prozentwert an der Zahl an Anhängern des Projekts auszurichten.</Item>
 		<Item Name="Make sequel">Nachfolger erstellen</Item>
 	</Alpha9.10>
 	<Alpha9.11>
