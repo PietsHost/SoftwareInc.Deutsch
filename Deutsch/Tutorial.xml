@@ -1,364 +1,435 @@
 <Tutorial>
-	<Message id="ALPHA WORK1">Ihr Design hat nun die Alphaphase erreicht. Nun geht es mit dem richtigen Entwickeln los.
+	<Message id="ALPHA WORK1">Ihr Design wurde nun in die Umsetzung überführt.
 
-Die Alphaphase besteht aus drei Stufen, erstens „Alpha“, in dieser Stufe wird das Produkt entwickelt, dann kann es zu einer kleinen „Verzögerung“ kommen, je nachdem wie Kompetent ihre Angestellten sind, und als letztes „Beta“. In dieser Phase werden so viele Bugs wie möglich gefixt.
+Die Umsetzungsphase gliedert sich in drei Phasen:
 
-Drücken Sie „Promote“ im Aktionsmenü wenn die Alphaphase abgeschlossen ist. Beachten Sie, dass es zu Qualitätsverlusten kommt wenn Sie die Alphaphase zu früh beenden, jedoch ist es die einzige Möglichkeit wenn Sie einem Kontrahenten ausstechen wollen oder Gefahr laufen kein Geld mehr zu haben.
+1. "Alpha", in der Entwickler und Künstler das Produkt nach den Designvorgaben und Anforderungen kreieren.
 
-Das Tutorial wird fortgesetzt wenn Sie die Verzögerungsphase begonnen haben.</Message>
-	<Message id="ALPHA WORK2">Ihre Alpha ist in eine Verzögerungsphase eingetreten, in dieser Phase versuchen die Angestellten alle Bugs zu beheben, um schnellstmöglich in die nächste Phase zu kommen.
+2. "Verzögerung", je nachdem, wie kompetent Ihre Mitarbeiter sind, kann es während der Alpha-Phase zu unerwarteten Problemen kommen, die vor der nächsten Phase geklärt werden müssen.
 
-Drücken Sie „Beta“ oder warten Sie bis die Verzögerung beendet ist.
+3. "Beta", in der Fehler von den Programmierern entdeckt und hoffentlich vor der endgültigen Veröffentlichung behoben werden.</Message>
+	<Message id="ALPHA WORK2">Abhängig davon, ob Ihre Software Code und Kunst benötigt, werden sich "Code" und "Kunst" Einheiten erhöhen. Diese sagen Ihnen ungefähr, wie viel Arbeit erledigt wurde. Je größer die Zahlen sind, desto näher ist das Produkt an der Fertigstellung.
 
-Beachten Sie, dass der vorschnelle Einstieg zum Ende hin länger dauern kann als die Bugs jetzt zu fixen.
+Diese Zahlen sagen aber nichts über die eigentliche Qualität des Codes und der Kunst aus. Um eine Vorstellung davon zu bekommen, wie gut die Arbeit Ihrer Mitarbeiter ist, müssen Sie eine Peer-Überprüfung machen, indem Sie den Überprüfen-Knopf drücken und ein Team auswählen.</Message>
+	<Message id="ALPHA WORK3">Wenn Ihr Produkt einige Bewertungen erhalten hat, drücken Sie die Beenden-Taste, um die Ergebnisse zu sehen. Beachten Sie, dass die Überprüfung auf dem Produkt basiert, wie es zu Beginn der Überprüfung war, so dass alle Arbeiten, die in der Zwischenzeit ausgeführt wurden, nicht gezählt werden.</Message>
+	<Message id="ALPHA WORK4">Die Endnote wird höher oder niedriger sein als die tatsächliche Qualität, basierend darauf, wer sie überprüft hat. Das Team, das die Software entwickelt hat, wird wahrscheinlich sagen, dass es besser ist, als es tatsächlich ist.
 
-Das Tutorial wird mit Anfang der Betaphase fortgesetzt.</Message>
-	<Message id="ALPHA WORK3">Fehler werden nun behoben. Die Anzahl an Fehlern, die behoben werden können, hängt von der Kompetenz Ihrer Angestellten ab.
+Sie können durch die Überprüfung scrollen, um zu sehen, wie die Prüfer verschiedene Aspekte Ihrer Software bewertet haben. Die Qualität der Kunst und des Codes kann je nach Entwicklung variieren, basierend auf den Fähigkeiten Ihrer Mitarbeiter, und hängt nicht davon ab, wie viel Arbeit geleistet wurde.</Message>
+	<Message id="ALPHA WORK5">Stellen Sie sicher, dass Sie auch während der Entwicklung eine Pressemitteilung machen.
 
-Drücken Sie "Veröffentlichen" wenn Sie fertig sind, aber beachten Sie, dass Fehler bei einem Auftrag Strafe kosten und mehr Arbeit verursachen, wenn Sie ein Produkt supporten, dass Sie selber veröffentlicht haben.
+Während der Entwicklung haben Sie auch die Möglichkeit, eine Pressenversion zu versenden, damit die Presse Ihre Software testen kann. Presseversionen erfordern keine Arbeit von Ihrer Seite, aber stellen Sie sicher, dass Sie gute Bewertungen in Ihren Peer-Überprüfungen und einige Anhänger haben, bevor Sie eine versenden.</Message>
+	<Message id="ALPHA WORK6">Klicken Sie auf die Schaltfläche "Hochstufen" wenn Sie bereit sind, um zur Verzögerungsphase überzugehen, und damit das Projekt dann automatisch zur Beta-Phase übergeht.</Message>
+	<Message id="ALPHA WORK7">Die Beta-Phase ist theoretisch endlos, aber Sie müssen Ihr Projekt irgendwann freigeben, besonders wenn Sie bereits ein Veröffentlichungsdatum angekündigt haben.
 
-Drücken Sie "Beenden" um dieses Tutorial zu beenden.</Message>
-	<Message id="BUILD MODE1">Beginnen Sie mit dem Betreten des "Baumodus" durch Klicken auf den Baumodusknopf.</Message>
-	<Message id="BUILD MODE2">Das Spiel ist im Baumodus immer angehalten.
+Es ist eine gute Idee, so viele Fehler wie möglich zu beheben, da fehlerhafte Produkte zu Rückerstattungen führen, aber zielen Sie nicht darauf ab, alle möglichen Fehler in Ihrem Produkt zu beheben. Wenn Ihr Produkt veröffentlicht wurde können Sie weitere Fehler beheben, wenn Ihre Kunden mit Ihrem Support-Team Kontakt aufnehmen.</Message>
+	<Message id="ALPHA WORK8">Drücken Sie den Freigeben-Button, wenn Sie bereit sind.
+		
+Wenn Sie Ihr Produkt freigeben, müssen Sie physische Kopien kaufen oder drucken, um es zu verkaufen. Später wird die Online-Software-Verteilung immer populärer, aber es ist sehr wichtig, dass Sie vor und während der 90er Jahre physische Kopien Ihres Produkts haben.
+		
+Sie können physische Kopien entweder selbst ausdrucken oder für einen höheren Preis bestellen, um sie sofort zu haben. Das Spiel wird Sie jedes Mal daran erinnern, wenn Sie ein Produkt veröffentlichen.</Message>
+	<Message id="BUILD MODE1">Beginnen Sie mit dem "Baumodus", indem Sie auf den Baumodus-Button klicken.</Message>
+	<Message id="BUILD MODE2">Das Spiel ist im Baumodus immer pausiert.
 
-Nun lassen Sie uns mit dem Bau eines Raums beginnen. Klicken Sie auf den "Rechteckigen Raum konstruieren" Knopf im Baumenü.
+Fangen wir damit an, einen Raum zu bauen. Sie haben zwei Möglichkeiten, wie Sie einen Raum bauen können.
 
-Sie können Räume in allen Formen bauen oder Sie teilen sie durch das Klicken auf "Räume bauen" auf der linken Seite des Knopfes.</Message>
-	<Message id="BUILD MODE3">Klicken Sie nun irgendwo in den Bereich, der Ihnen gehört (durch ein Gitter gekennzeichnet) und klicken Sie dann irgendwo anders hin um Ihren neuen Raum zu vollenden. Haben Sie immer ein Auge auf die Kosten, während Sie den Cursor bewegen.</Message>
-	<Message id="BUILD MODE4">Sie haben vielleicht bemerkt, dass Sie durch das Gitter limitiert sind, wenn Sie einen Raum bauen. Sie können das Gitter anpassen und Winkel bauen, indem Sie dieses Menü benutzen. Dies ist recht praktisch, wenn Sie zum Beispiel Tische entlang einer diagonalen Wand bauen wollen.
+Klicken Sie auf die Schaltfläche "Rechteckigen Raum konstruieren" im Bauen-Paneel, um einen einfachen rechteckigen Raum zu erstellen oder klicken Sie auf die Schaltfläche "Räume bauen", um Räume in jeder beliebigen Form, eine Wand nach der anderen, zu erstellen.
 
-Klicken Sie Fortsetzen, wenn Sie fertig sind.</Message>
-	<Message id="BUILD MODE5">Sie können die Etage wechseln, indem Sie Q oder E drücken.
+Mit der Option "Räume bauen" können Sie Räume auch in zwei getrennte Räume aufteilen, indem Sie einfach eine Wand durch einen Raum ziehen.</Message>
+	<Message id="BUILD MODE3">Klicken Sie nun irgendwo in den eigenen Bereich, der ein Gitter hat, und klicken Sie dann irgendwo anders, um Ihren neuen Raum fertigzustellen. Behalten Sie die Kosten im Auge, während Sie den Cursor bewegen.</Message>
+	<Message id="BUILD MODE4">Vielleicht haben Sie bemerkt, dass Sie beim Bau Ihres Raumes auf das Raster beschränkt waren. Sie können das Raster und die Gebäudewinkel ändern, wenn Sie möchten, indem Sie das Paneel auf der linken Seite verwenden. Dies kann z.B. nützlich sein, wenn Sie Tische entlang einer diagonalen Wand bauen wollen.
 
-Nun lassen Sie uns Türen und Fenster hinzufügen. Sie könne im Baumenü entweder die Kategorie auswählen oder nach "Fenster" oder "Tür" suchen.</Message>
-	<Message id="BUILD MODE6">Achten Sie darauf, wie das Licht durch die hinzugefügten Fenster den Raum erleuchtet. Beachten Sie, dass Sie genügend Fenster einbauen, damit Ihre Mitarbeiter genügend Licht bekommen.
+Wenn Ihnen das Aussehen Ihres Raumes nicht gefällt, können Sie die Änderungen mit der "Rückgängig machen"-Taste rückgängig machen.
 
-Sie können sich die Informationen zur Beleuchtung, der Umgebung, den Temperaturen und der Umgebungslautstärke anzeigen lassen, indem sie auf "Datenüberlagerung" klicken und dann einen Raum auswählen.</Message>
-	<Message id="BUILD MODE7">Sie auch die Farbe Ihrer Räume und Möbel anpassen.
+Klicken Sie auf Weiter, wenn Sie bereit sind.</Message>
+	<Message id="BUILD MODE5">Mit den Tasten Q und E können Sie die Stockwerke auf- und abwärts wechseln.
 
-Versuchen Sie die Farbe zu ändern, indem Sie einen Rechtsklick auf das Objekt machen und dann den "Raum Farbe" Knopf, der durch einen Pinsel dargestellt wird, auswählen.</Message>
-	<Message id="BUILD MODE8">Sie könne auch die Farbe mehrerer Objekte ändern, indem Sie durch Drücken und Halten von SHIFT mehrere Objekte auswählen und danach das Farbfenster öffnen. Das Farbfenster wird Farben vorschlagen, die aktuell verwendet werden.
+Jetzt fügen wir Fenster und Türen hinzu. Sie können entweder eine Kategorie auswählen oder im Baubereich nach "Fenster" oder "Tür" suchen.</Message>
+	<Message id="BUILD MODE6">Beachten Sie, wie der Raum erhellt wird, wenn Sie Fenster hinzufügen. Stellen Sie sicher, dass Sie genug hinzuzufügen, damit Ihre Mitarbeiter etwas sehen können.
 
-Wenn Ihnen der Stil eines Raumes oder eines Möbelstückes gefällt, dann können Sie ihn als Standard festlegen, indem Sie auf den Harken im Rechtsklick-Kontextmenü drücken.
+Durch anklicken und auswählen des Raumes können Sie die Licht-, Umgebungs-, Temperatur- und Lärmbedingungen einsehen.</Message>
+	<Message id="BUILD MODE7">Sie können auch die Farbe Ihrer Zimmer und Möbel ändern.
 
-Klicken Sie "Anwenden" wenn Sie fertig sind oder schließen Sie das Fenster, wenn Sie die Änderungen verwerfen möchten.</Message>
-	<Message id="BUILD MODE9">Nun lassen Sie uns ein paar Möbel in Ihrem neuen Raum platzieren.
+Versuchen Sie, die Farbe Ihres Raumes zu ändern, indem Sie mit der rechten Maustaste darauf und dann auf die Schaltfläche "Raumfarbe", die einem Pinsel ähnelt, klicken.</Message>
+	<Message id="BUILD MODE8">Sie können die Farbe von mehreren Dingen gleichzeitig ändern, indem Sie die Objekte vor dem öffnen des Farbfensters anklicken und auswählen. Das Farbfenster zeigt die aktuell verwendeten Farben an.
 
-Bauen Sie einen neuen Tisch, indem Sie auf den "Möbel" Knopf drücken oder nach "Tisch" suchen.</Message>
-	<Message id="BUILD MODE10">Fügen Sie nun einen Stuhl hinzu. Stühle können nur an Tische platziert werden.
+Wenn Ihnen der Stil gefällt, den Sie einem Raum oder Möbelstück gegeben haben, können Sie ihn im Kontextmenü mit der rechten Maustaste als Standard festlegen.
 
-Beachten Sie, dass Möbel, die mehrere Stufen besitzen, wie zum Beispiel Stühle, auch nach dem Platzieren verbessert werden können. Durch Verwendung des Rechtsklick-Kontextmenüs können Sie zum Beispiel mehrere oder alle Möbelstücke eines Typs in einem Raum verbessern.</Message>
-	<Message id="BUILD MODE11">Fügen Sie schließlich einen Computer hinzu. Wenn Sie einen Computer hinzufügen, klicken und halten Sie an der Stelle, an der Sie den Computer platzieren möchten, und ziehen sie anschließend in die Richtung, in die der Computer zeigen soll. Lassen sie los, wenn er in die richtige Richtung zeigt.
+Klicken Sie auf Übernehmen, wenn Sie fertig sind, oder schließen Sie das Fenster, wenn Sie Ihre Änderungen rückgängig machen möchten.</Message>
+	<Message id="BUILD MODE9">Lass Sie uns ein paar Möbel in den neuen Raum stellen.
 
-Computer müssen auf einem Tisch platziert werden und in die Richtung eines Stuhls zeigen.</Message>
-	<Message id="BUILD MODE12">Wenn Sie Tische nebeneinander stellen und nichts auf ihnen platziert ist, werden sie zusammengefügt. Zusammengefügte Tische können für Meetings genutzt werden. Um zu sehen, welche Tische zusammengefügt sind, wählen Sie einen Tisch aus, der dann grün umrandet wird, und alle andren verbundenen Tische werden blau umrandet.
+Bauen Sie einen neuen Tisch, indem Sie auf die Schaltfläche "Möbel" klicken oder nach "Tisch" suchen.</Message>
+	<Message id="BUILD MODE10">Jetzt fügen Sie einen Stuhl hinzu. Stühle können nur an Tische hinzugefügt werden.
 
-Klicken Sie "Fortfahren" um fortzufahren.</Message>
-	<Message id="BUILD MODE13">Ihr Gründer wird nicht müde oder hungrig, ihm wird nicht kalt werden und er braucht keine Toilette. Sobald Sie jedoch Mitarbeiter eingestellt haben, werden Sie es. Gehen Sie also sicher, dass Sie mindestens einen Kühlschrank, eine Kaffeemaschine, eine Heizung, einen Ventilator und einen separaten Toilettenraum hinzufügen, bevor Sie Mitarbeiter einstellen.
+Beachten Sie, dass einige Möbel, wie Stühle und Tische, durch alternative Versionen ersetzt werden können, nachdem sie platziert wurden. Über das Kontextmenü mit der rechten Maustaste können Sie auf einfache Weise viele Möbel auf einmal ersetzen, indem Sie z.B. alle Möbel des gleichen Typs im ausgewählten Räumen auswählen.</Message>
+	<Message id="BUILD MODE11">Zuletzt fügen Sie einen Computer hinzu. Wenn Sie einen Computer hinzufügen, klicken und halten Sie die Maustaste an der Stelle, wo Sie ihn hinzufügen möchten und ziehen Sie die Maus in die Richtung, in die er zeigen soll. Schließlich lassen Sie die Maustaste los, um ihn zu platzieren.
 
-Klicken Sie "Fortfahren" um fortzufahren.</Message>
-	<Message id="BUILD MODE14">Nun weisen Sie dem Raum ein Team zu. Mitarbeiter eines anderen Teams werden ihn nicht nutzen und ihn nicht einmal durchqueren.
+Computer müssen auf einem Tisch stehen und zu einem Stuhl zeigen.</Message>
+	<Message id="BUILD MODE12">Wenn Sie Tische nebeneinander stellen, werden sie zusammen gruppiert, wenn sich nichts darauf befindet. Tische, die gruppiert sind, können für Besprechungen verwendet werden. Um zu sehen, welche Tische gruppiert sind, markieren Sie einfach einen Tisch und dessen Gruppe wird blau markiert.
 
-Rechtsklicken Sie Ihren neuen Raum und wählen Sie "Team wechseln", was durch einen Kreis mit Pfeilen symbolisiert wird. Ein Fenster wird erscheinen, wählen Sie dort "Core" um dem Raum das Team "Core" zuzuweisen.</Message>
-	<Message id="BUILD MODE15">Vergessen Sie nicht Mitarbeiter einem Team zuzuweisen. Sie können dies entweder durch einen Rechtsklick auf den Mitarbeiter und dem Wählen von "Switch team" oder im Angestelltenfenster machen. Wenn Sie nur ein Team haben, werden die Angestellten diesem automatisch zugewiesen.
+Es ist wichtig, dass Sie die Lärmpegel in Ihrer Arbeitsumgebung kontrollieren. Versuchen Sie, das Geräusche-Overlay zu aktivieren, um zu sehen, welche Einrichtung Geräusche verursacht.</Message>
+	<Message id="BUILD MODE13">Ihr Gründer wird nicht müde, hungrig, kalt, einsam, gestresst, braucht keine Toilette oder ärgert sich generell nicht, aber wenn Sie neue Mitarbeiter einstellen, werden diese Bedürfnisse haben. Achten Sie also darauf, mindestens einen Verkaufsautomaten, eine Kaffeemaschine, einen Kühlschrank, einen Ventilator und eine separate Toilette hinzuzufügen, bevor Sie neue Mitarbeiter einstellen.
 
-Durch das Drücken und Halten von SHIFT, während Sie auf Objekte, Mitarbeiter oder Räume klicken, können Sie mehrere auf einmal auswählen. Danach können Sie irgendwo einen Rechtsklick machen und öffnen damit das Kontextmenü.
+Klicken Sie auf "Weiter", um fortzufahren.</Message>
+	<Message id="BUILD MODE14">Weisen wir nun den Raum einem Team zu. Mitarbeiter aus anderen Teams dürfen ihn dann nicht mehr benutzen oder gar passieren.
 
-Versuchen Sie mindestens zwei Objekte auszuwählen.</Message>
-	<Message id="BUILD MODE16">Wann immer Sie zwei Räume verbinden möchten, wählen Sie einfach mit gedrückter SHIFT-Taste zwei oder mehr Räume, die Sie verbinden möchten, aus. Machen Sie dann einen Rechtsklick und wählen Sie "Räume verbinden" im Kontextmenü.
+Klicken Sie mit der rechten Maustaste auf Ihren neuen Raum und wählen Sie "Team wechseln", was einem Kreis mit Pfeilen ähnelt. Es erscheint ein Fenster, in dem Sie auf "Core" klicken, um den Raum dem Core-Team zuzuordnen.</Message>
+	<Message id="BUILD MODE15">Denken Sie daran, auch Mitarbeiter einem Team zuzuordnen. Sie können dies tun, indem Sie entweder mit der rechten Maustaste auf einen Mitarbeiter klicken und "Team wechseln" wählen, aus dem Mitarbeiterfenster heraus oder direkt im Einstellungsfenster.
 
-Lassen Sie uns nun den Baumodus verlassen.</Message>
-	<Message id="BUILD MODE17">Wenn Sie fertig sind, öffnen Sie das "Mitarbeiter verwalten" Fenster, um mit der Verwaltung von Mitarbeitern zu beginnen.</Message>
-	<Message id="CONTRACTS1">Starten Sie durch Öffnen des "Aufträge" Fensters.</Message>
-	<Message id="CONTRACTS2">Dies ist eine Liste der verfügbaren Aufträge. Neue Aufträge werden hinzugefügt, sobald ältere abgeschlossen sind.
+Wenn Sie die Umschalttaste gedrückt halten, während Sie auf Objekte, Räume oder Mitarbeiter klicken, können Sie mehrere gleichzeitig auswählen. Mit gedrückter Strg-Taste und linker Maustaste können Sie Objekte des gleichen Typs schnell markieren.
 
-Aufträge haben eine Vorauszahlung die Sie bekommen, wenn Sie einen Auftrag annehmen, und eine größere Zahlung, wenn Sie den Auftrag abschließen. Es gibt hohe Strafen für das nicht abschließen von Aufträgen und unbehoben Fehler. Das Missachten von Qualitäts- und Zeitvorgaben führt zu einer geringeren Bezahlung.
+Versuchen Sie, mindestens 2 Dinge im Spiel auszuwählen.</Message>
+	<Message id="BUILD MODE16">Sie können Räume zusammenführen, indem Sie das Werkzeug "Wand zerstören" verwenden, oder indem Sie die Umschalttaste gedrückt halten und klicken, um die Räume auszuwählen, die Sie zusammenführen möchten. Klicken Sie dann mit der rechten Maustaste und wählen Sie die Option "Räume zusammenführen" aus dem Kontextmenü aus.
 
-Durchstöbern Sie nun die Aufträge und akzeptieren Sie einen, der Ihnen fair erscheint.</Message>
-	<Message id="CUSTOMIZATION1">Willkommen im Anpassungsbildschirm. Drücken Sie "Fortfahren" zum Fortsetzen des Tutorials oder "Abbrechen" um es zu verlassen.</Message>
-	<Message id="CUSTOMIZATION2">Beginnen Sie durch das Wählen eines Namens für Ihre Firma.</Message>
-	<Message id="CUSTOMIZATION3">Benennen Sie nun den Gründer im Spiel.</Message>
+Jetzt verlassen wir den Baumodus.</Message>
+	<Message id="BUILD MODE17">Wenn Sie bereit sind, öffnen Sie das Mitarbeiterfenster, um Ihre Mitarbeiter zu verwalten.</Message>
+	<Message id="CONTRACTS1">Öffnen Sie zunächst das Vertragsfenster.</Message>
+	<Message id="CONTRACTS2">Dies ist eine Liste der verfügbaren Verträge. Neue Verträge kommen hinzu, wenn ältere abgeschlossen sind.
+
+Verträge haben eine Vorauszahlung, die Sie für die Annahme der Arbeit erhalten, und eine größere Zahlung für die Fertigstellung. Sie schließen einen Vertrag ab, indem Sie die gewünschten Code- und Kunst-Einheiten umsetzen.
+
+Wählen Sie jetzt einen Vertrag in der Liste aus.</Message>
+	<Message id="CONTRACTS3">Die endgültige Auszahlung wird reduziert, wenn der Vertrag garnicht oder nicht fristgerecht erfüllt wird, sowie für nicht behobene Fehler.
+
+Wenn Sie die Qualitätserwartungen Ihrer Kunden nicht erfüllen, wird sich dies auf den Ruf Ihres Unternehmens auswirken, aber nicht auf Ihre Auszahlung.
+
+Durchsuchen Sie jetzt die Verträge und akzeptieren Sie einen, der einige Code-Einheiten erfordert.</Message>
+	<Message id="CONTRACTS4">Solange ein Mitarbeiter noch nicht mit der Arbeit am Vertrag begonnen hat, wird die Frist nicht heruntergezählt.
+
+Während der Designphase reduzieren Ihre Mitarbeiter Fehler und erhöhen die Qualität des Endproduktes. Vergewissern Sie sich, dass Sie Ihr Design abschließen, sobald der Fortschrittsbalken das Ende erreicht, um ein Über-Design zu vermeiden.</Message>
+	<Message id="CONTRACTS5">Wenn Code und Kunst-Einheiten (falls vorhanden) den Zielwert des Kunden erreicht haben, können Sie den Vertrag abschließen, oder weiter daran arbeiten, wenn Sie ein besseres Produkt liefern möchten.
+
+Stellen Sie sicher, dass Sie eine Prüfung durch den Kunden durchführen, bevor Sie zur Fehlerbehebungsstufe übergehen, um sicherzustellen, dass es den Qualitätserwartungen entspricht.</Message>
+	<Message id="CONTRACTS6">Wenn Sie fertig sind, gehen Sie zur Fehlerbehebungsstufe über.
+
+Es ist unmöglich, genau zu wissen, wie viele Fehler eine Software hat, also versuchen Sie einfach, so viele wie möglich zu beheben, bevor die Zeit abgelaufen ist.</Message>
+	<Message id="CUSTOMIZATION1">Willkommen zum Anpassungsbildschirm. Drücken Sie "Weiter", um das Tutorial fortzuführen oder "Abbrechen", um es zu beenden.</Message>
+	<Message id="CUSTOMIZATION2">Beginnen Sie damit, einen Namen für Ihr Unternehmen zu wählen.</Message>
+	<Message id="CUSTOMIZATION3">Wählen Sie dann einen Namen für Ihren Gründer.</Message>
 	<Message id="CUSTOMIZATION4">Und ein Geschlecht.</Message>
-	<Message id="CUSTOMIZATION5">Wählen Sie mit diesen Knöpfen die Aspekte des Erscheinungsbildes aus, die Sie anpassen möchten.
+	<Message id="CUSTOMIZATION5">Mit diesen Schaltflächen können Sie einen Aspekt des Aussehens Ihres Gründers auswählen, wenn Sie ihn ändern möchten.
+	
+Sie können z.B. die Form des Gesichtes und der Augenbrauen durch Anklicken des ersten Knopfes ändern. Der letzte Knopf ermöglicht es Ihnen, die Farben der Haut, Haare, Accessoires und Kleidung Ihres Gründers auszuwählen.</Message>
+	<Message id="CUSTOMIZATION7">Hier können Sie die Persönlichkeitsmerkmale Ihres Gründers auswählen.
 
-Sie können die Form des Gesichtes und der Augenbrauen mit einem Klick auf den ersten Knopf anpassen. Der letzte Knopf erlaubt es Ihnen, die Farbe der Haut, der Haare, der Accessoires und der Kleidung anzupassen.</Message>
-	<Message id="CUSTOMIZATION7">Hier können Sie die persönlichen Merkmale Ihres Gründers anpassen.
+Sie können zwei der unten aufgelisteten Eigenschaften wählen, die sich auf das Verhalten Ihres Gründers und auf die Beziehungen in den Büros auswirken.</Message>
+	<Message id="CUSTOMIZATION8">Hier können Sie die Fähigkeitspunkte und Spezialisierungen Ihres Gründers auswählen, was sich auf die Leistung Ihres Gründers in den verschiedenen Bereichen auswirkt.
 
-Sie können zwei Merkmale wählen, welche das Verhalten des Gründers (Führungskompetenzen, Lernkompetenzen, Faulheit) und die Beziehungen zu anderen Mitarbeitern beeinflussen.</Message>
-	<Message id="CUSTOMIZATION8">Hier können Sie die Fähigkeitspunkte und Spezialisierungen Ihres Gründers anpassen. Diese beeinflussen die Leistung Ihres Gründers.
+Spezialisierungen werden durch Fähigkeiten begrenzt. Wenn Ihr Gründer niedrige Designfähigkeiten hat, ist er oder sie auch in der Designspezialisierung, die Sie wählen, begrenzt.
 
-Spezialisierungen sind durch die Fähigkeiten begrenzt. Somit ist ein Gründer, der wenig Designfähigkeiten hat, auch in der Designspezialisierung, die Sie wählen schlecht.
+Du kannst deinen Gründer weiterbilden und trainieren, um Fähigkeiten und Spezialisierungen im Spiel zu erlangen.</Message>
+	<Message id="CUSTOMIZATION9">Damit sind Sie damit fertig, Ihren Gründer anzupassen. Beginnen wir mit der Wahl der Spielregeln!</Message>
+	<Message id="CUSTOMIZATION10">Du kannst hier alle Mods aktivieren, die für immer an den Spielstand gebunden sind.
 
-Zusätzlich können Sie Ihren Gründer im Spiel ausbilden und trainieren, um die Fähigkeit zu verbessern und Spezialisierungen zu erlangen.</Message>
-	<Message id="CUSTOMIZATION9">Die Anpassung des Gründers ist nun abgeschlossen. Lassen Sie uns nun die Regeln für das Spiel wählen!</Message>
-	<Message id="CUSTOMIZATION10">Sie können hier jegliche Mods aktivieren, welche für immer an den Spielstand gebunden sind.
+Du kannst dein Spiel mit anderen Spielern teilen, ohne dass sie die Mods installieren müssen.
 
-Deshalb können Sie Ihren Spielstand mit anderen Leuten teilen, ohne dass diese die Mods installiert haben.
+Einige Mods fügen Szenarien hinzu, also sollten Sie die gewünschten aktivieren, bevor Sie ein Szenario auswählen.</Message>
+	<Message id="CUSTOMIZATION11">Wählen Sie ein Szenario aus. Das Szenario steuert das Startgeld und das Startdatum, die Ziele und ob Sie den Wettkampf simulieren, einen gescripteten Wettkampf oder beides verwenden möchten.</Message>
+	<Message id="CUSTOMIZATION12">Hier können Sie die Umgebung ändern.
 
-Einige Mods fügen Szenarien hinzu, deshalb sollten Sie die, die Sie verwenden möchten, aktivieren, bevor Sie ein Szenario auswählen.</Message>
-	<Message id="CUSTOMIZATION11">Wählen Sie nun ein Szenario. Das Szenario bestimmt das Startkapital und die Gründungsjahre, zwischen denen Sie wählen können, und die Ziele. Des Weiteren bestimmen sie, ob ein Wettbewerb simuliert, geskriptet oder beides wird.</Message>
-	<Message id="CUSTOMIZATION12">Die Umgebung können Sie hier wählen.
+Der Wald ist die Standardumgebung, die Tundra ist ganzjährig kalt, die Wüste das ganze Jahr über heiß und die Stadt hat Wolkenkratzer und ein vorgefertigtes Straßennetz mit Parkplätzen.</Message>
+	<Message id="CUSTOMIZATION13">Die Schwierigkeit kann jederzeit im Spiel geändert werden indem man das Optionsmenü aufruft. Die Schwierigkeit bestimmt, wie einfach es ist, in den Markt einzudringen.</Message>
+	<Message id="CUSTOMIZATION14">Normalerweise ist 1 Tag gleich 1 Monat in Software Inc. Das hält das Spiel in einem konstanten Tempo, damit es nicht langweilig wird.
 
-Der Walt ist die Standardumgebung, die Tundra ist das ganze Jahr über kalt, die Wüste ist das ganze Jahr über heiß und die Stadt hat Wolkenratzer und ein bereits existierendes Straßennetz mit Parkplätzen.</Message>
-	<Message id="CUSTOMIZATION13">Die Schwierigkeit Die Schwierigkeit beeinflusst die Gehälter und Effektivität der Mitarbeiter und die Kompetenz der simulierten Wettbewerber und kann das ganze Spiel über in den Einstellungen geändert werden.</Message>
-	<Message id="CUSTOMIZATION14">Normalerweise entspricht 1 Tag einem Monat in Software Inc. Dies sorgt für eine angemessene Spielgeschwindigkeit und verhindert, dass das Spiel langweilig wird.
+Wenn Sie der Meinung sind, das Spiel geht zu schnell oder Sie möchten ein paar Puffertage zwischen der Zahlung von Gehältern und Rechnungen, um Geld zu verdienen, können Sie die Anzahl der Tage, die es in einem Monat gibt, erhöhen.
 
-Wenn Sie das Gefühl haben, dass das Spiel zu schnell ist oder Sie möchten einfach zwischen den Monatsenden, an denen Sie Ihre Rechnungen und Löhne bezahlen müssen, ein paar Tage mehr zum Geldverdienen, dann erhöhen Sie einfach die Anzahl an Tagen, die einem Monat entsprechen.
+Beachten Sie, dass dann alles im Spiel relativ langsamer wird, um der gewählten Einstellung zu entsprechen. Sie können dies später nicht mehr ändern.</Message>
+	<Message id="CUSTOMIZATION15">Klicken Sie auf die Schaltfläche "Spiel starten", um mit dem Spielen zu beginnen.</Message>
+	<Message id="DESIGN DOCUMENT1">Starten Sie das Tutorial mit der Schaltfläche "Software entwickeln", um das Design-Dokument aufzurufen.</Message>
+	<Message id="DESIGN DOCUMENT2">Willkommen beim Design-Dokument, dem Herzstück von Software Inc.
 
-Beachten Sie, dass alles im Spiel sich in Relation zu Ihren Einstellungen langsamer bewegt und dass Sie dies später nicht ändern können.</Message>
-	<Message id="DESIGN DOCUMENT1">Starten sie das Tutorial, indem sie auf die Schaltfläche "Software entwickeln" klicken, um das Designdokument aufzurufen.</Message>
-	<Message id="DESIGN DOCUMENT2">Willkommen im Desgindokument, dem Herzen von Software Inc.
+Beginnen Sie mit der Auswahl eines Softwaretyps.
 
-Starten sie indem sie einen Software-Typen auswählen.
+Klicken Sie auf Weiter, um das Tutorial fortzusetzen.</Message>
+	<Message id="DESIGN DOCUMENT3">Falls möglich, können Sie eine Softwarekategorie auswählen. Jede Kategorie für einen Softwaretyp hat unterschiedliche Entwicklungszeiten, Popularität, Publikumsbindung, Funktionen und eine eigene Zielgruppe.</Message>
+	<Message id="DESIGN DOCUMENT4">Dann wählen Sie einen Namen. Sie können entweder selbst einen vergeben oder den "Name:" Button drücken, um einen generieren zu lassen.</Message>
+	<Message id="DESIGN DOCUMENT5">Sie können auch einen Preis wählen. Wenn Sie das Preisfeld nicht nutzen, wird der beste Preis, basierend auf der Software und den von Ihnen gewählten Funktionen, ausgewählt. Klicken Sie auf die Schaltfläche Preis, um den Preis zurückzusetzen.</Message>
+	<Message id="DESIGN DOCUMENT6">Jetzt müssen Sie sich für Funktionen Ihres Produktes entscheiden. Jede Funktion braucht Zeit, um Innovation, Stabilität und Benutzerfreundlichkeit zu entwickeln und auszubalancieren.
 
-Click continue to to advance the tutorial.</Message>
-	<Message id="DESIGN DOCUMENT3">Gegebenfalls können sie eine Software-Kategorie auswählen. Jede Kategorie für einen bestimmten Software-Typen hat unterschiedliche Entwicklungszeiten, Populatität, Publikum, Funktionen und seine eigene Zielgruppe.</Message>
-	<Message id="DESIGN DOCUMENT4">Wähle eine Namen. Sie können entweder selbst einen Namen ausdenken oder auf die Schaltfläche "Name" klicken, um einen Namen generieren zu lassen.</Message>
-	<Message id="DESIGN DOCUMENT5">Sie können auch selber einen Preis festlegen. Wenn du das Preisfeld nicht anfasst, wird der beste Preis auf der Grundlage des Software-Typen und der gewählten Funktionen ausgewählt. Klicke auf die Schaltfläche "Preis" um den Preis zurückzusetzten.</Message>
-	<Message id="DESIGN DOCUMENT6">Jetzt müssen sie die Funktionen für ihr Produkt auswählen. Beachten sie, jede Funktion braucht seine Zeit, um Innovation, Stabilität und Benutzerfreundlichkeit zu entwickeln und auszugleichen.
+Welche Funktionen Sie auswählen können, hängt davon ab, welche Softwareabhängigkeiten und Betriebssysteme Sie auswählen, und umgekehrt werden bei der Auswahl einer Funktion alle Abhängigkeiten und Betriebssysteme, die Sie auswählen können, entsprechend gefiltert.
 
-Die Funktionen, die Sie auswählen können, hängen davon ab, welche Software-Abhängigkeiten und Betriebssysteme sie gewählt haben. Wenn sie Funktionen auswählen, werden Abhängigkeiten und Betriebssysteme entsprechend gefiltert, dies funktioniert auch umgekehrt.
+Einige Funktionen sind künstlerischer Natur und Sie benötigen Künstler im Team, um das beste Ergebnis zu erzielen.</Message>
+	<Message id="DESIGN DOCUMENT7">Mit diesen Schaltflächen können Sie schnell Funktionen auswählen. Beachten Sie, dass es nicht immer am besten ist, einfach alle Funktionen auszuwählen.</Message>
+	<Message id="DESIGN DOCUMENT8">Ihr Produkt kann von andere Software-Typen abhängig sein. Als Beispiel benötigen Sie ein visuelles Werkzeug, wie z. B. einen Bildeditor, um ein Spiel mit 2D-Grafiken zu erstellen, oder Sie werden nicht in der Lage sein, die Grafiken dafür zu erstellen.
 
-Some features are artistic in nature and you will need artists on the team to get the best result.</Message>
-	<Message id="DESIGN DOCUMENT7">You can use these buttons to quickly select features. Note that it might not always be best to just select all features.</Message>
-	<Message id="DESIGN DOCUMENT8">Your product can depend on other software types. As an example, you will need a visual tool, like an image editor, to make a game with 2D graphics or you won't be able to make the graphics for it.
+Die Funktionen, die Sie auswählen, bestimmen, welche Art von Software Sie benötigen, um Ihr Produkt zu entwickeln. Die Qualität der Abhängigkeiten wird sich auf die Qualität Ihres Produkts auswirken.</Message>
+	<Message id="DESIGN DOCUMENT9">Wählen Sie eine gewünschte Software aus der Liste aus, indem Sie diese auswählen und "OK" drücken.
 
-The features you pick will determine what type of software you need to develop your product and the quality of the dependencies will affect the quality of your product.</Message>
-	<Message id="DESIGN DOCUMENT9">Pick a software you want to use from the list by selecting it and pressing "OK".
+Sie können Software anhand von Funktionen filtern. Die Funktionen, die Sie für Ihre Software auswählen können, hängen manchmal von den Funktionen der Software ab, die Sie hier auswählen.
 
-You can filter software by features, the features you can pick for your software will sometimes depend on the features of the software you pick here.
+Achten Sie besonders auf Qualität und Lizenzkosten. Die Qualität Ihrer Software hängt von der Qualität der gewählten Software ab und Sie müssen Lizenzgebühren bezahlen.</Message>
+	<Message id="DESIGN DOCUMENT10">Manche Software läuft auf irgend einem Betriebssystem und manche Software kann nur auf Betriebssystemen laufen, auf denen die Software, von der sie abhängig ist, laufen kann, z. B. können Spiele nur auf den Betriebssystemen laufen, auf denen ihre Game Engine laufen kann. Und nach wie vor können Ihre Funktionen auch davon abhängen, welche Betriebssysteme Sie unterstützen.
 
-Take special note of quality and license costs. Your software's quality will depend on the quality of the software you pick and you will have to pay the license fees.</Message>
-	<Message id="DESIGN DOCUMENT10">Some software runs on an operating system and some software can only run on operating systems that the software it is built on can run on, e.g. Games can only run on the operating systems that its Game Engine can run on. And as before, your features might also depend on which operating systems you choose to support.
+Wählen Sie hier Ihr Betriebssystem aus. Wenn nichts angezeigt wird, ist der von Ihnen gewählte Softwaretyp betriebssystemunabhängig.
 
-You can pick your operating systems here. If nothing is shown, the software type you picked is not operating system dependent.
+Drücken Sie "Weiter", um fortzufahren.</Message>
+	<Message id="DESIGN DOCUMENT11">Sie können Ihre Software zu einer Fortsetzung eines Produkts machen, das Sie zuvor erstellt oder das Sie von einem anderen Unternehmen gekauft haben. Dazu klicken Sie auf diese Schaltfläche und wählen ein Produkt aus, genauso wie für Betriebssysteme und Software-Abhängigkeiten.
 
-Press "Continue" to carry on.</Message>
-	<Message id="DESIGN DOCUMENT11">You can make your software a sequel to a product you made previously or which you have bought from another company. You do this by clicking this button and selecting a product as you did with operating systems and software needs.
+Eine Fortsetzung gibt dem Marketing Rückenwind und verändert die Erwartungen Ihrer Fans, je nach Erfolg der Vorgänger.
 
-Making a sequel will give a marketing boost and change your fans' expectations depending on the success of its predecessors.
+Funktionen, die für den Vorgänger implementiert wurden, werden im Funktionen-Paneel orange hervorgehoben. Diese Funktionen werden bei der Entwicklung Ihres Produktes schneller entwickelt.</Message>
+	<Message id="DESIGN DOCUMENT12">Sie können Ihre Software auch nur für die eigene Verwendung herstellen, d.h. Sie verkaufen sie nicht an andere Unternehmen.
 
-Features that were implemented for the predecessor will be highlighted in orange in the feature panel, these features will be developed faster when you develop your product.</Message>
-	<Message id="DESIGN DOCUMENT12">You can also make your software in-house, which means you won't sell it to other companies.
+Sie können diese verwenden, um qualitativ hochwertige Spiele-Engines zu entwickeln und sie nur für Ihre eigenen Spiele verwenden, um einen Vorteil gegenüber anderen Unternehmen zu gewinnen.
 
-You can use this to develop top quality game engines and only use them for your own games, to gain an advantage over other companies.
+Wenn dies nicht sichtbar ist, bedeutet das, dass die von Ihnen gewählte Software für ein Publikum bestimmt ist und es keinen Sinn machen würde, sie im Haus zu behalten.</Message>
+	<Message id="DESIGN DOCUMENT13">Wenn Ihre Software von der Serverfunktionalität abhängt, wie z. B. einem MMO, müssen Sie einen Server aus dieser Liste auswählen.
 
-If this is not visible, it means the software you picked is meant for an audience and it wouldn't make sense to keep it in-house.</Message>
-	<Message id="DESIGN DOCUMENT13">If your software depends on server functionality, like an MMO, you will need to pick a server from this list.
+Wenn Ihre Server die Last, die diese Software erzeugt, nicht bewältigen können, werden diese schnell kaputt gehen und Sie verlieren Ihren Ruf.</Message>
+	<Message id="DESIGN DOCUMENT14">Schließlich können Sie aus dieser Liste einen Quell-Code-Server auswählen, um die Entwicklung zu unterstützen.
 
-If your servers cannot handle the load this software will generate, they will quickly burn out and you will lose your reputation.</Message>
-	<Message id="DESIGN DOCUMENT14">Finally, you can pick a source control server from this list to support the development.
+Die Verwendung der Quellcodeverwaltung reduziert Fehler und beschleunigt die Entwicklung, wenn Ihr Server die Last bewältigen kann.</Message>
+	<Message id="DESIGN DOCUMENT15">Nachdem Sie die Entwicklungsphasen durchlaufen haben und bereit sind, Ihr Produkt freizugeben, denken Sie daran, nachzusehen, ob irgendwelche populären Produkte gerade in der gleichen Softwarekategorie freigegeben worden sind.
 
-Using source control will decrease bugs and speed up development, if your server can handle the load.</Message>
-	<Message id="DESIGN DOCUMENT15">After you've went through the phases of development and you're ready to release your product, remember to see if any popular products has just been released in the same software category as yours.
+Sie können auch kommende Veröffentlichungen Ihrer Wettbewerber überprüfen, um sicherzustellen, dass Ihr Produkt von einem großen Unternehmen nicht in den Schatten gestellt wird.
 
-You can also check out upcoming releases from your competitors to make sure a large company won't outshine your product.
+Timing ist alles, wenn Sie gerade erst anfangen!</Message>
+	<Message id="DESIGN DOCUMENT16">Bevor Sie fertig sind, überprüfen Sie die Informationen in diesem Feld. Hier finden Sie alles, was Sie für die Entwicklung dieses Produktes benötigen.
 
-Timing is everything when you're just starting out!</Message>
-	<Message id="DESIGN DOCUMENT16">Before you finish, make sure you inspect the information in this box. This outlines everything you need to develop this product.
+Achten Sie besonders auf die Reichweite der Konsumenten. Verbraucherreichweite ist, wieviele Leute das Produkt im Augenblick möglicherweise kaufen könnten. Diese Zahl kann sich verringern oder erhöhen, während Sie das Produkt entwickeln. Für Software, die von Betriebssystemen abhängt, wird sie durch die Anzahl der Personen, die das Betriebssystem und seine Nachfolger verwenden, begrenzt sein.
 
-Take special note of consumer reach. Consumer reach is how many people can potentially purchase the product as of right now, this number might decrease or increase as you develop the product. For software that depend on operating systems, it will be limited by how many people are currently using the operating system and it's successors.
+Mehr als die empfohlene Anzahl von Mitarbeitern in den Entwicklungsteams erhöht die Entwicklungsgeschwindigkeit nicht, sondern reduziert sie sogar.</Message>
+	<Message id="DESIGN DOCUMENT17">Klicken Sie auf die Schaltfläche "Entwickeln", wenn Sie mit der Entwicklung beginnen möchten.</Message>
+	<Message id="DESIGN WORK1">Um mit der Entwicklung Ihrer Software zu beginnen, müssen Designer ein Dokument zusammenstellen, welches beschreibt, wie die Software entwickelt und strukturiert werden sollte, um sicherzustellen, dass alle am gleichen Strang ziehen.
+	
+Design-Aufgaben werden von Designern oder Mitarbeitern in "beliebiger Rolle" bearbeitet, bis Sie das Projekt in den Alpha-Status versetzen. Gute Design-Dokumente erleichtern es Programmierern, Code in guter Qualität zu schreiben und die Anzahl der Fehler im Endprodukt zu reduzieren.
 
-You should double the suggested team size by having about as many designers as suggested and the same amount of programmers and artists, depending on how many artists are required for the specific project.
+Drücken Sie "fortsetzen", um das Tutorial fortzusetzen.</Message>
+	<Message id="DESIGN WORK3">Das Projekt füllt sich im weiteren Verlauf langsam. Bei Designdokumenten ist es wichtig, zu stoppen, wenn die Aufgabe vollständig grün ist, damit Sie nicht an Qualität verliert. Wenn Sie zu lange warten, beginnen unerfahrene Designer mit der Überentwicklung.
+		
+Während Sie warten sollten Sie anfangen, der Welt von Ihrer neuen Software zu erzählen. Beginnen Sie mit der Ankündigung eines Veröffentlichungsdatums durch Drücken des Marketing-Buttons.
 
-Having more than the suggested employees on the development teams will not increase development speed, but will in some cases reduce it instead.</Message>
-	<Message id="DESIGN WORK1">Design work items are worked on by designers or employees in "Any role" until you promote the work item to alpha.
+Sie müssen einige Vermutungsarbeit erledigen, wenn Sie ein Freigabedatum auswählen, aber es erhöht die Wirksamkeit aller Ihrer zukünftigen Marketing-Bemühungen um Ihr Produkt. Stellen Sie nur sicher, dass Sie es rechtzeitig veröffentlichen!</Message>
+	<Message id="DESIGN WORK4">Bevor Sie mit der Entwicklung beginnen, sollten Sie eine Pressemitteilung verfassen, um die Welt über Ihr Produkt zu informieren.
+		
+Wenn Sie Ihr Produkt vermarkten, bevor es freigegeben wird, bauen Sie Anhänger auf, die Ihr Produkt kaufen wenn es freigegeben wird. Ihre Anhänger kaufen es möglicherweise nicht sofort oder erstatten es zurück, so dass sie keine garantierten Verkäufe sind.
 
-Press "continue" to advance the tutorial.</Message>
-	<Message id="DESIGN WORK2">Begin by assigning the work item to a team, if you haven't already. Hover over the bottom area of the work item to bring up the action menu and select "Assign".
+Ihre Mitarbeiter werden an der Erstellung der Pressemitteilung einige Zeit arbeiten müssen. Wenn Sie also denken, dass es eine Weile dauern wird, können Sie Ihre Designarbeit durch Drücken der Pausetaste unterbrechen, um Überentwicklung zu vermeiden.
 
-You can also unassign teams to pause work.</Message>
-	<Message id="DESIGN WORK3">Now employees on the team you have assigned will begin work, if they have a computer to sit at.
+Beginnen Sie damit, das Marketingfenster wieder aufzurufen.</Message>
+	<Message id="DESIGN WORK5">Vergewissern Sie sich, dass Sie den Text im Marketingfenster lesen, da er Ihnen sagt, wie Sie mit den verschiedenen Marketingaktionen, die Ihnen zur Verfügung stehen, umgehen müssen.</Message>
+	<Message id="DESIGN WORK6">Klicken Sie auf die Schaltfläche "Entwickeln" wenn Sie fertig sind, um mit der Entwicklung zu beginnen.
+
+Klicken Sie mit der rechten Maustaste auf die Titelleiste der Aufgabe, um zwischen normaler und zugeklappter Ansicht zu wechseln.
+
+Klicken Sie mit der linken Maustaste auf die Titelleiste und ziehen Sie diese, um die Aufgabe neu anzuordnen.</Message>
+	<Message id="DISTRIBUTION1">Software wird sowohl physisch im Handel als auch digital online verkauft. Mit der Zeit werden sich die Menschen den digitale Einkäufen zuwenden und die beiden Vertriebsformen werden sich irgendwann ausgleichen.
+		
+Sie können physische Exemplare Ihrer Produkte bestellen, indem Sie zu Ihren Veröffentlichungen gehen, ein Produkt auswählen und auf die Schaltfläche Exemplare bestellen klicken.</Message>
+	<Message id="DISTRIBUTION2">Im Fenster der Exemplarbestellung werden Ihnen einige Details angezeigt, die sich auf die Anzahl der zu bestellenden Exemplare auswirken.
+
+Sie müssen die Menge, die Sie bestellen, mit der erwarteten Anzahl an zu verkaufenden Produkte ausgleichen, um einen Verlust zu vermeiden. Sie können immer ein paar Exemplare jetzt und weitere im nächsten Monat bestellen.
+
+Schließen Sie das Fenster, um fortzufahren</Message>
+	<Message id="DISTRIBUTION3">Sie können auch selbst Kopien von Ihrem Produkt drucken, was wesentlich billiger ist. Sie benötigen Drucker, Lager und Kuriere, um Ihre Kopien in den Handel zu bringen.
+		
+Wenn Sie ein Produkt drucken möchten, klicken Sie im Fenster "Ihre Software" mit einem ausgewählten Produkt einfach auf den Button "Drucken starten".
+		
+Beginnen Sie mit dem Baumodus.</Message>
+	<Message id="DISTRIBUTION4">Drucker und Paletten finden Sie im Möbelmenu.
+		
+Beenden Sie den Baumodus, wenn Sie bereit sind.</Message>
+	<Message id="DISTRIBUTION5">Im Mitarbeiterfenster können Sie entweder einen Kurier anstellen, der einmal täglich kommt und eine begrenzte Anzahl an Kopien abholt oder einen Kurier anrufen, der einmalig so viele Kopien wie möglich sofort abholt.
+		
+Wenn Sie fertig sind, öffnen Sie das Vertriebsfenster.</Message>
+	<Message id="DISTRIBUTION6">Um mit dem Verkauf von Produkten über Ihre eigene digitale Vertriebsplatform zu beginnen, können Sie auf diesen Button klicken und einen Server auswählen, auf dem diese eingerichtet wird. Beachten Sie, daß das Betreiben einer eigenen Vertriebsplatform viel Bandbreite erfordert, wenn sich ein Produkt gut verkauft.
+
+Sie müssen Geschäfte mit anderen Unternehmen individuell aushandeln, wenn Sie deren Produkte über Ihre Vertriebsplatform verkaufen wollen.
+
+Öffnen Sie jetzt das Unternehmensfenster, um Vertriebsverträge abzuschließen.</Message>
+	<Message id="DISTRIBUTION7">Klicken Sie auf die Details-Schaltfläche eines Unternehmens, mit dem Sie ein Geschäft abschließen möchten. Im Fenster wird eine Schaltfläche angezeigt, mit der Sie gegebenenfalls ein Distributionsangebot vorschlagen können.
+
+Dies sind Ihre Optionen bezüglich der Softwareverteilung, klicken Sie auf Ende, um das Tutorial zu beenden.</Message>
+	<Message id="EDUCATION1">Beginnen Sie das Tutorial mit der Auswahl eines oder mehrerer Ihrer Mitarbeiter, klicken Sie mit der rechten Maustaste irgendwo auf dem Bildschirm, um das Aktionsmenü aufzurufen, und wählen Sie dann "Mitarbeiter ausbilden".</Message>
+	<Message id="EDUCATION2">Das ist das Ausbildungsfenster. Sie können die Ausbildung nutzen, um Ihren Mitarbeiter bei der Arbeit zu unterstützen oder die HR-Verwaltung für Ihre Führungskräfte zu ermöglichen.
+
+Sie können wählen, ob Sie Ihren Mitarbeiter in einer Qualifikation oder Spezialisierung schulen möchten oder ob Sie das HR-Management aktivieren möchten, indem Sie eine der Optionen am unteren Rand des Ausbildungsfensters aktivieren.</Message>
+	<Message id="EDUCATION3">Wählen Sie zunächst die Anzahl der Monate aus, die Ihre Mitarbeiter geschult werden sollen. Beachten Sie, dass Lehrgänge als bezahlter Urlaub angesehen werden, so dass Sie auch Gehälter zusätzlich zu den Kurskosten zahlen.
+
+Es gibt eine Grenze für die Fähigkeiten und Spezialisierungen Ihrer Mitarbeiter. Wenn Sie also 3 Monate lange Kurse für einen Mitarbeiter mit einem hohen Ausbildungsgrad wählen, werden Sie Geld aus dem Fenster werfen.</Message>
+	<Message id="EDUCATION4">Dann entscheiden Sie, in welcher Rolle Sie Ihre Mitarbeiter schulen möchten.</Message>
+	<Message id="EDUCATION5">Wenn Sie sich für Designer, Programmierer oder Künstler entschieden haben, sollten Sie sich für eine Spezialisierung entscheiden. Klicken Sie auf "Ausbildung starten", wenn Sie bereit sind, Ihren Mitarbeiter loszuschicken.</Message>
+	<Message id="EMPLOYEES1">Beginnen Sie mit dem Öffnen des Mitarbeiterfensters.</Message>
+	<Message id="EMPLOYEES2">Dies ist eine Liste aller Ihrer Mitarbeiter, in der deren aktueller Status aufgeführt ist.
+
+Sie können alle Optionen in der oberen Leiste aktivieren, um mehr Details über alle Ihre Mitarbeiter zu erhalten.</Message>
+	<Message id="EMPLOYEES3">Wenn Sie einen Mitarbeiter in der Liste auswählen, wird dieser im Spiel ebenfalls ausgewählt, und Sie können Details zu seinen Spezialisierungen am unteren Rand des Fensters erhalten.
+
+Versuchen Sie jetzt, einen Mitarbeiter auszuwählen.</Message>
+	<Message id="EMPLOYEES4">Sie können mehrere Mitarbeiter auswählen, indem Sie die Umschalttaste gedrückt halten.
+
+Klicken Sie nun mit der rechten Maustaste auf eine beliebige Stelle, um das Aktionsmenü für den ausgewählten Mitarbeiter aufzurufen. Klicken Sie auf die Schaltfläche "Team wechseln" und wählen Sie im erscheinenden Fenster "Core".</Message>
+	<Message id="EMPLOYEES5">Klicken Sie nun mit der rechten Maustaste irgendwo hin und klicken Sie auf die Schaltfläche "Rolle wechseln", die einem Schraubenschlüssel ähnelt.</Message>
+	<Message id="EMPLOYEES6">Durch Klicken auf eine Rolle im Fenster "Rolle ändern" wird der Mitarbeiter dieser Rolle zugeordnet. Sie können auch auf die Schaltfläche "jede Rolle" klicken, um Ihren Mitarbeiter in einer beliebigen Rolle agieren zu lassen, oder auf die Schaltfläche "Autom. Zuweisung", um dem Mitarbeiter eine Rolle auf der Grundlage seiner Fähigkeiten zuzuweisen.
+
+Beachten Sie, dass "Leitung" nur dann ausgewählt werden kann, wenn der Mitarbeiter einem Team zugeordnet ist. Ein Mitarbeiter in der Rolle "jede Rolle" kann keine Führungskraft sein. Sie können einen Leiter so einstellen, dass er alle Jobs bearbeitet, indem Sie "Leitung (jede Rolle)" wählen, aber er wird nicht mit voller Kapazität arbeiten und kann so die Softwarequalität beeinträchtigen.
+
+Schließen Sie das Fenster "Rolle auswählen" und klicken Sie auf "Weiter", um das Tutorial fortzusetzen.</Message>
+	<Message id="EMPLOYEES7">Wenn Ihr Mitarbeiter ausgewählt ist, klicken Sie erneut mit der rechten Maustaste irgendwo hin, um das Aktionsmenü aufzurufen und wählen Sie "Details", das einer einzelnen Person ähnelt.</Message>
+	<Message id="EMPLOYEES8">Hier sehen Sie die Statistik Ihres Mitarbeiters.
 
-The work item will slowly fill up as it progresses. For design documents it is important to stop when the task is completely green, so you don't lose quality. If you wait too long, inexperienced designers will begin over-engineering.</Message>
-	<Message id="DESIGN WORK4">You can click the clock icon to start a mini game, which will add extra quality to the design, but time is fast forwarded while you play.
+In der oberen linken Ecke sehen Sie die Persönlichkeitsmerkmale Ihres Mitarbeiters und darunter die Fähigkeiten in jeder einzelnen Rolle. Wenn Sie auf eine Rolle klicken, können Sie den Mitarbeiter auch so dieser Rolle zuordnen.</Message>
+	<Message id="EMPLOYEES9">Im unteren linken Teil des Fensters sehen Sie die Spezialisierungen Ihres Mitarbeiters, die zeigen, wie gebildet Ihr Mitarbeiter in verschiedenen Bereichen ist.
+	
+Die "Basisqualifikation" ist die generelle Erfahrung Ihres Mitarbeiters in diesem Bereich.</Message>
+	<Message id="EMPLOYEES10">In der oberen rechten Ecke des Fensters sehen Sie die Eigenschaften Ihres Mitarbeiters. Diese Eigenschaften werden durch die beiden Persönlichkeitsmerkmale gesteuert.
 
-You can use mini games to speed work along, but you should only use this in the starting phases of your company, as the quality addition does not scale with project complexity and you will have other things to attend to later on.
+Sie können mit der Maus über die drei Merkmale fahren, um zu sehen, wie sie sich auf den Mitarbeiter auswirken.</Message>
+	<Message id="EMPLOYEES11">Im mittleren rechten Teil des Fensters sehen Sie die neuesten Gedanken Ihres Mitarbeiters, welche Ihnen zeigen, wie glücklich er mit seinem Arbeitsplatz ist.</Message>
+	<Message id="EMPLOYEES12">Schließlich sehen Sie im rechten unteren Teil des Fensters, was sich aktuell auf die Effektivität Ihres Mitarbeiters bei der Arbeit auswirkt.
+	
+Damit können Sie sehen, was falsch ist, wenn Ihre Mitarbeiter plötzlich langsam oder gar nicht mehr arbeiten.</Message>
+	<Message id="EMPLOYEES13">Am Anfang des Spiels müssen Sie etwas schnelles Geld verdienen.
+
+Rufen Sie das Vertragsfenster auf, um etwas Arbeit zu erhalten.</Message>
+	<Message id="HIRING1">Öffnen Sie zunächst das Mitarbeiter einstellen-Fenster</Message>
+	<Message id="HIRING2">Bevor Sie jemanden einstellen können, müssen Sie eine Mitarbeitersuche starten. Beginnen Sie mit der Auswahl der Rolle, in der Ihr neuer Mitarbeiter gut sein soll.</Message>
+	<Message id="HIRING3">Wenn Sie sich für einen Programmierer, Künstler oder Designer entschieden haben, sollten Sie sich auch für eine Spezialisierung entscheiden, in der die Kandidaten gut sein sollen.</Message>
+	<Message id="HIRING4">Dann müssen Sie entscheiden, wie viel Geld Sie Ihrem potenziellen Mitarbeiter pro Monat geben möchten. Es ist sehr wichtig, dass Sie sich vergewissern, dass Sie genug Geld haben, um sie wirklich bezahlen zu können, oder Sie gehen sehr schnell bankrott.
 
-Click "Develop" in the Action menu when the progress bar is filled to begin alpha development.
+Die Qualität der Bewerber hängt von der Höhe des Gehalts und dem Ruf Ihres Unternehmens ab.</Message>
+	<Message id="HIRING5">Sie können Mitarbeiter in bestimmten Bereichen vorab befragen. Oder sie können mit dem Interviewen der Kandidaten warten und sie einzeln befragen, bevor Sie sie einstellen, aber das könnte teurer sein, abhängig davon, wieviele Sie beabsichtigen, einzustellen.
 
-Click the title bar to collapse the work item.
+Jede vorab-Interview-Option verdoppelt jeweils die Suchkosten.</Message>
+	<Message id="HIRING6">Schließlich müssen Sie entscheiden, wie viel Geld Sie für die Suche nach Bewerbern ausgeben möchten. Je mehr Geld Sie ausgeben, desto mehr potenzielle Mitarbeiter werden Sie erreichen. Sie erhalten garantiert mindestens eine Bewerbung.
 
-Click "End" to finish the tutorial.
+Drücken Sie "Suche starten", um mit der Suche zu beginnen.</Message>
+	<Message id="HIRING7">Dies ist eine Liste der Mitarbeiter, die sich auf die offene Stelle in Ihrem Unternehmen beworben haben.</Message>
+	<Message id="HIRING8">Sie können Mitarbeiter auswählen und sie überprüfen, und über die Schaltfläche "Einstellen" einstellen. Angestellte sind teuer und Sie sollten, wenn Sie gerade erst anfangen, vermutlich warten, bevor Sie jemanden einstellen.
 
-Click buttons to improve life.</Message>
-	<Message id="DISTRIBUTION1">Begin the distribution tutorial by opening the distribution window</Message>
-	<Message id="DISTRIBUTION2">In order to sell your products, you need distributors to give them to customers.
+Wählen Sie einen Mitarbeiter in der Liste aus.</Message>
+	<Message id="HIRING9">Sie können ganz einfach durch die Bewerbungen navigieren, indem Sie die Pfeiltasten auf Ihrer Tastatur benutzen und Enter drücken, um den Bewerber einzustellen.
 
-There are two types of distribution channels, online and physcial stores. Online stores sell your products for a cut of the revenue, whereas physical stores require upfront payment for producing physical copies, but they also boost your product's marketing.
+Wenn Sie fertig sind, schließen Sie einfach das Fenster.</Message>
+	<Message id="HR1">Um die Personalverwaltung zu aktivieren, öffnen Sie das Teamfenster</Message>
+	<Message id="HR2">Wenn das Teamfenster geöffnet ist, scrollen Sie die Teamliste ganz nach rechts und klicken Sie auf "HR Optionen" des Teams, für das Sie die Personalverwaltung aktivieren möchten.</Message>
+	<Message id="HR3">Gehen Sie die HR-Einstellungen durch und markieren Sie "aktivieren", wenn Sie fertig sind. Gelegentlich muss das Budget erhöht werden, damit gute Mitarbeiter keine neuen Beschäftigungsmöglichkeiten suchen.
 
-When you start a new game you are already publishing through all online distributors. You can see which distributors you are using by looking at the Active column.
+Schließen Sie das Automatisierungsfenster, um dieses Tutorial zu beenden.</Message>
+	<Message id="INSURANCE1">Öffnen Sie zunächst das Versicherungsfenster</Message>
+	<Message id="INSURANCE2">Mit diesem Schieberegler können Sie Geld einzahlen und abheben.
 
-Press continue to advance the tutorial.</Message>
-	<Message id="DISTRIBUTION3">You also have the option of opening your own distribution channel, which other companies can make use of.
+Geld auf Ihrem Versicherungskonto erwirtschaftet 5% Zinsen pro Jahr (bis zu einem bestimmten Betrag), so dass es ein großartiger Ort, um Geld zu parken.
 
-Note that this requires a robust server farm or people will get angry with your company.
+Das Abheben und Einzahlen von Geld auf das Versicherungskonto beeinflusst die Zufriedenheit Ihrer Mitarbeiter, basierend auf deren Alter. Also seien Sie vorsichtig, wenn Sie Geld abheben.</Message>
+	<Message id="INSURANCE3">Mitarbeiter gehen in den Ruhestand, könnten sterben oder krank werden. Wenn dieses geschieht, erhalten sie Geld von Ihrem Versicherungskonto, also gibt es ein gewisses Risiko, wenn man Geld auf diesem Konto deponiert.
 
-Press End to finish the tutorial.</Message>
-	<Message id="EDUCATION1">Begin the tutorial by selecting one or more of your employees, right click anywhere on the screen to bring up the action menu, and then pick "Educate".</Message>
-	<Message id="EDUCATION2">This is the education window. You can use education to make your employee better at their jobs or enable responsibilities for your leaders.
+Sie können einen Überblick über geleistete Zahlungen in dieser Übersicht erhalten.</Message>
+	<Message id="INSURANCE4">Das ist wirklich alles, was es zu Ihrem Versicherungskonto gibt. Schließen Sie das Fenster, um das Tutorial zu beenden</Message>
+	<Message id="MARKETING1">Marketing ist in Software Inc. von entscheidender Bedeutung. Ihre Produkte werden sich ohne Marketing einfach nicht verkaufen.
 
-You can choose to either educate your employee in a skill, specialization or you can enable HR or project management by checking one of the options in the bottom of the education window.</Message>
-	<Message id="EDUCATION3">Start by choosing the amount of months to educate your employees. Note that educational courses are considered paid leave, so you will also be paying salaries on top of course expenses.
+Sie können eine Marketingkampagne starten, indem Sie Ihr Softwarefenster öffnen, ein Produkt auswählen und auf den Marketingbutton klicken.</Message>
+	<Message id="MARKETING2">Das ist das Marketingfenster.
+		
+Die Vermarktung Ihres Produktes ist potenziell ein Fass ohne Boden. Je mehr Geld Sie aufwenden, desto größer ist der Vorteil gegenüber Konkurrenzprodukten. Größere Softwareprodukte brauchen mehr Marketing, um im Wettbewerb bestehen zu können.
 
-There is a limit to the skills and specializations of your employees, so if you pick 3 months of courses for an employee with a high skilll level, you'll be throwing money out the window.</Message>
-	<Message id="EDUCATION4">Then pick what role you want to educate your employees in.</Message>
-	<Message id="EDUCATION5">If you picked Designer, Programmer or Artist, you should pick what specialization you want them to improve in. Click "Start education" when you are ready to send your employee off.</Message>
-	<Message id="EMPLOYEES1">Begin by opening the employee window.</Message>
-	<Message id="EMPLOYEES2">This is a list of all your employees, which details their status.
+Beachten Sie, dass mehr Geld für Marketing auszugeben, als Ihre Wettbewerber, diese dazu veranlassen wird, dasselbe zu tun.</Message>
+	<Message id="MARKETING3">Sie können ein Budget festlegen, das die Ausgaben für diese Marketingaufgabe nach oben begrenzt. "0" bedeutet, es gibt kein Limit.
+		
+Die Erhöhung Ihres Marketingbudgets erhöht nicht Ihre Marketing-Bemühungen. Sie benötigen eine Menge talentierte Marketingspezialisten, um Ihr Budget effektiv zu nutzen.
 
-You can check any of the options in the top bar to get more details on all your employees.</Message>
-	<Message id="EMPLOYEES3">When you select an employee in the list, they will be selected in the game and you can get details on their specializations at the bottom of the window.
+Wenn Sie mit der Teamauswahl zufrieden sind, drücken Sie "OK", um Ihre Kampagne zu starten.</Message>
+	<Message id="MARKETING4">Ihr neuer Marketingplan erscheint als Aufgabe auf der rechten Seite.
 
-Try selecting an employee now.</Message>
-	<Message id="EMPLOYEES4">You can select several employees by holding down shift.
+Nach dem ersten Tag beginnt die Aufgabe, sich zu füllen, um so anzuzeigen, wie viel Geld Sie im Vergleich zu den gestrigen Marketinganstrengungen ausgeben.
 
-Now, right click anywhere to bring up the actions menu for the selected employee. Click the "Change team" button and select "Core" in the window that appears.</Message>
-	<Message id="EMPLOYEES5">Now, right click anywhere and click the "Change Role" button, which resembles a wrench.</Message>
-	<Message id="EMPLOYEES6">Clicking on a role in the "Select role" window will assign the employee to that role. You can also click the "Any role" button to let your employee act in any role.
+Drücken Sie "Ende", um das Tutorial zu beenden.</Message>
+	<Message id="NEWPROJECTMANAGEMENT1">Öffnen Sie zunächst das Projektmanagement-Fenster.</Message>
+	<Message id="NEWPROJECTMANAGEMENT2">Mit Projektmanagement können Sie einen Release-Zyklus an einen Leiter in Ihrem Unternehmen delegieren, so dass dieser alles, von der Erstellung eines Designs bis hin zur Unterstützung des Produkts nach der Veröffentlichung, kontrolliert.
 
-Note that "Lead" can not be chosen unless the employee is assigned to a team and an employee can not be a Leader while in "Any role".
+Ein Projektmanagementteam braucht einen Leiter. Der Leiter wird seine ganze Zeit damit zubringen, das Projekt am Laufen zu halten, so dass es sich lohnen könnte, den Leiter in seinem eigenen Team zu belassen.
 
-Close the "Select role" window and click "Continue" to advance the tutorial.</Message>
-	<Message id="EMPLOYEES7">With your employee selected, right-click anywhere once again to bring up the actions menu and select "Details", which resembles a single person.</Message>
-	<Message id="EMPLOYEES8">Here you can see the stats of your employee.
+Wählen Sie zunächst einen Leiter für das Projekt aus und benennen Sie Ihr Team.</Message>
+	<Message id="NEWPROJECTMANAGEMENT3">Schauen Sie sich nun die einzelnen Optionen an, um zu steuern, wie die Projekte gehandhabt werden sollen. Sie können mit der Maus über jedes Label fahren, um eine detaillierte Beschreibung zu erhalten.
+		
+Klicken Sie auf OK, wenn Sie bereit sind.</Message>
+	<Message id="NEWPROJECTMANAGEMENT4">Öffnen Sie nun das Projektmanagement-Detailfenster für Ihr neues Projekt.</Message>
+	<Message id="NEWPROJECTMANAGEMENT5">Sie werden ein neues Paneel sehen, das Ihnen sagt, wie viele Aktionspunkte der Leiter angesammelt hat.
+		
+Aktionspunkte werden genutzt, um neue Projekte zu starten, Marketingaufgaben abzuschließen und die Entwicklungsphasen zu durchlaufen. Einige Aktionen kosten mehr Punkte als andere. Ihr Leiter wird kontinuierlich daran arbeiten, diese Punkte zu sammeln.
 
-In top left corner you can see your employee's personality traits, and below that, your employee's skills in each role. Clicking a role will also allow you to assign the employee to that role.</Message>
-	<Message id="EMPLOYEES9">In bottom left part of the window you can see you employee's specializations, which controls how well your employee works with different subjects.</Message>
-	<Message id="EMPLOYEES10">In top right corner of the window you can see your employee's traits. These traits are controlled by your employee's personality traits.
+Die Leitungsfertigkeit bestimmt, wie viele Punkte gesammelt werden können, und die rollenspezifischen Fähigkeiten steuern, wie schnell sie für jede Kategorie gesammelt werden.</Message>
+	<Message id="NEWPROJECTMANAGEMENT6">Im unteren Bereich sehen Sie, welche Projekte sich gerade in der Warteschlange befinden. Sie können sie abbrechen oder übernehmen.
 
-Aptitude controls the ability to learn and build skill, leadership controls the ability to research and make the team happy and diligence controls the ability to arrive early and not call in sick all the time...</Message>
-	<Message id="EMPLOYEES11">Finally in the bottom right part of the window, you can see the latest thoughts of your employee, this will tell you how happy they are with their place of work.</Message>
-	<Message id="EMPLOYEES12">In the beginning of the game you will need to make some quick cash.
+Bevor das Projekt beginnen kann, müssen Sie ein Design-Dokument zuweisen, das den Standard für zukünftige Produkte setzt.
 
-Bring up the Contract window to get some work.</Message>
-	<Message id="HIRING1">Start by opening the hire window</Message>
-	<Message id="HIRING2">Before you can hire anyone, you need to put out a search for employees. Start by choosing which role your new employee should be good at.</Message>
-	<Message id="HIRING3">If you've picked a programmer, artist or designer, you should also pick a specialization you want them to be good at.</Message>
-	<Message id="HIRING4">Then you need to decide how much money you want to give your potential employee per month. It is very important that you make sure you have enough money to actually pay them or you'll go bankrupt very quickly.
+Gehen Sie zum Design-Dokument.</Message>
+	<Message id="NEWPROJECTMANAGEMENT7">Wenn Sie mit der Erstellung Ihres Entwurfs fertig sind, klicken Sie anstelle der Schaltfläche Entwickeln auf die Schaltfläche Projektmanagement, um Ihr neues Design der Projektwarteschlange zuzuordnen.</Message>
+	<Message id="RESEARCH1">Starten Sie das Tutorial mit dem Button "Forschung", um das Design-Dokument aufzurufen.</Message>
+	<Message id="RESEARCH2">Wenn es irgendwelche Forschungsoptionen gibt, sehen Sie eine Liste der Software in diesem Paneel. Sie können auf einen Softwaretyp klicken, um zu sehen, welche Funktionen für die Forschung zur Verfügung stehen.
 
-The quality of applicants will depend on how high you set the salary and the reputation of your company.</Message>
-	<Message id="HIRING5">You can also choose to interview employees in specific areas upfront. You can wait to interview employees before you hire them, but that might be more expensive, depending on how many you intend to hire.
+Drücken Sie auf Weiter, um fortzufahren.</Message>
+	<Message id="RESEARCH3">Dies ist eine Liste der erforschbaren Funktionen für den ausgewählten Softwaretyp. Sie können sehen, welche Funktionen bereits erforscht und welche derzeit patentiert sind. Funktionen werden erscheinen, wenn sie im Laufe der Jahre freigeschaltet werden.
 
-Each interview option will double the search price.</Message>
-	<Message id="HIRING6">Finally, you need to decide how much money you want to spend searching for applicants. The more money you spend, the more potential employees you will reach. You're guaranteed to receive at least one application.
+Um eine Funktion zu erforschen, wählen Sie sie aus, klicken Sie auf Erforschen und wählen Sie die Teams aus, die die Forschung durchführen sollen.</Message>
+	<Message id="RESEARCH4">Wenn Sie eine Funktion erforscht haben, müssen alle Unternehmen, die diese in einem Produkt verwenden, Lizenzgebühren an Sie zahlen, je nachdem, wie oft die Software verkauft wird.
 
-Press "Begin looking" to begin searching.</Message>
-	<Message id="HIRING7">This is a list of employees that applied to the open position in your company.</Message>
-	<Message id="HIRING8">You can select employees to inspect them and press the "Hire" button to hire them. Employees are expensive and you should probably wait before you hire any if you are just starting out.
+Beachten Sie, dass andere Unternehmen Ihnen das Patent möglicherweise wegschnappen, bevor Sie die Erforschung abschließen können, und dass Patente irgendwann auslaufen.</Message>
+	<Message id="SERVER1">Öffnen Sie die Verkabelung der Server, indem Sie auf den Kabelmodus-Button klicken.
 
-Try selecting an employee on the list.</Message>
-	<Message id="HIRING9">You can easily navigate the applications by using the arrow keys on your keyboard and pressing enter to hire.
+In diesem Modus können Sie Server verbinden oder trennen, indem Sie auf einen Server und dann auf einen anderen Server klicken. Sie können auch alle Server auswählen, die Sie verbinden möchten, indem Sie die Umschalttaste oder Strg gedrückt halten und dann mit der rechten Maustaste auf "Server verbinden" klicken.
 
-When you are done, simply close the window.</Message>
-	<Message id="HR1">To enable HR management open the team window</Message>
-	<Message id="HR2">With the team window open, scroll the team list all the way to the right and click "Automation" in the list, on the team you wish to enable HR for.</Message>
-	<Message id="HR3">Go over the HR settings and check "Enable HR management" when you are done. The Budget might need to be increased once in a while, so good employees don't seek out new job opportunities.
+Wenn Server verbunden sind, ist einer von ihnen der Hauptserver für die Gruppe und übernimmt die gesamte Verkabelung. Alle Last, die Sie auf eine Servergruppe legen, wird auf jeden Server der Gruppe verteilt. Wenn ein Server in einer Gruppe ausfällt, hört die gesamte Gruppe auf zu arbeiten.</Message>
+	<Message id="SERVER2">Versuchen Sie, den Baumodus zu beenden und öffnen Sie das Serverfenster.</Message>
+	<Message id="SERVER3">Von hier aus können Sie Ihre Server verwalten und überprüfen, ob sie sich überhitzen.
 
-Close the automation window to finish this tutorial.</Message>
-	<Message id="INSURANCE1">Start by opening the insurance window</Message>
-	<Message id="INSURANCE2">You can deposit and withdraw money by using this slider.
+Wenn Sie eine Servergruppe auswählen, wird eine Liste aller Prozesse angezeigt, die auf dieser Servergruppe ausgeführt werden. Sie können diese Prozesse dann auf andere Server umlagern, indem Sie "Neu zuweisen" drücken.</Message>
+	<Message id="SERVER4">Wenn Sie eine Servergruppe vollständig zerstören, werden alle Prozesse nicht mehr unterstützt, was große Folgen haben kann.
+		
+In diesem Fall sollten Sie auf die Schaltfläche "Nicht unterstützte Prozesse anzeigen" klicken und alle Prozesse auf andere Server zuweisen.
 
-Money on your insurance account earns you 5% interest per year (up to a certain amount), so it's a great place to keep money.
+Klicken Sie auf Ende, um das Tutorial zu beenden.</Message>
+	<Message id="STAFF1">Beginnen Sie mit dem Öffnen des Personalfensters.</Message>
+	<Message id="STAFF2">Das ist das Personalfenster. Ganz oben sehen Sie eine Liste Ihres aktuell angestellten Personals, ob permanent oder temporär.</Message>
+	<Message id="STAFF3">Mit den Schaltflächen unter "Permanent:" können Sie permanent Personal anstellen, um Ihre Büros zu reinigen, die Möbel zu reparieren usw. Sie können deren Gehalt sehen, indem Sie über die Schaltflächen fahren. Sie werden einmal am Tag auftauchen, bis Sie sie entlassen.
 
-Withdrawing and depositing money in the insurance account affects your employee's satisfaction based on their age, so be careful when you withdraw money.</Message>
-	<Message id="INSURANCE3">Employees retire, or might die or get sick. When this happens they will receive money from your insurance account, so there is some risk involved in depositing money into this account.
+Über die +/- Tasten in der Liste können Sie deren Arbeitszeiten ändern.</Message>
+	<Message id="STAFF4">Mit den Schaltflächen unter "Temporär:" können Sie Personal vorübergehend einstellen. Sie bleiben, bis ihre Arbeit getan ist oder bis sie entlassen werden. Wenn Sie mit der Maus über die Buttons fahren, sehen Sie ihre Bedingungen.
 
-You can keep up with what payments have been made in this panel.</Message>
-	<Message id="INSURANCE4">This is really all there is to your insurance account. Close the window to end the tutorial</Message>
-	<Message id="MARKETING1">Marketing is crucial in Software Inc. Your products simply won't sell without marketing.
+Drücken Sie "Ende", um das Tutorial zu beenden.</Message>
+	<Message id="STOCKS1">In der oberen rechten Ecke des Firmenfensters sehen Sie eine Liste deren Aktien.
 
-You can start a marketing campaign by opening your release window and clicking the market button on the far right on the list of products.</Message>
-	<Message id="MARKETING2">This is the marketing window. Marketing can be used for unreleased software or released software.
+Die erste Aktie in der Liste ist die eigene Aktie der Firma, die Sie erst kaufen können, wenn Sie alle anderen Aktien in der Liste erworben haben.
 
-You start by picking what media outlets you want to use for your campaign. Using the interwebs is free but won't get as much attention as the rest. You can only reach the entire market using all the media outlets.
+Sie haben zwei Optionen, wenn Sie den Hauptanteil eines Unternehmens erwerben. Sie können sie komplett übernehmen oder eine Tochtergesellschaft Ihres eigenen Unternehmens daraus gründen.
 
-The more media outlets you choose, the more expensive the marketing will be.</Message>
-	<Message id="MARKETING3">Now let's adjust the budget for your marketing campaign. The more money you spend, the greater effect your marketing will have.
+Die Übernahme eines Unternehmens gibt Ihnen ihr geistiges Eigentum (IP) und ihre Patente. Wenn Sie sie zu einer Tochterfirma machen, können sie ihre Patente, Vertriebsplattformen und IP mit Ihnen weiterführen und teilen, aber Sie können jederzeit Geld einzahlen und abheben und sie schließen.
 
-The budget will be deducted from your account every day. The amount deducted depends on how successful the efforts have been that day, if no one works on marketing, you won't spend any money.
+Wenn ein Unternehmen in Konkurs geht, gehen alle Vermögenswerte an den Mehrheitsaktionär.</Message>
+	<Message id="STOCKS2">Wenn Sie Aktien an einer anderen Firma besitzen, zahlt diese jeden Monat Dividende auf deren Überschüsse an Sie, der dem Prozentsatz entspricht, den Sie am Unternehmen besitzen, geteilt durch 24. Sie selbst müssen auch Dividenden an Unternehmen zahlen, die Aktien in Ihrem Unternehmen besitzen, aber es ist ein einfacher Weg, Geld zu leihen.
+		
+Alternativ können Sie eine Aktie kaufen, wenn sie billig ist und sie später teurer verkaufen, indem Sie versuchen vorherzusagen, was das Unternehmen tun wird, auf der Grundlage dessen Vergangenheit.
 
-Press "Start campaign" to start your campaign.</Message>
-	<Message id="MARKETING4">Your new marketing plan will appear as a work item on the right. Remember to assign a team or nothing will get done.
+Links unten sehen Sie, welche Aktien ein Unternehmen besitzt.</Message>
+	<Message id="STOCKS3">In der unteren Mitte des Fensters sehen Sie die Patente der Firma. Wenn Sie Produkte mit einer der aufgeführten Funktionen entwickeln, müssen Sie dieser Firma aus ihrem Gewinn Lizenzgebühren zahlen. Wenn Sie Aktien der Gesellschaft besitzen oder die Gesellschaft eine Tochtergesellschaft ist, fallen keine Lizenzgebühren an.</Message>
+	<Message id="SUPPORT WORK1">Wenn Sie eine neue Software veröffentlichen, wird eine Support-Aufgabe erzeugt. Über diese Aufgabe erhalten Sie Supportanfragen von Ihren Kunden, vorausgesetzt, Sie haben welche.
+		
+Supportanfragen sollten so schnell wie möglich beantwortet werden. Mitarbeiter mit guten Programmierkenntnissen sind in der Lage, bestimmte Fehler schnell zu verifizieren, wenn Anfragen beantwortet werden.
 
-The work item will fill up as the day's marketing potential is being reached, which tells you how much of the budget has been used today.
+Der Support für ein Produkt endet nie von selbst, also müssen Sie ihn beenden, wenn Sie denken, dass Support nicht mehr nötig ist. Behalten Sie die Anzahl der aktiven Benutzer im Auge, um bei dieser Entscheidung zu helfen.</Message>
+	<Message id="WELCOME1">Willkommen bei Software Inc.
 
-Press "End" to end the tutorial.</Message>
-	<Message id="PROJECT MANAGEMENT1">To enable project management open the team window</Message>
-	<Message id="PROJECT MANAGEMENT2">With the team window open, scroll the team list all the way to the right and click "Automation" in the list, on the team you wish to enable project management for.</Message>
-	<Message id="PROJECT MANAGEMENT3">Go over the software settings and check "Enable project management" when you are done.
+Sie können dieses Fenster nach woanders verschieben, wenn es im Weg ist, indem Sie die Titelleiste anklicken und gedrückt halten.
 
-If you don't select any teams for the various tasks, all tasks will be delegated to the current team, which will result in employee fatigue. The design phase is always delegated to the current team, so you should have designers ready.
+Drücken Sie Weiter, um das Tutorial fortzusetzen.</Message>
+	<Message id="WELCOME2">Sie können die Kamera mit den WASD-Tasten verschieben, indem Sie die rechte Maustaste gedrückt halten und die Maus ziehen, oder indem Sie die Maus an die Ränder des Bildschirms bewegen (wenn im Optionsmenü das Randverschieben aktiviert ist).
 
-Close the automation window to finish this tutorial.</Message>
-	<Message id="RESEARCH1">Start the tutorial by pressing the "Research" button to bring up the design document.</Message>
-	<Message id="RESEARCH2">If there is any available research you will see a list of software in this panel. You can click on a software type to see which features are available for research.
+Sie können die Kamera drehen, indem Sie die mittlere Maustaste gedrückt halten und die Maus bewegen oder die Pfeiltasten benutzen.
 
-Press continue to advance.</Message>
-	<Message id="RESEARCH3">This is a list of researchable features for the selected software type. You can see which features have already been researched and which are currently patented. Features will appear as they unlock through the years.
+Sie können mit dem Scrollrad oder den Plus- und Minustasten auf Ihrer Tastatur herein- und herauszoomen.</Message>
+	<Message id="WELCOME3">Die Tasten können im Optionsmenü konfiguriert werden, wenn Sie es mit Escape oder dem Button in der unteren rechten Ecke öffnen und dann auf "Optionen" klicken.</Message>
+	<Message id="WELCOME4">Oben finden Sie Ihren aktuellen Kontostand.</Message>
+	<Message id="WELCOME5">Hier oben zeigen die Sterne den Ruf der Firma in der Geschäftswelt und die Zahl darunter ist Ihre Anzahl an Fans. Sie können mit der Maus über die Werte fahren, um Details über ihre Bedeutung zu erhalten.
 
-To research a feature, select it, click Research and pick the teams you want to conduct the research.</Message>
-	<Message id="RESEARCH4">When you have researched a feature, all companies who use it in a product will have to pay royalties to you, based on how much the software sells.
+Sie können mit dem Mauszeiger über die Leiste fahren, um Ihre Marktakzeptanz in jedem Softwaremarkt zu sehen. Um mehr Produkte in jeder Softwarekategorie verkaufen zu können, müssen Sie auf dem Markt Anerkennung erlangen, indem Sie gute Produkte herstellen und vermarkten.</Message>
+	<Message id="WELCOME6">Hier sehen Sie, wie viel Geld in Ihr Unternehmen ein- und ausgegangen ist.
 
-Note that other companies might swoop in and steal the patent before you finish researching it and that patents eventually expire.</Message>
-	<Message id="SERVER1">Open the server wiring interface by clicking the wire button.
+Da heute Ihr erster Tag ist, zeigt sich noch nichts. Wenn Sie hier klicken, öffnet sich ein Fenster mit einer Übersicht über Ihre Finanzen.</Message>
+	<Message id="WELCOME7">Mit diesen Tasten oder 0,1,2,3 auf der Tastatur, die auch im Optionsmenü konfiguriert werden können, steuern Sie die Spielgeschwindigkeit.</Message>
+	<Message id="WELCOME8">Wichtige Benachrichtigungen erscheinen links oben. Sie können die Meldungsleiste nach unten ziehen, um alte Meldungen anzuzeigen.
 
-In this mode you can connect or disconnect servers by clicking on a server and then on another server.
+Einige Benachrichtigungen können angeklickt werden, um Details zu sehen. Sie können Benachrichtigungen mit der rechten Maustaste anklicken, um sie zu löschen.</Message>
+	<Message id="WELCOME9">Alle Ihre Steuerelemente und Fenster sind hier unten links.</Message>
+	<Message id="WELCOME10">Denken Sie daran: Sie können jedes Tutorial jederzeit über das Optionsmenü neu starten.
 
-When servers are connected, one of them will be the main server for the group and will handle all wiring, all load you put on a server group will be distributed among every server in the group.</Message>
-	<Message id="SERVER2">Try exiting build mode and open the server window.</Message>
-	<Message id="SERVER3">From here you can manage your servers and check if they are overheating.
-
-If you select a server group, you can see a list of all processes running on that server group. You can then redelegate those processes to other servers by pressing "Redelegate selected".</Message>
-	<Message id="SERVER4">If you destroy a server group completely all processes will be unsupported, which can have major consequences.
-If this happens you should click the "View unsupported processes" button and redelegate all processes to other servers.
-
-Press End to finish the tutorial.</Message>
-	<Message id="STAFF1">Begin by opening the staff window.</Message>
-	<Message id="STAFF2">This is the staff window. At the top you will see a list of your currently employed staff, whether permanent or temporary.</Message>
-	<Message id="STAFF3">With the buttons under "Permanent:" you can hire staff permanently to clean, fix your furniture, etc. You can see their salary by hovering over the buttons. They will show up once a day until you dismiss them.
-
-You can change their working hours using the buttons in the list.</Message>
-	<Message id="STAFF4">With the buttons under "Temporary:" you can hire staff temporarily. They will stay untill their job is done or until you dismiss them. Hovering over the buttons will show you their terms.
-
-Press "End" to end the tutorial.</Message>
-	<Message id="STOCKS1">In the upper right corner of the company window, you will see a list of stocks.
-
-The first stock in the list is the company's own share, which you can buy if you have bought all other stocks in the list. Buying out a company will give you their IP and their patents.
-
-When a company goes bankrupt, all its assets will go to the majority shareholder.</Message>
-	<Message id="STOCKS2">When you own stock in another company, that company will pay dividends to you each month, which is the percentage you own in the company of their surplus for that month, divided by 24. You will also have to pay dividends to companies that own stock in your company, but it is an easy way to loan money.
-
-Alternatively, you can buy the stock when it is cheap and sell it high, by trying to predict how the company will do, based on its history.</Message>
-	<Message id="STOCKS3">In the bottom middle of the window you can see the companies patents. If you develop products with any of the feature listed, you will have to pay royalties to this company out of its profit. If you own stocks in the company, you do not have to pay royalites.</Message>
-	<Message id="SUPPORT WORK1">When you release a new piece of software it will spawn a support work item. This work item will continually generate bugs that need to be fixed.
-
-Make sure to quickly assign a team to this work item or it will affect your company's reputation.</Message>
-	<Message id="SUPPORT WORK2">The work item will fill up as bugs are fixed, the blue line represents how many bugs have been reported so far. When the item is filled, the work is over and your software is bug free... In theory.</Message>
-	<Message id="WELCOME1">Welcome to Software Inc.
-
-You can drag this window somewhere else if it is in the way, by clicking and holding the titlebar.
-
-Press Continue to advance the tutorial.</Message>
-	<Message id="WELCOME2">You can move the camera with the WASD keys or by moving your mouse to the edges of the screen (if edge scrolling is enabled in the options menu).
-
-You can rotate the camera by holding the middle mouse button and moving the mouse or using the arrow keys.
-
-You can zoom in and out by using the scroll wheel or the plus and minus keys on your keypad.</Message>
-	<Message id="WELCOME3">The keys can be configured in the options menu, which you can open by pressing Escape or pressing the button in the lower right corner and click "Options".</Message>
-	<Message id="WELCOME4">In the top you can find your current bank balance.</Message>
-	<Message id="WELCOME5">Up here, the stars show your business reputation and the number is your fan count.
-
-You can hover over the bar to see your market recognition in each software market. To sell more products in each software category, you need to gain market recognition by making good products and marketing them.</Message>
-	<Message id="WELCOME6">Here you can see how much money is moving in and out of your company.
-
-Since this is your first day, nothing is showing. If you click here, a window with an overview of your bank flow will open.</Message>
-	<Message id="WELCOME7">You can control how fast time moves by using these buttons or 0, 1, 2, 3 on your keyboard, which can also be configured in the options menu.</Message>
-	<Message id="WELCOME8">Important notifications will appear in the top left. You can drag the notification bar down to see old notifications.
-
-Some notifications can be clicked to move the camera to the subject. You can right click notifications to delete them.</Message>
-	<Message id="WELCOME9">All your controls and windows are here, in the bottom left corner.</Message>
-	<Message id="WELCOME10">Remember: You can always restart any tutorial from the options menu.
-
-When you are ready, begin building your office by entering "Build mode".</Message>
+Wenn Sie fertig sind, beginnen Sie mit dem Aufbau Ihres Büros, indem Sie den "Bau-Modus"aufrufen.</Message>
 </Tutorial>
