@@ -95,7 +95,7 @@
 	<Item Name="SoftwareConclusionSales0">Es werden definitiv Kopien über die Theke wandern</Item>
 	<Item Name="SoftwareConclusionSales1">Es wird sehr wahrscheinlich populär werden</Item>
 	<Item Name="SoftwareConclusionSales2">Wir erwarten nicht, dass es sich sehr gut verkaufen wird</Item>
-	<Item Name="SoftwareConclusionSales3">Es wird wahrscheinlich nicht viele Exemplare absetzen</Item>
+	<Item name="SoftwareConclusionSales3">Es wird wahrscheinlich nicht viele Exemplare absetzen</Item>
 	<Item Name="SoftwareConclusionSaleRep0">. Sie müssen sich auf diesem Markt noch einen Namen machen</Item>
 	<Item Name="SoftwareConclusionSaleRep1">. Sie müssen sich auf diesem Markt eine Fanbase aufbauen</Item>
 	<Item Name="SoftwareConclusionSaleRepHope0"> und hoffentlich wird dieses Release helfen</Item>
@@ -136,7 +136,7 @@
 	<Item Name="PressBuildBodyFollowers0">Wir haben noch nicht wirklich von {0} gehört</Item>
 	<Item Name="PressBuildBodyFollowers1">Wir haben ein paar Gerüchte über {0} gehört</Item>
 	<Item Name="PressBuildBodyFollowers2">Einige Leute erwarten {0} schon</Item>
-	<Item Name="PressBuildBodyFollowers3">{0} hat ziemlich viele Follower angesammelt</Item>
+	<Item Name="PressBuildBodyFollowers3">{0} hat ziemlich viele Anhänger angesammelt</Item>
 	<Item Name="PressBuildBodyFollowers4">Jeder weiß zu diesem Zeitpunkt von {0}</Item>
 	<Item Name="PressBuildBodyReleaseDate0">Hat kein Veröffentlichungsdatum</Item>
 	<Item Name="PressBuildBodyReleaseDate1">Kein Wort darüber, wann sie es veröffentlichen</Item>
