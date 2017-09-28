@@ -768,7 +768,7 @@ Rechtsklick um abzubrechen.</Item>
 	<Item Name="Traits">Merkmale</Item>
 	<Item Name="Design">Design</Item>
 	<Item Name="Code">Code</Item>
-	<Item Name="Art">Kunst</Item>
+	<Item Name="Art">Grafik</Item>
 	<Item Name="Base skill">Basisfähigkeit</Item>
 	<Item Name="Lead">Leitung</Item>
 	<Item Name="Leader">Leiter</Item>
@@ -1600,7 +1600,7 @@ Möchten Sie dies wirklich tun?</Item>
 		<Item Name="OtherTeams">Andere Teams</Item>
 		<Item Name="OwnOffice">Eigenes Büro</Item>
 		<Item Name="linesofcode">{0} Zeilen Code</Item>
-		<Item Name="MBArt">{0} Kunst</Item>
+		<Item Name="MBArt">{0} Grafik</Item>
 		<Item Name="Refunds">Rückerstattungen</Item>
 		<Item Name="Bias">Neigung</Item>
 		<Item Name="PositivePostfixBias">{0} positive Neigung</Item>
@@ -1870,7 +1870,7 @@ Wollen Sie fortfahren?</Item>
 		<Item Name="TimeDiffNotLeft">{0} überfällig</Item>
 		<Item Name="Expected quality">Erwartete Qualität</Item>
 		<Item Name="Lines of code">Codezeilen</Item>
-		<Item Name="Art amount">Kunstmenge</Item>
+		<Item Name="Art amount">Grafikmenge</Item>
 		<Item Name="Cancelled">Abgebrochen</Item>
 		<Item Name="Inadequate">Unzureichend</Item>
 		<Item Name="Satisfactory">Befriedigend</Item>
@@ -1941,7 +1941,7 @@ Die Zeit bis zum Erscheinen zu verlängern kann dafür sorgen, daß Leute anfang
 	</Alpha9.7>
 	<Alpha9.8>
 		<Item Name="Code units">Code-Einheiten</Item>
-		<Item Name="Art units">Kunst-Einheiten</Item>
+		<Item Name="Art units">Grafik-Einheiten</Item>
 		<Item Name="EstUnits">Geschätzt {0} Einheiten</Item>
 		<Item Name="OSMockConfirm">Ihr Produkt verwendet Betriebssysteme, die immer noch in Entwicklung sind. Sie können das Produkt nicht veröffentlichen, bevor diese nicht auch veröffentlicht sind.
 Wollen Sie wirklich fortfahren?</Item>

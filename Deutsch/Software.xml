@@ -284,7 +284,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 	</Software>
 	<Software Name="Game">
 		<Name>Spiel</Name>
-		<Description>Interaktive Kunst</Description>
+		<Description>Interaktive Grafik</Description>
 		<Features>
 			<Feature Name="Text-based">
 				<Name>Text-basiert</Name>
@@ -611,7 +611,7 @@ Die meiste Software benötigt ein Betriebssystem für die Ausführung. Wenn die 
 		<Description></Description>
 		<Features>
 			<Feature Name="2D art">
-				<Name>2D Kunst</Name>
+				<Name>2D Grafik</Name>
 			</Feature>
 			<Feature Name="User interface graphics">
 				<Name>Benutzeroberflächen-Grafiken</Name>

@@ -8,13 +8,13 @@ Die Umsetzungsphase gliedert sich in drei Phasen:
 2. "Verzögerung", je nachdem, wie kompetent Ihre Mitarbeiter sind, kann es während der Alpha-Phase zu unerwarteten Problemen kommen, die vor der nächsten Phase geklärt werden müssen.
 
 3. "Beta", in der Fehler von den Programmierern entdeckt und hoffentlich vor der endgültigen Veröffentlichung behoben werden.</Message>
-	<Message id="ALPHA WORK2">Abhängig davon, ob Ihre Software Code und Kunst benötigt, werden sich "Code" und "Kunst" Einheiten erhöhen. Diese sagen Ihnen ungefähr, wie viel Arbeit erledigt wurde. Je größer die Zahlen sind, desto näher ist das Produkt an der Fertigstellung.
+	<Message id="ALPHA WORK2">Abhängig davon, ob Ihre Software Code und Grafiken benötigt, werden sich "Code" und "Grafik" Einheiten erhöhen. Diese sagen Ihnen ungefähr, wie viel Arbeit erledigt wurde. Je größer die Zahlen sind, desto näher ist das Produkt an der Fertigstellung.
 
-Diese Zahlen sagen aber nichts über die eigentliche Qualität des Codes und der Kunst aus. Um eine Vorstellung davon zu bekommen, wie gut die Arbeit Ihrer Mitarbeiter ist, müssen Sie eine Peer-Überprüfung machen, indem Sie den Überprüfen-Knopf drücken und ein Team auswählen.</Message>
+Diese Zahlen sagen aber nichts über die eigentliche Qualität des Codes und der Grafik aus. Um eine Vorstellung davon zu bekommen, wie gut die Arbeit Ihrer Mitarbeiter ist, müssen Sie eine Peer-Überprüfung machen, indem Sie den Überprüfen-Knopf drücken und ein Team auswählen.</Message>
 	<Message id="ALPHA WORK3">Wenn Ihr Produkt einige Bewertungen erhalten hat, drücken Sie die Beenden-Taste, um die Ergebnisse zu sehen. Beachten Sie, dass die Überprüfung auf dem Produkt basiert, wie es zu Beginn der Überprüfung war, so dass alle Arbeiten, die in der Zwischenzeit ausgeführt wurden, nicht gezählt werden.</Message>
 	<Message id="ALPHA WORK4">Die Endnote wird höher oder niedriger sein als die tatsächliche Qualität, basierend darauf, wer sie überprüft hat. Das Team, das die Software entwickelt hat, wird wahrscheinlich sagen, dass es besser ist, als es tatsächlich ist.
 
-Sie können durch die Überprüfung scrollen, um zu sehen, wie die Prüfer verschiedene Aspekte Ihrer Software bewertet haben. Die Qualität der Kunst und des Codes kann je nach Entwicklung variieren, basierend auf den Fähigkeiten Ihrer Mitarbeiter, und hängt nicht davon ab, wie viel Arbeit geleistet wurde.</Message>
+Sie können durch die Überprüfung scrollen, um zu sehen, wie die Prüfer verschiedene Aspekte Ihrer Software bewertet haben. Die Qualität der Grafik und des Codes kann je nach Entwicklung variieren, basierend auf den Fähigkeiten Ihrer Mitarbeiter, und hängt nicht davon ab, wie viel Arbeit geleistet wurde.</Message>
 	<Message id="ALPHA WORK5">Stellen Sie sicher, dass Sie auch während der Entwicklung eine Pressemitteilung machen.
 
 Während der Entwicklung haben Sie auch die Möglichkeit, eine Pressenversion zu versenden, damit die Presse Ihre Software testen kann. Presseversionen erfordern keine Arbeit von Ihrer Seite, aber stellen Sie sicher, dass Sie gute Bewertungen in Ihren Peer-Überprüfungen und einige Anhänger haben, bevor Sie eine versenden.</Message>
@@ -85,7 +85,7 @@ Jetzt verlassen wir den Baumodus.</Message>
 	<Message id="CONTRACTS1">Öffnen Sie zunächst das Vertragsfenster.</Message>
 	<Message id="CONTRACTS2">Dies ist eine Liste der verfügbaren Verträge. Neue Verträge kommen hinzu, wenn ältere abgeschlossen sind.
 
-Verträge haben eine Vorauszahlung, die Sie für die Annahme der Arbeit erhalten, und eine größere Zahlung für die Fertigstellung. Sie schließen einen Vertrag ab, indem Sie die gewünschten Code- und Kunst-Einheiten umsetzen.
+Verträge haben eine Vorauszahlung, die Sie für die Annahme der Arbeit erhalten, und eine größere Zahlung für die Fertigstellung. Sie schließen einen Vertrag ab, indem Sie die gewünschten Code- und Grafik-Einheiten umsetzen.
 
 Wählen Sie jetzt einen Vertrag in der Liste aus.</Message>
 	<Message id="CONTRACTS3">Die endgültige Auszahlung wird reduziert, wenn der Vertrag garnicht oder nicht fristgerecht erfüllt wird, sowie für nicht behobene Fehler.
@@ -96,7 +96,7 @@ Durchsuchen Sie jetzt die Verträge und akzeptieren Sie einen, der einige Code-E
 	<Message id="CONTRACTS4">Solange ein Mitarbeiter noch nicht mit der Arbeit am Vertrag begonnen hat, wird die Frist nicht heruntergezählt.
 
 Während der Designphase reduzieren Ihre Mitarbeiter Fehler und erhöhen die Qualität des Endproduktes. Vergewissern Sie sich, dass Sie Ihr Design abschließen, sobald der Fortschrittsbalken das Ende erreicht, um ein Über-Design zu vermeiden.</Message>
-	<Message id="CONTRACTS5">Wenn Code und Kunst-Einheiten (falls vorhanden) den Zielwert des Kunden erreicht haben, können Sie den Vertrag abschließen, oder weiter daran arbeiten, wenn Sie ein besseres Produkt liefern möchten.
+	<Message id="CONTRACTS5">Wenn Code und Grafik-Einheiten (falls vorhanden) den Zielwert des Kunden erreicht haben, können Sie den Vertrag abschließen, oder weiter daran arbeiten, wenn Sie ein besseres Produkt liefern möchten.
 
 Stellen Sie sicher, dass Sie eine Prüfung durch den Kunden durchführen, bevor Sie zur Fehlerbehebungsstufe übergehen, um sicherzustellen, dass es den Qualitätserwartungen entspricht.</Message>
 	<Message id="CONTRACTS6">Wenn Sie fertig sind, gehen Sie zur Fehlerbehebungsstufe über.
