@@ -1941,6 +1941,7 @@ Die Zeit bis zum Erscheinen zu verlängern kann dafür sorgen, daß Leute anfang
 	</Alpha9.7>
 	<Alpha9.8>
 		<Item Name="Code units">Code-Einheiten</Item>
+		<Item Name="Art units">Kreativ-Einheiten</Item>
 		<Item Name="EstUnits">Geschätzt {0} Einheiten</Item>
 		<Item Name="OSMockConfirm">Ihr Produkt verwendet Betriebssysteme, die immer noch in Entwicklung sind. Sie können das Produkt nicht veröffentlichen, bevor diese nicht auch veröffentlicht sind.
 Wollen Sie wirklich fortfahren?</Item>
