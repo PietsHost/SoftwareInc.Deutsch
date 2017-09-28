@@ -308,7 +308,7 @@
 		<Item Name="Interest">Zinsen</Item>
 		<Item Name="Period">Zeit</Item>
 		<Item Name="Current loans">Aktuelle Kredite</Item>
-		<Item Name="Take loan">Kredit nehmen</Item>
+		<Item Name="Take loan">Kredit aufnehmen</Item>
 	</LoanWindow>
 	<InsuranceWindow>
 		<Item Name="Deposit">Einzahlen</Item>
@@ -644,10 +644,10 @@ Möchten Sie ein Darlehen bei der Bank in Höhe von {1} beantragen, um den Bankr
 		<Item Name="ActionSend home">Mitarbeiter nach Hause schicken</Item>
 		<Item Name="ActionFurniture color">Möbelfarbe</Item>
 		<Item Name="ActionTypes in Room">Möbel Typ im ausgewählten Raum auswählen</Item>
-		<Item Name="ActionDetails">Mitarbeiterdetails</Item>
+		<Item Name="ActionDetails">Details des Mitarbeiters</Item>
 		<Item Name="ActionChange Salary">Mitarbeiter Gehalt ändern</Item>
 		<Item Name="ActionSelect Team">Gesamtes Team auswählen</Item>
-		<Item Name="ActionSelect Owned">Mitarbeiter zugeordnete Möbel auswählen</Item>
+		<Item Name="ActionSelect Owned">Mitarbeitern zugeordnete Möbel auswählen</Item>
 		<Item Name="ActionSelect Staff">Mitarbeiter im Raum auswählen</Item>
 		<Item Name="ActionUnpair">Möbelzuweisung entfernen</Item>
 		<Item Name="ActionPair Use">Möbel an Mitarbeiter zuweisen</Item>
@@ -877,7 +877,7 @@ Rechtsklick um abzubrechen.</Item>
 	<Alpha4.5>
 		<Item Name="Month">Monat</Item>
 		<Item Name="Year">Jahr</Item>
-		<Item Name="PresimLoadMsg">Simuliert Markt...</Item>
+		<Item Name="PresimLoadMsg">Simuliere Markt...</Item>
 		<Item Name="VacationNotify">{0} Mitarbeiter ab jetzt im Urlaub.</Item>
 		<Item Name="RetireNotify">{0} ist in den Ruhestand gegangen.</Item>
 		<Item Name="SickNotify">{0} hat sich krank gemeldet.</Item>
@@ -1020,7 +1020,7 @@ Der Durchschnittswert {0} erhöht sich auf {1} pro Monat</Item>
 		<Item Name="VacationEventMsg2">Keine Gruppe hat nächsten Monat Urlaub geplant. {0} Mitarbeiter haben noch Urlaub.</Item>
 		<Item Name="ReleaseEventMsg">{0} plant nächsten Monat ein Produkt vom Typ {1} Namens "{2}" zu veröffentlichen.</Item>
 		<Item Name="ExceptionNotificationTip">Es ist ein Fehler aufgetreten!</Item>
-		<Item Name="ExceptionNotificationTip2">Klicke hier für Details</Item>
+		<Item Name="ExceptionNotificationTip2">Klicken Sie hier für Details</Item>
 		<Item Name="ExceptionNotificationMsg">Es tut mir Leid Ihnen mitzuteilen das ein Fehler aufgetreten ist, was dazu führen könnte, dass das Spiel unterbrochen oder instabil läuft (Early access).
 Zur Sicherheit speichere deinen aktuellen Spielstand und starte das Spiel neu, um Datenverlust zu vermeiden.
 Hast Du eine Idee, was passiert sein könnte basierend auf der Fehlermeldung (Klicken Sie auf "Fehler anzeigen" zur Überprüfung), ich wäre Ihnen sehr dankbar, wenn Sie mir eine Beschreibung des Fehlers per Email an SoftwareInc@CoreDumping.com senden könnten, damit ich diesen beheben kann.
@@ -1238,9 +1238,9 @@ Kategorie: {2}</Item>
 		<Item Name="FCKeys">Tasten</Item>
 		<Item Name="FCShelf">Regal</Item>
 		<Item Name="FCSeat">Sitz</Item>
-		<Item Name="FCSupport">Support</Item>
+		<Item Name="FCSupport">Fuß</Item>
 		<Item Name="FCHologram">Hologramm</Item>
-		<Item Name="FCBack">Zurück</Item>
+		<Item Name="FCBack">Rücken</Item>
 	</FurnitureColorNames>
 	<Alpha7.6>
 		<Item Name="Minigame">Minigame</Item>
@@ -1786,7 +1786,7 @@ Im Fenster "Ihre Software" können Sie immer neue Kopien drucken.</Item>
 	<Alpha9.2>
 		<Item Name="Overall score">Gesamtpunktzahl</Item>
 		<Item Name="Review accuracy">Review Genauigkeit</Item>
-		<Item Name="Printing">druckt</Item>
+		<Item Name="Printing">drucken</Item>
 		<Item Name="AskPrintingOption">Fragen über Druck zum Release</Item>
 		<Item Name="SteamWorkshopNotePrompt">Bitte schreiben Sie kurz, was sich geändert hat</Item>
 		<Item Name="Change notes">Changelog</Item>
@@ -1848,7 +1848,7 @@ Sie haben {1}, um das Produkt zu veröffentlichen</Item>
 		<Item Name="Store cut">Store cut</Item>
 		<Item Name="Hosting">Hosting</Item>
 		<Item Name="IntellectualPropertyAbbr">IP</Item>
-		<Item Name="On call">On call</Item>
+		<Item Name="On call">Auf Abruf</Item>
 		<Item Name="Unlimited">Unbegrenzt</Item>
 		<Item Name="Limit">Limit</Item>
 		<Item Name="Maximum copies">Maximale Kopien</Item>
