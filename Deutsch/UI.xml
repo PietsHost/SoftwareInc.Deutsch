@@ -1545,7 +1545,7 @@ Error:</Item>
 		<Item Name="TryLaterConfirm">Ihr Bericht wurde gespeichert und wird beim nächsten Spielstart erneut versucht, zu versenden</Item>
 		<Item Name="ReportDelayError">Sie können einen Bericht nur einmal alle 5 Minuten verschicken</Item>
 		<Item Name="Report">Bericht</Item>
-		<Item Name="ScreenshotDev">Report screenshot</Item>
+		<Item Name="ScreenshotDev">Screenshot melden</Item>
 		<Item Name="SaveGameFail2">Failed saving game. The game will continue, but you might experience weird behavior or loss of data.
 The error has been logged. Do you wish to additionally send an error report to the developer?
 Sorry for the inconvenience.</Item>
@@ -1941,7 +1941,6 @@ Die Zeit bis zum Erscheinen zu verlängern kann dafür sorgen, daß Leute anfang
 	</Alpha9.7>
 	<Alpha9.8>
 		<Item Name="Code units">Code-Einheiten</Item>
-		<Item Name="Art units">Grafik-Einheiten</Item>
 		<Item Name="EstUnits">Geschätzt {0} Einheiten</Item>
 		<Item Name="OSMockConfirm">Ihr Produkt verwendet Betriebssysteme, die immer noch in Entwicklung sind. Sie können das Produkt nicht veröffentlichen, bevor diese nicht auch veröffentlicht sind.
 Wollen Sie wirklich fortfahren?</Item>
